@@ -3,14 +3,14 @@
 {|width="100%"
 |valign=top|[[File:Flag of Mon State (2018).svg|150px]]
 |style="width:100%; text-align:center; vertical-align:top;"|<div style="font-size:110%;>Welcome to the Mon Wikipedia!<br />
-နူကဵုမုက် ဝဳကဳပဳဒဳယာမန်ဏအ် ဒုင်တၠုင်ဏာ ဇၟာပ်ညးအဲ ရအဴ။<br/>"'''အနာဂတ်ဂှ် နွံပ္ဍဲတဲ ညးမခၞံဗဒှ်တအ်'''" ဒုင်သဇိုင် ကုလညာတ်ဝွံတုဲ သွက်အနာဂတ် ဂကူမန် ဂွံကျေဝ် ဂွံခိုဟ် ဂွံသၠုင် ညးညးအဲအဲ ပြာပ်ကၠုင် ခၞံဗဒှ် ပဠေဝ်ဒါန် ချူပတိုန် လိက်ပရေင်၊ ဝတ္ထု၊ ကဗျ၊ ပရူပရာနာနာသာ် သွက်[[|Wp/mnw/ဘာသာမန်|ဘာသာမန်]] ညိအဴ။<br>
+နူကဵုမုက် ဝဳကဳပဳဒဳယာမန်ဏအ် ဒုင်တၠုင်ဏာ ဇၟာပ်ညးအဲ ရအဴ။<br/>"'''အနာဂတ်ဂှ် နွံပ္ဍဲတဲ ညးမခၞံဗဒှ်တအ်'''" ဒုင်သဇိုင် ကုလညာတ်ဝွံတုဲ သွက်အနာဂတ် ဂကူမန် ဂွံကျေဝ် ဂွံခိုဟ် ဂွံသၠုင် ညးညးအဲအဲ ပြာပ်ကၠုင် ခၞံဗဒှ် ပဠေဝ်ဒါန် ချူပတိုန် လိက်ပရေင်၊ ဝတ္ထု၊ ကဗျ၊ ပရူပရာနာနာသာ် သွက်[[|ဘာသာမန်|ဘာသာမန်]] ညိအဴ။<br>
 လိက်ပရေင် ပရူပရာ နူကဵု မုက်လိက် ဝဳကဳပဳဒဳယာ နကဵု ဘာသာဇကု မကၠိုဟ် မပ္တံကဵု [[:en:Main_Page|ဘာသာအင်္ဂလိက်]]၊ [[:th:หน้าหลัก|ဘာသာသေံ]]၊ [[:my:ဗဟိုစာမျက်နှာ|ဘာသာဗၟာ]]တအ်ဂှ်လေဝ် ကၠာဲစၠောအ် ဘာသာမန်တုဲ ချူပတိုန်မာန်ရ၊၊.
 </div>
 <br/><inputbox>
 type=create
 width=40
 break=yes
-default=Wp/mnw/
+default=
 buttonlabel= ခၞံဗဒှ် လိက်ပရေင်တၟိ
 searchbuttonlabel= လိက်ပရေင်တၟိ
 </inputbox>
@@ -24,31 +24,31 @@ searchbuttonlabel= လိက်ပရေင်တၟိ
 <div style="font-size:100%; border:none; margin:0; padding:.1em; color:#000;">
 <div style="font-size:170%;line-height:170%;">'''[[ဝဳကဳပဳဒဳယာ|ဝဳကဳပဳဒဳယာ]]'''ဒုင်တၠုင်ရအဴ</div></div>
 <div style="top:+0.2em; font-size:95%;">ပြကိုဟ်ဗိသ္တာ မသက္ကုၚုဟ်မး</div>
-<div id="articlecount" style="width:100%; text-align:center; font-size:95%;">ပရောပရာဖအိုတ် <span style="font-size:120%">'''{{Wp/mnw/NUMBEROFARTICLES}}'''</span>ဂှ် နကဵု ဘာသာမန် ဂွံဗှ်ကေတ်မာန်ရ။</div>
+<div id="articlecount" style="width:100%; text-align:center; font-size:95%;">ပရောပရာဖအိုတ် <span style="font-size:120%">'''{{NUMBEROFARTICLES}}'''</span>ဂှ် နကဵု ဘာသာမန် ဂွံဗှ်ကေတ်မာန်ရ။</div>
 |}
 
 <!--        PORTAL LIST ON RIGHT-HAND SIDE        -->
 |style="width:10%;font-size:90%"|
-* [[:Wp/mnw/Portal:Wp/mnw/ပါန်ကွတ်|ပါန်ကွတ်]]
-* [[:Wp/mnw/Portal:Wp/mnw/အတ္ထုပ္ပတ္တိ|အတ္ထုပ္ပတ္တိ]]
-* [[:Wp/mnw/Portal:Wp/mnw/ဝင်ပထဝဳ|ပထဝဳဝင်]]
+* [[:Portal:ပါန်ကွတ်|ပါန်ကွတ်]]
+* [[:Portal:အတ္ထုပ္ပတ္တိ|အတ္ထုပ္ပတ္တိ]]
+* [[:Portal:ဝင်ပထဝဳ|ပထဝဳဝင်]]
 |style="width:10%;font-size:90%"|
-* [[:Wp/mnw/Portal:Wp/mnw/ဝၚ်|ဝင်]]
-* [[:Wp/mnw/Portal:Wp/mnw/သင်္ချာ|သင်္ချာ]]
-* [[:Wp/mnw/Portal:Wp/mnw/သိပ္ပံ|သိပ္ပံ]]
+* [[:Portal:ဝၚ်|ဝင်]]
+* [[:Portal:သင်္ချာ|သင်္ချာ]]
+* [[:Portal:သိပ္ပံ|သိပ္ပံ]]
 
 |style="width:10%;font-size:90%"|
-* [[:Wp/mnw/Portal:Wp/mnw/ဂကောံမၞိဟ်|ဂကောံမၞိဟ်]]
-* [[:Category:Wp/mnw/နယ်ပညာ|နယ်ပညာ]]
-* [[:Wp/mnw/Portal:Wp/mnw/လိက်ပတ်မန်|လိက်ပတ်မန်]]
+* [[:Portal:ဂကောံမၞိဟ်|ဂကောံမၞိဟ်]]
+* [[:Category:နယ်ပညာ|နယ်ပညာ]]
+* [[:Portal:လိက်ပတ်မန်|လိက်ပတ်မန်]]
 |style="width:10%;font-size:90%"|
-* [[:Wp/mnw/Portal:Wp/mnw/ပရေင်ထတ်ယုက်|ထတ်ယုက်]]
-* [[:Wp/mnw/Portal:Wp/mnw/ပရေင်ဘာသာ|ပရေင်ဘာသာ]]
+* [[:Portal:ပရေင်ထတ်ယုက်|ထတ်ယုက်]]
+* [[:Portal:ပရေင်ဘာသာ|ပရေင်ဘာသာ]]
 * ပါင်မုက်ဖအိုတ်
 |}
 <!--        INDEX LIST        -->
 {| style="margin: 2px 0 0 0; width: 100%;"
-| style="margin-top:2px;width:100%;border:1px solid #cef2e0; background-color: #f5fffa; vertical-align: top; -moz-border-radius:10px; -webkit-border-radius: 3px;" |<center>{{Wp/mnw/Index}}</center>
+| style="margin-top:2px;width:100%;border:1px solid #cef2e0; background-color: #f5fffa; vertical-align: top; -moz-border-radius:10px; -webkit-border-radius: 3px;" |<center>{{Index}}</center>
 
 {|style="margin:0;background:transparent"
 |-
@@ -59,13 +59,13 @@ searchbuttonlabel= လိက်ပရေင်တၟိ
 <div style="margin:0;border:1px solid #cef2e0;border:1px solid #a3bfb1;background:#cef2e0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;text-align:left">[[File:Featured Article Star.svg|25px]] ပရောတၟေင် တ္ၚဲဏအ်</div>
 |-
 <!-----TO BE TEMPLATED -- Featured article section----->
-|<div  id="mf-tfp" style="padding:2px 5px">{{Wp/mnw/Featuredarticle}}</div>
+|<div  id="mf-tfp" style="padding:2px 5px">{{Featuredarticle}}</div>
 |-
 !<div style="margin:0;border:1px solid #a3bfb1;background:#cef2e0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;text-align:left">[[File:Emblem-pictures.svg|25px]]ဗီုတၟေင် တ္ၚဲဏအ်</div>
 |-
 
 <!-----TO BE TEMPLATED -- Photo of the day section------>
-|<div  id="mf-tfp" align="center" title="ဗီုတၟေင် တ္ၚဲဏအ်">{{Wp/mnw/POTD/selection}}</div>
+|<div  id="mf-tfp" align="center" title="ဗီုတၟေင် တ္ၚဲဏအ်">{{POTD/selection}}</div>
 |-
 |}
 |style="border:1px solid transparent"|
@@ -81,7 +81,7 @@ searchbuttonlabel= လိက်ပရေင်တၟိ
 
 ဝဳကဳပဳဒဳယာဂှ် ပံင်ပ္ကောံချူလဝ် နကဵု ညးလွပ် မရပ်စပ်သုင်စောဲ တအ်တုဲ ခၞံဗဒှ်ပတိုန် ပြကိုဟ်ဗိသ္တာ သက္ကုၚုဟ်မွဲရ၊၊ ဇၟာပ်ညးအဲ တၞဟ်နဂွံရပ်စပ် လောဲသွာတုဲ ကဵုလဝ်ယၟု ဝဳကဳတုဲ ဖန်ဗဒှ်လဝ် နကဵုမုက်လိက်ဝေပ်သာ်မွဲရ၊၊
 
-ညးလွပ်တအ်လေဝ်  ဇၟာပ်အခိင်အခါ နာဍဳဟွံခြာ ဗီုညးကဵုညး ဖန်ပလေဝ်ဒါန် ချူစုတ်ဒၟံင်တုဲ ဝဳကဳပဳဒဳယာဂှ် ဒှ်ကၠုင် ပြကိုဟ်ဗိသ္တာ မဍိုက်ပေင်တဴ ကဵုပရူပရာနာနာွရ၊၊ ပ္ဍဲဝဳကဳပဳယာမန်ဝွံလေဝ် ယြဴညးလဵုမွဲ ဟွံဟီု အတိုင်သၞောဝ် မလိက် [[|Wp/mnw/ယူနဳကုဒ်|ယူနဳကုဒ် (Unicode)]][[W:Font|Font]] ၅.၂ ဂှ် ဒ္ဂေတ်ဗက်တုဲ ဗှ်ကေတ်မာန်၊ စၠောအ်ချာဲကေတ်မာန်တုဲ သီုချူပတိုန် ဗွဲမဗၠးၜးမာန်ရ၊၊
+ညးလွပ်တအ်လေဝ်  ဇၟာပ်အခိင်အခါ နာဍဳဟွံခြာ ဗီုညးကဵုညး ဖန်ပလေဝ်ဒါန် ချူစုတ်ဒၟံင်တုဲ ဝဳကဳပဳဒဳယာဂှ် ဒှ်ကၠုင် ပြကိုဟ်ဗိသ္တာ မဍိုက်ပေင်တဴ ကဵုပရူပရာနာနာွရ၊၊ ပ္ဍဲဝဳကဳပဳယာမန်ဝွံလေဝ် ယြဴညးလဵုမွဲ ဟွံဟီု အတိုင်သၞောဝ် မလိက် [[|ယူနဳကုဒ်|ယူနဳကုဒ် (Unicode)]][[W:Font|Font]] ၅.၂ ဂှ် ဒ္ဂေတ်ဗက်တုဲ ဗှ်ကေတ်မာန်၊ စၠောအ်ချာဲကေတ်မာန်တုဲ သီုချူပတိုန် ဗွဲမဗၠးၜးမာန်ရ၊၊
 
 '''''[[ဝဳကဳပဳဒဳယာမန်|ဆက်ဗှ် Full article...]]'''''
 |-
@@ -95,7 +95,7 @@ searchbuttonlabel= လိက်ပရေင်တၟိ
 <div style="margin:0;border:1px solid #ff8d0f;background:#ffcc96;padding:0.2em 0.4em;font-size:120%;font-weight:bold;text-align:left">[[File:Nuvola actions help.svg|25px]]အရီုဗင်</div>
 |-
 <!------TO BE TEMPLATED -- Help section------>
-|{{Wp/mnw/Help}}
+|{{Help}}
 |}
 |}
 <!--        CONTENTS        -->
