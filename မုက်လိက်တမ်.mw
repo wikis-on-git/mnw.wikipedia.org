@@ -30,53 +30,7 @@
 * ပါင်မုက်ဖအိုတ်
 |}
 {{WritingContest2019}}
-<!--        BANNER ACROSS TOP OF PAGE        -->
-{|width="100%"
-|valign=top|[[File:Flag of Mon State (2018).svg|150px]]
-|style="width:100%; text-align:center; vertical-align:top;"|<div style="font-size:110%;>Welcome to the Mon Wikipedia!<br />
-နူကဵုမုက် ဝဳကဳပဳဒဳယာမန်ဏအ် ဒုင်တၠုင်ဏာ ဇၟာပ်ညးအဲ ရအဴ။<br/>"'''အနာဂတ်ဂှ် နွံပ္ဍဲတဲ ညးမခၞံဗဒှ်တအ်'''" ဒုင်သဇိုင် ကုလညာတ်ဝွံတုဲ သွက်အနာဂတ် ဂကူမန် ဂွံကျေဝ် ဂွံခိုဟ် ဂွံသၠုင် ညးညးအဲအဲ ပြာပ်ကၠုင် ခၞံဗဒှ် ပဠေဝ်ဒါန် ချူပတိုန် လိက်ပရေင်၊ ဝတ္ထု၊ ကဗျ၊ ပရူပရာနာနာသာ် သွက်[[|ဘာသာမန်|ဘာသာမန်]] ညိအဴ။<br>
-လိက်ပရေင် ပရူပရာ နူကဵု မုက်လိက် ဝဳကဳပဳဒဳယာ နကဵု ဘာသာဇကု မကၠိုဟ် မပ္တံကဵု [[:en:Main_Page|ဘာသာအင်္ဂလိက်]]၊ [[:th:หน้าหลัก|ဘာသာသေံ]]၊ [[:my:ဗဟိုစာမျက်နှာ|ဘာသာဗၟာ]]တအ်ဂှ်လေဝ် ကၠာဲစၠောအ် ဘာသာမန်တုဲ ချူပတိုန်မာန်ရ၊၊.
-</div>
-<br/><inputbox>
-type=create
-width=40
-break=yes
-default=
-buttonlabel= ခၞံဗဒှ် လိက်ပရေင်တၟိ
-searchbuttonlabel= လိက်ပရေင်တၟိ
-</inputbox>
-|valign=top|[[File:MyanmarMon.png|100px|alt=|link=]]
-|}
-<!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
-{| id="mp-topbanner" class="globegris" style="width:100%; background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:1px solid #cef2e0; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px"
-| style="width:60%;" |
-{| style="width:280px; border:none; background:none;"
-| style="width:280px; text-align:center; white-space:nowrap; color:#000;" |
-<div style="font-size:100%; border:none; margin:0; padding:.1em; color:#000;">
-<div style="font-size:170%;line-height:170%;">'''[[ဝဳကဳပဳဒဳယာ|ဝဳကဳပဳဒဳယာ]]'''ဒုင်တၠုင်ရအဴ</div></div>
-<div style="top:+0.2em; font-size:95%;">ပြကိုဟ်ဗိသ္တာ မသက္ကုၚုဟ်မး</div>
-<div id="articlecount" style="width:100%; text-align:center; font-size:95%;">ပရောပရာဖအိုတ် <span style="font-size:120%">'''{{NUMBEROFARTICLES}}'''</span>ဂှ် နကဵု ဘာသာမန် ဂွံဗှ်ကေတ်မာန်ရ။</div>
-|}
 
-<!--        PORTAL LIST ON RIGHT-HAND SIDE        -->
-|style="width:10%;font-size:90%"|
-* [[:Portal:ပါန်ကွတ်|ပါန်ကွတ်]]
-* [[:Portal:အတ္ထုပ္ပတ္တိ|အတ္ထုပ္ပတ္တိ]]
-* [[:Portal:ဝင်ပထဝဳ|ပထဝဳဝင်]]
-|style="width:10%;font-size:90%"|
-* [[:Portal:ဝၚ်|ဝင်]]
-* [[:Portal:သင်္ချာ|သင်္ချာ]]
-* [[:Portal:သိပ္ပံ|သိပ္ပံ]]
-
-|style="width:10%;font-size:90%"|
-* [[:Portal:ဂကောံမၞိဟ်|ဂကောံမၞိဟ်]]
-* [[:Category:နယ်ပညာ|နယ်ပညာ]]
-* [[:Portal:လိက်ပတ်မန်|လိက်ပတ်မန်]]
-|style="width:10%;font-size:90%"|
-* [[:Portal:ပရေင်ထတ်ယုက်|ထတ်ယုက်]]
-* [[:Portal:ပရေင်ဘာသာ|ပရေင်ဘာသာ]]
-* ပါင်မုက်ဖအိုတ်
-|}
 <!--        INDEX LIST        -->
 {| style="margin: 2px 0 0 0; width: 100%;"
 | style="margin-top:2px;width:100%;border:1px solid #cef2e0; background-color: #f5fffa; vertical-align: top; -moz-border-radius:10px; -webkit-border-radius: 3px;" |<center>{{Index}}</center>
