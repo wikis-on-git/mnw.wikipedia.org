@@ -35,6 +35,12 @@
 {| style="margin: 2px 0 0 0; width: 100%;"
 | style="margin-top:2px;width:100%;border:1px solid #cef2e0; background-color: #f5fffa; vertical-align: top; -moz-border-radius:10px; -webkit-border-radius: 3px;" |<center>{{Index}}</center>
 
+<!--        USER DATE AND FONT ISSUE        -->
+{|style="margin-top:0;width:100%;border:1px solid #cef2e0; background-color: #f5fffa; vertical-align: top; -moz-border-radius:10px" | 
+|style="width:11%;font-size:95%"|
+{{User date}}<div id="mf-font">{{Font Issue}}</div>
+|}
+<!--        TODAY'S FEATURED CONTENT        -->
 {|style="margin:0;background:transparent"
 |-
 |class="MainPageBG" style="width:53%;border:1px solid #cef2e0;background:#f5fffa;color:#000000;vertical-align:top"|
