@@ -1,3 +1,30 @@
+<!--        BANNER ACROSS TOP OF PAGE        -->
+{| id="mp-topbanner" class="globegris" style="width:100%; background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px"
+| style="width:56%;" |
+<!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
+{| style="width:280px; border:none; background:none;"
+| style="width:280px; text-align:center; white-space:nowrap; color:#000;" |
+<div style="font-size:170%;line-height:170%;">'''[[ဝီကီပီးဒီးယား]]'''မှ ကြိုဆိုပါသည်။</div>
+[[Wikipedia:နိဒါန်း|မည်သူမဆို ကြည့်ရှုပြင်ဆင်နိုင်သော]] အခမဲ့လွတ်လပ်[[စွယ်စုံကျမ်း]] ဖြစ်ပါသည်။
+<div id="articlecount" style="width:100%; font-size:100%;">အကြောင်းအရာပေါင်း <span style="font-size:120%">'''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''</span> ခုကို [[မြန်မာဘာသာ]]ဖြင့် ဖတ်ရှုနိုင်ပါသည်။
+<div style="float:left;">&nbsp;&nbsp;{{Mywiki social}}</div>
+|}
+<!--        PORTAL LIST ON RIGHT-HAND SIDE        -->
+|style="width:11%;font-size:95%"|
+* [[Portal:အနုပညာ|အနုပညာ]]
+* [[Portal:အတ္ထုပ္ပတ္တိ|အတ္ထုပ္ပတ္တိ]]
+* [[Portal:ပထဝီဝင်|ပထဝီဝင်]]
+|style="width:11%;font-size:95%"|
+* [[Portal:သမိုင်း|သမိုင်း]]
+* [[Portal:သင်္ချာ|သင်္ချာ]]
+* [[Portal:သိပ္ပံ|သိပ္ပံ]]
+|style="width:11%;font-size:95%"|
+* [[Portal:လူမှုရေး|လူမှုရေး]]
+* [[Portal:နည်းပညာ|နည်းပညာ]]
+* '''[[Portal:Contents/Portals|မုခ်ဦးအားလုံး]]'''
+|}
+
+
 {{WritingContest2019}}
 <!--        BANNER ACROSS TOP OF PAGE        -->
 {|width="100%"
