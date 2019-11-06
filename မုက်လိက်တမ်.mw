@@ -22,7 +22,7 @@ searchbuttonlabel= လိက်ပရေင်တၟိ
 {| style="width:280px; border:none; background:none;"
 | style="width:280px; text-align:center; white-space:nowrap; color:#000;" |
 <div style="font-size:100%; border:none; margin:0; padding:.1em; color:#000;">
-<div style="font-size:170%;line-height:170%;">'''[[|Wp/mnw/ဝဳကဳပဳဒဳယာ|ဝဳကဳပဳဒဳယာ]]'''ဒုင်တၠုင်ရအဴ</div></div>
+<div style="font-size:170%;line-height:170%;">'''[[ဝဳကဳပဳဒဳယာ|ဝဳကဳပဳဒဳယာ]]'''ဒုင်တၠုင်ရအဴ</div></div>
 <div style="top:+0.2em; font-size:95%;">ပြကိုဟ်ဗိသ္တာ မသက္ကုၚုဟ်မး</div>
 <div id="articlecount" style="width:100%; text-align:center; font-size:95%;">ပရောပရာဖအိုတ် <span style="font-size:120%">'''{{Wp/mnw/NUMBEROFARTICLES}}'''</span>ဂှ် နကဵု ဘာသာမန် ဂွံဗှ်ကေတ်မာန်ရ။</div>
 |}
@@ -83,7 +83,7 @@ searchbuttonlabel= လိက်ပရေင်တၟိ
 
 ညးလွပ်တအ်လေဝ်  ဇၟာပ်အခိင်အခါ နာဍဳဟွံခြာ ဗီုညးကဵုညး ဖန်ပလေဝ်ဒါန် ချူစုတ်ဒၟံင်တုဲ ဝဳကဳပဳဒဳယာဂှ် ဒှ်ကၠုင် ပြကိုဟ်ဗိသ္တာ မဍိုက်ပေင်တဴ ကဵုပရူပရာနာနာွရ၊၊ ပ္ဍဲဝဳကဳပဳယာမန်ဝွံလေဝ် ယြဴညးလဵုမွဲ ဟွံဟီု အတိုင်သၞောဝ် မလိက် [[|Wp/mnw/ယူနဳကုဒ်|ယူနဳကုဒ် (Unicode)]][[W:Font|Font]] ၅.၂ ဂှ် ဒ္ဂေတ်ဗက်တုဲ ဗှ်ကေတ်မာန်၊ စၠောအ်ချာဲကေတ်မာန်တုဲ သီုချူပတိုန် ဗွဲမဗၠးၜးမာန်ရ၊၊
 
-'''''[[|Wp/mnw/ဝဳကဳပဳဒဳယာမန်|ဆက်ဗှ် Full article...]]'''''
+'''''[[ဝဳကဳပဳဒဳယာမန်|ဆက်ဗှ် Full article...]]'''''
 |-
 <!--- 
 ! <div style="margin:0;border:1px solid #ff8d0f;background:#ffcc96;color:#000000;padding:0.2em 0.4em;font-size:120%;font-weight:bold;text-align:left">[[File:Gnome-searchtool.svg|25px]]စၞောန်</div>
@@ -102,12 +102,12 @@ searchbuttonlabel= လိက်ပရေင်တၟိ
 {| width="100%" cellpadding="2" cellspacing="2" style="vertical-align:top; background-color:#f5fffa; -moz-border-radius:10px"
 ! style="background-color: #cef2e0; font-size: 125%; border: 1px solid #b0b0b0; text-align: left; padding-left: 7px; -moz-border-radius:7px" |[[File:Emojione 1F4DA.svg|25px|alt=|link=]] ပြကိုဟ်ဗိသ္တာ
 |-
-| style="color:#000;padding:2px 5px" | <div id="mp-itn">{{Wp/mnw/Contents}}</div>
+| style="color:#000;padding:2px 5px" | <div id="mp-itn">{{Contents}}</div>
 |}
 |}
 <div id="mp-sister">
 == ပရဝ်ဂျေတ် ဒေအ်ဂမၠိုင် ==
-{{Wp/mnw/Sister projects}}
+{{Sister projects}}
 </div>
 __NOTOC__ __NOEDITSECTION__
 
