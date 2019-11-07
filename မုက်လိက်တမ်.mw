@@ -38,7 +38,7 @@
 <!--        USER DATE AND FONT ISSUE        -->
 {|style="margin-top:0;width:100%;border:1px solid #cef2e0; background-color: #f5fffa; vertical-align: top; -moz-border-radius:10px" | 
 |style="width:11%;font-size:95%"|
-{{User date}}<div id="mf-font">{{Font Issue}}</div>
+{{User date}}<div id="mf-font"></div>
 |}
 <!--        TODAY'S FEATURED CONTENT        -->
 {|style="margin:0;background:transparent"
