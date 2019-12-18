@@ -1,19 +1,19 @@
 
 {{Infobox country
 | conventional_long_name  = ဍုင်သမတ ဂါမ်ဗဳယျာ<br>Republic of The Gambia
-| common_name                = The Gambia
-| image_flag                = Flag of The Gambia.svg
-| image_coat                = Coat_of_arms_of_The_Gambia.svg
-| national_motto                = "Progress, Peace, Prosperity"
-| national_anthem                = "[[For The Gambia Our Homeland]]"<div style="padding-top:0.5em;" class="center">[[File:For The Gambia Our Homeland (instrumental).ogg]]</div>
-| image_map                = Gambia (orthographic projection with inset).svg
-| image_map2                = Gambia - Location Map (2013) - GMB - UNOCHA.svg
-| capital                = [[Banjul]]
-| largest_city                = [[Serekunda]]
-| official_languages                = [[English language|English]]<!-- Until official sources state otherwise, this should not be changed. See the Talk page. -->
-| languages_type                = [[National language]]s
-| languages                = {{hlist |[[Mandinka language|Mandinka]] |[[Pulaar language|Fula]] |[[Wolof language|Wolof]] |[[Serer language|Serer]] |[[Jola languages|Jola]]}}
-| ethnic_groups                = {{unbulleted list
+| common_name = The Gambia
+| image_flag = Flag of The Gambia.svg
+| image_coat = Coat_of_arms_of_The_Gambia.svg
+| national_motto = "Progress, Peace, Prosperity"
+| national_anthem = "[[For The Gambia Our Homeland]]"<div style="padding-top:0.5em;" class="center">[[File:For The Gambia Our Homeland (instrumental).ogg]]</div>
+| image_map = Gambia (orthographic projection with inset).svg
+| image_map2 = Gambia - Location Map (2013) - GMB - UNOCHA.svg
+| capital = Banjul
+| largest_city = Serekunda
+| official_languages = [[English language|English]]<!-- Until official sources state otherwise, this should not be changed. See the Talk page. -->
+| languages_type = [[National language]]s
+| languages = {{hlist |[[Mandinka language|Mandinka]] |[[Pulaar language|Fula]] |[[Wolof language|Wolof]] |[[Serer language|Serer]] |[[Jola languages|Jola]]}}
+| ethnic_groups = {{unbulleted list
   | 34.4% [[Mandinka people|Mandinka]]
   | 24.1% [[Fula people|Fula]]
   | 14.8% [[Wolof people|Wolof]]
@@ -26,19 +26,19 @@
   | 1.5% other<ref
 name="2013Census">{{cite web |url=https://www.gbos.gov.gm/uploads/census/2013/Spatial-distribution-report_%20Final.pdf |title=2013 Population and Housing Census: Spatial Distribution |publisher=The Republic of The Gambia |last=National Population Commission Secretariat |date=April 30, 2005 |website=Gambia Bureau of Statistics |access-date=December 29, 2017 |archive-url=https://web.archive.org/web/20180103134831/https://www.gbos.gov.gm/uploads/census/2013/Spatial-distribution-report_%20Final.pdf |archive-date=3 January 2018 |url-status=live |df=dmy-all }}</ref>
   }}
-| ethnic_groups_year                = 2013 Census
-| demonym                = Gambian
-| government_type                = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[republic]]
-| leader_title1                = [[President of the Gambia|President]]
-| leader_name1                = [[Adama Barrow]]
-| leader_title2                = [[Vice-President of the Gambia|Vice President]]
-| leader_name2                = [[Isatou Touray]]
-| legislature                = [[National Assembly of the Gambia|National Assembly]]
-| sovereignty_type                = Independence
-| established_event1                = from the [[United Kingdom]]
-| established_date1                = 18 February 1965
-| established_event2                = dissolution of the [[Senegambia Confederation]]
-| established_date2                = 30 September 1989
+| ethnic_groups_year = 2013 Census
+| demonym = Gambian
+| government_type = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[republic]]
+| leader_title1 = [[President of the Gambia|President]]
+| leader_name1 = [[Adama Barrow]]
+| leader_title2 = [[Vice-President of the Gambia|Vice President]]
+| leader_name2 = [[Isatou Touray]]
+| legislature = [[National Assembly of the Gambia|National Assembly]]
+| sovereignty_type = Independence
+| established_event1 = from the [[United Kingdom]]
+| established_date1 = 18 February 1965
+| established_event2 = dissolution of the [[Senegambia Confederation]]
+| established_date2 = 30 September 1989
 | area_km2                = 10,689
 | area_rank                = 159th <!-- Area rank should match [[List of countries and dependencies by area]] -->
 | area_sq_mi                = 4,007 <!-- Do not remove per [[WP:MOSNUM]] -->
