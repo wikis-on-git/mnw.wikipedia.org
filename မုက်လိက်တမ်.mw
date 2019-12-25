@@ -67,8 +67,8 @@
 |-
 !
 <!------- KALENDER ------->
-
-<div style="margin:0;border:1px solid #ff8d0f;background:#ffcc96;padding:0.2em 0.4em;font-size:120%;font-weight:bold;text-align:left">{{FunkyBoks
+<div id="mf-idag";text-align:left">
+{{FunkyBoks
 |farvekombination = 2
 |billede          = Office-calendar.svg
 |overskrift       = ပ္ဍဲ တ္ၚဲဏအ်
