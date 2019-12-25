@@ -62,22 +62,6 @@
 |-
 !
 
-<!-----TO BE TEMPLATED -- Photo of the day section------>
-|<div  id="mf-tfp" align="center" title="ဗီုတၟေင် တ္ၚဲဏအ်">
-{{FunkyBoks
-|farvekombination = 2
-|billede          = Office-calendar.svg
-|overskrift       = I dag
-|margin           = 1.5em 0.5em 0.5em 1.5em
-|indhold          = {{Wikipedia:Årets dage kort/{{LOCALDAY}}. {{LOCALMONTHNAME}}}}
-|bundboks         = <span class="nomobile">[[ဝဳကဳပဳဒဳယာ:ကာဒ် တ္ၚဲ ပွိုင်မွဲသၞာံ/{{LOCALDAY}}. {{LOCALMONTHNAME}}|Rediger]] •</span> [[ဝဳကဳပဳဒဳယာ:ကာဒ် တ္ၚဲ ပွိုင်မွဲသၞာံ/{{ucfirst:{{LOCALMONTHNAME}}}}|ဇၟာပ်တ္ၚဲ ပ္ဍဲကဵုဂိတုဂမၠိုင်]]
-}}
-</div>
-|-
-|}
-|style="border:1px solid transparent"|
-|-
-!
 <!-------Index + Encyclopedia------->
 |class="MainPageBG" style="width:100%;border:1px solid #ffe6cb;background-color: #fdf2e6;color:#000000;vertical-align:top"|
 {|cellpadding="2" cellspacing="5" style="width:100%;background:transparent" border="0"
