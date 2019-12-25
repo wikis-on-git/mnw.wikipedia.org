@@ -60,7 +60,8 @@
 |-
 |}
 |style="border:1px solid transparent"|
-
+|-
+!
 <!------- KALENDER ------->
 <div id="mf-idag">
 {{FunkyBoks
@@ -72,7 +73,8 @@
 |bundboks         = <span class="nomobile">[[ဝဳကဳပဳဒဳယာ:ကာဒ် တ္ၚဲ ပွိုင်မွဲသၞာံ/{{LOCALDAY}}. {{LOCALMONTHNAME}}|Rediger]] •</span> [[ဝဳကဳပဳဒဳယာ:ကာဒ် တ္ၚဲ ပွိုင်မွဲသၞာံ/{{ucfirst:{{LOCALMONTHNAME}}}}|ဇၟာပ်တ္ၚဲ ပ္ဍဲကဵုဂိတုဂမၠိုင်]]
 }}
 </div>
-
+|-
+!
 <!-------Index + Encyclopedia------->
 |class="MainPageBG" style="width:100%;border:1px solid #ffe6cb;background-color: #fdf2e6;color:#000000;vertical-align:top"|
 {|cellpadding="2" cellspacing="5" style="width:100%;background:transparent" border="0"
