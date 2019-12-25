@@ -42,21 +42,18 @@
 {{WritingContest2019}}
 <!--        TODAY'S FEATURED CONTENT        -->
 {|style="margin:0;background:transparent"
-|-
 |class="MainPageBG" style="width:53%;border:1px solid #cef2e0;background:#f5fffa;color:#000000;vertical-align:top"|
 {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background:transparent"
 |-
-<div style="margin:0;border:1px solid #cef2e0;border:1px solid #a3bfb1;background:#cef2e0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;text-align:left">[[File:Featured Article Star.svg|25px]] ပရောတၟေင် တ္ၚဲဏအ်</div>
+|<div style="margin:0;border:1px solid #cef2e0;border:1px solid #a3bfb1;background:#cef2e0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;text-align:left">[[File:Featured Article Star.svg|25px]] ပရောတၟေင် တ္ၚဲဏအ်</div>
 |-
 <!-----TO BE TEMPLATED -- Featured article section----->
 |<div  id="mf-tfp" style="padding:2px 5px">{{Featuredarticle}}</div>
 |-
 !<div style="margin:0;border:1px solid #a3bfb1;background:#cef2e0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;text-align:left">[[File:Emblem-pictures.svg|25px]]ဗီုတၟေင် တ္ၚဲဏအ်</div>
 |-
-
 <!-----TO BE TEMPLATED -- Photo of the day section------>
 |<div  id="mf-tfp" align="center" title="ဗီုတၟေင် တ္ၚဲဏအ်">{{POTD/selection}}</div>
-|-
 |}
 |style="border:1px solid transparent"|
 |-
@@ -108,3 +105,15 @@ __NOTOC__ __NOEDITSECTION__
 [[lo:]]
 [[km:]]
 [[vi:]]
+
+
+{| class="wikitable"
+|-
+! Header text !! Header text
+|-
+| ဥပမာ || ဥပမာ
+|-
+| ဥပမာ || ဥပမာ
+|-
+| ဥပမာ || ဥပမာ
+|}
