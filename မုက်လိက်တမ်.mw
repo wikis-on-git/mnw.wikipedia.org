@@ -67,7 +67,7 @@
 |-
 !
 <!------- KALENDER ------->
-<div id="mf-idag";text-align:left">
+<div id="mf-idag;text-align:left">
 {{FunkyBoks
 |farvekombination = 2
 |billede          = Office-calendar.svg
