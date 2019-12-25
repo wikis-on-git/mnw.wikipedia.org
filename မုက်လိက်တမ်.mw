@@ -33,36 +33,47 @@
 <!--        INDEX LIST        -->
 {| style="margin: 2px 0 0 0; width: 100%;"
 | style="margin-top:2px;width:100%;border:1px solid #cef2e0; background-color: #f5fffa; vertical-align: top; -moz-border-radius:10px; -webkit-border-radius: 3px;" |<center>{{Index}}</center>
-
+|}
 <!--        USER DATE AND FONT ISSUE        -->
 {|style="margin-top:0;width:100%;border:1px solid #cef2e0; background-color: #f5fffa; vertical-align: top; -moz-border-radius:10px" | 
 |style="width:11%;font-size:95%"|
 {{User date}}<div id="mf-font">{{Font Issue}}</div>
 |}
+
 {{WritingContest2019}}
+
+
 <!--        TODAY'S FEATURED CONTENT        -->
 {|style="margin:0;background:transparent"
 |class="MainPageBG" style="width:53%;border:1px solid #cef2e0;background:#f5fffa;color:#000000;vertical-align:top"|
 {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background:transparent"
+<!-- TODAY'S FEATURED ARTICLE; FEATURE PICTURE -->
+! style="background-color: #cef2e0; font-size: 125%; border: 1px solid #b0b0b0; text-align: left; padding-left: 7px; -moz-border-radius:7px" | <div style="float:right;">
+[[File:Wikibar2.png|link= |alt= ]]</div>[[File:Golden wikipedia featured star.svg|25px|alt=|link=]] ပရောတၟေင် တ္ၚဲဏအ်
 |-
-|<div style="margin:0;border:1px solid #cef2e0;border:1px solid #a3bfb1;background:#cef2e0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;text-align:left">[[File:Featured Article Star.svg|25px]] ပရောတၟေင် တ္ၚဲဏအ်</div>
+| style="; font-size: 100%" | <div id="mf-tfa" title="ပရောတၟေင် တ္ၚဲဏအ်"> {{Featured article}} </div>
 |-
-<!-----TO BE TEMPLATED -- Featured article section----->
-|<div  id="mf-tfp" style="padding:2px 5px">{{Featuredarticle}}</div>
+! style="background-color: #cef2e0; font-size: 125%; border: 1px solid #b0b0b0; text-align: left; padding-left: 7px; -moz-border-radius:7px" | <div style="float:right;">[[File:Wikibar2.png|link= |alt= ]]</div>[[File:Propozycja GnM2.svg|25px|alt=|link=]] ဗီုတၟေင် တ္ၚဲဏအ်
 |-
+| style="; font-size: 100%" |<div  id="mf-tfp" align="center" title="ဗီုတၟေင် တ္ၚဲဏအ်">{{POTD/selection}} </div>
+|}
+
 !<div style="margin:0;border:1px solid #a3bfb1;background:#cef2e0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;text-align:left">[[File:Emblem-pictures.svg|25px]]ဗီုတၟေင် တ္ၚဲဏအ်</div>
 |-
 <!-----TO BE TEMPLATED -- Photo of the day section------>
 |<div  id="mf-tfp" align="center" title="ဗီုတၟေင် တ္ၚဲဏအ်">{{POTD/selection}}</div>
 |}
-|style="border:1px solid transparent"|
+
+<!--        DID YOU KNOW; HELP       -->
+| class="MainPageBG" style="width: 45%; border: 1px solid #cedff2; background-color: #f5faff; vertical-align: top; -moz-border-radius:10px" |
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#f5faff; -moz-border-radius:10px"
+<!-- TO CONTINUE LATER
+! style="background-color: #cedff2; font-size: 125%; border: 1px solid #b0b0b0; text-align: left; padding-left: 7px; -moz-border-radius:7px" | <div style="float:right;">[[File:Wikibar2.png|link= |alt= ]]</div>[[File:Icon apps query.svg|25px|alt=|link=]] မၞးတီဟာ ...
 |-
-<!-------Index + Encyclopedia------->
-|class="MainPageBG" style="width:100%;border:1px solid #ffe6cb;background-color: #fdf2e6;color:#000000;vertical-align:top"|
-{|cellpadding="2" cellspacing="5" style="width:100%;background:transparent" border="0"
-|-
-!
-<div style="margin:0;border:1px solid #ff8d0f;background:#ffcc96;padding:0.2em 0.4em;font-size:120%;font-weight:bold;text-align:left">[[File:Wikipedia-logo-v2.svg|25px]] ပရောဝဳကဳပဳဒဳယာ</div>
+| style="color:#000" | {{မၞးတီဟာ}} -->
+
+<!--        ABOUT WIKIPEDIA        -->
+! style="background-color: #cedff2; font-size: 125%; border: 1px solid #b0b0b0; text-align: left; padding-left: 7px; -moz-border-radius:7px" | <div style="float:right;">[[File:Wikibar2.png|link= |alt= ]]</div>[[File:Wikipedia-logo-v2.svg|25px|alt=|link=]] ပရောဝဳကဳပဳဒဳယာ
 |-
 |[[File:Wikipedia-logo-v2-mnw.svg|right|180px|ဝဳကဳပဳဒဳယာ]]
 
@@ -105,15 +116,3 @@ __NOTOC__ __NOEDITSECTION__
 [[lo:]]
 [[km:]]
 [[vi:]]
-
-
-{| class="wikitable"
-|-
-! Header text !! Header text
-|-
-| ဥပမာ || ဥပမာ
-|-
-| ဥပမာ || ဥပမာ
-|-
-| ဥပမာ || ဥပမာ
-|}
