@@ -66,6 +66,19 @@
 {|cellpadding="2" cellspacing="5" style="width:100%;background:transparent" border="0"
 |-
 !
+<!------- KALENDER ------->
+<div id="mf-idag">
+{{FunkyBoks
+|farvekombination = 2
+|billede          = Office-calendar.svg
+|overskrift       = ပ္ဍဲ တ္ၚဲဏအ်
+|margin           = 1.5em 0.5em 0.5em 1.5em
+|indhold          = {{ဝဳကဳပဳဒဳယာ:ကာဒ် တ္ၚဲ ပွိုင်မွဲသၞာံ/{{LOCALDAY}}. {{LOCALMONTHNAME}}}}
+|bundboks         = <span class="nomobile">[[ဝဳကဳပဳဒဳယာ:ကာဒ် တ္ၚဲ ပွိုင်မွဲသၞာံ/{{LOCALDAY}}. {{LOCALMONTHNAME}}|ပလေဝ်]] •</span> [[ဝဳကဳပဳဒဳယာ:ကာဒ် တ္ၚဲ ပွိုင်မွဲသၞာံ/{{ucfirst:{{LOCALMONTHNAME}}}}|ဇၟာပ်တ္ၚဲ ပ္ဍဲကဵု ဂိတုဏအ်]]
+}}
+</div>
+
+
 <div style="margin:0;border:1px solid #ff8d0f;background:#ffcc96;padding:0.2em 0.4em;font-size:120%;font-weight:bold;text-align:left">[[File:Wikipedia-logo-v2.svg|25px]] ပရောဝဳကဳပဳဒဳယာ</div>
 |-
 |[[File:Wikipedia-logo-v2-mnw.svg|right|180px|ဝဳကဳပဳဒဳယာ]]
@@ -75,6 +88,7 @@
 ညးလွပ်တအ်လေဝ်  ဇၟာပ်အခိင်အခါ နာဍဳဟွံခြာ ဗီုညးကဵုညး ဖန်ပလေဝ်ဒါန် ချူစုတ်ဒၟံင်တုဲ ဝဳကဳပဳဒဳယာဂှ် ဒှ်ကၠုင် ပြကိုဟ်ဗိသ္တာ မဍိုက်ပေင်တဴ ကဵုပရူပရာနာနာရ၊၊ ပ္ဍဲဝဳကဳပဳဒဳယာမန်ဝွံလေဝ် ယြဴညးလဵုမွဲဟွံဟီု အတိုင်သၞောဝ် မလိက် [[ယူနဳကုဒ်|ယူနဳကုဒ် (Unicode)]][[W:Font|Font]] ၅.၂ ဂှ် ဒ္ဂေတ်ဗက်တုဲ ဗှ်ကေတ်မာန်၊ စၠောအ်ချာဲကေတ်မာန်တုဲ သီုချူပတိုန် ဗွဲမဗၠးၜးမာန်ရ၊၊
 
 '''''[[ဝဳကဳပဳဒဳယာမန်|ဆက်ဗှ် Full article...]]'''''
+
 <!------- KALENDER ------->
 <div id="mf-idag">
 {{FunkyBoks
