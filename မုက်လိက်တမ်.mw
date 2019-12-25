@@ -67,7 +67,7 @@
 |-
 !
 <!------- KALENDER ------->
-<div style="margin:0;border:1px;border:1px solid #a3bfb1;background:#cef2e0;padding:0.2em 0.4em;font-size:100%;text-align:left">
+<div style="margin:0;border:1px;border:1px solid #a3bfb1;background:#ffcc96;padding:0.2em 0.4em;font-size:120%;text-align:left">
 {{FunkyBoks
 |farvekombination = 2
 |billede          = Office-calendar.svg
