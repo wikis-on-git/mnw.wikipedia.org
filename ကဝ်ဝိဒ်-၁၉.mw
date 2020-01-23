@@ -1,11 +1,37 @@
-<noinclude>
-</noinclude>
-{{Virusbox|image=|image_alt=|image_caption=IVDC, China CDC: Wuhan coronavirus|parent=Sarbecovirus<!--Incertae sedis/Betacoronavirus-->|virus=Novel coronavirus (2019-nCoV)|subdivision_ranks=|subdivision_ref=|subdivision=|synonyms=* Wuhan coronavirus
+{{Virusbox
+|image=
+|image_alt=
+|image_caption=IVDC, China CDC: Wuhan coronavirus
+|parent=Sarbecovirus<!--Incertae sedis/Betacoronavirus-->
+|virus=Novel coronavirus (2019-nCoV)
+|subdivision_ranks=
+|subdivision_ref=
+|subdivision=
+|synonyms=* Wuhan coronavirus
 * Wuhan flu
 * Wuhan pneumonia
 * Yewei (Wild animal) pneumonia
-* Wuhan seafood market pneumonia virus|synonyms_ref=|range_map={{Location map|China|float=center|caption=|lat_deg=30|lat_min=37|lat_sec=11|lat_dir=N|lon_deg=114|lon_min=15|lon_sec=26|lon_dir=E}}|range_map_caption=Wuhan, China, the primary location of the only recorded outbreak|Death Toll=* 17 as of 11&nbsp;pm, 22 January 2020 UTC-08}}
-{{Infobox genome|image=<!-- Karyotype, for instance -->|caption=|type=nucleotide|taxId=MN908947|ploidy=<!-- haploid, diploid or polypoloid -->|chromosomes=<!-- number (unit is pairs) -->|size=30473 bases|year=2020}}'''နဝ်ဝေလ် ကဝ်ရဝ်နာဝဳရုသ် (Novel coronavirus''') ဂကောံပရေင်ထတ်ယုက် ဂၠးကဝ် (WHO) မကဵုလဝ် ယၟုခမၞန် '''2019-nCoV'''<ref>{{Cite web|url=https://www.who.int/publications-detail/surveillance-case-definitions-for-human-infection-with-novel-coronavirus-(ncov)|title=Surveillance case definitions for human infection with novel coronavirus (nCoV)}}</ref><ref>{{Cite web|url=https://www.cdc.gov/coronavirus/novel-coronavirus-2019.html|title=Novel coronavirus (2019-nCoV), Wuhan, China}}</ref> တုဲပၠန် ဟိုတ်မဂွံဆဵု ကေတ် ပ္ဍဲဍုင်ဝူဟာန် (ဍုင်ကြုက်) ကၠာအိုတ်တုဲ ဝူဟာန် ကဝ်ရဝ်နာဝဳရုသ် ('''Wuhan coronavirus) ဟွံသေင်မ္ဂး ယဲဇွဟ်ဝူဟာန်''' ('''Wuhan flu)၊ ဟိုတ်နူ စကတဵုဒှ်ကၠုင် ဒၞာဲမသွံရာန်''' ဟွံသေင်မ္ဂး ဝဳရုသ် ယဲဂြိုဟ် ဖျာက ဝူဟာန် ('''Wuhan seafood market pneumonia virus) ဟွံသေင်မ္ဂး ယဲဂြိုဟ် ဝူဟာန်''' ('''Wuhan pneumonia)'''<ref name="MN908947">{{Cite journal|title=Wuhan seafood market pneumonia virus isolate Wuhan-Hu-1, complete genome|url=https://www.ncbi.nlm.nih.gov/nuccore/MN908947}}</ref> ဝွံ ဒှ်စၟဝဳရုသ် မကၠောအ်မာန်၊ (single-stranded RNA coronavirus) မဂွံတီကၠာအိုတ် ပ္ဍဲသၞာံ ၂၀၁၉။ The virus was genomically sequenced after nucleic acid testing on a positive patient sample in a patient with pneumonia during the 2019–20 outbreak of novel coronavirus (2019-nCoV).<ref>{{Cite web|url=http://www.chinacdc.cn/dfdt/201912/t20191226_209404.html|title=中国疾病预防控制中心}}</ref><ref name=":0">{{Cite web|url=http://www.xinhuanet.com/english/2020-01/09/c_138690570.htm|title=New-type coronavirus causes pneumonia in Wuhan: expert – Xinhua {{!}} English.news.cn}}</ref><ref name=":1">{{Cite web|url=https://platform.gisaid.org/epi3/start/CoV2020|title=CoV2020}}</ref>
+* Wuhan seafood market pneumonia virus
+|synonyms_ref=
+|range_map=
+{{Location map
+|China
+|float=center
+|caption=
+|lat_deg=30
+|lat_min=37
+|lat_sec=11
+|lat_dir=N
+|lon_deg=114
+|lon_min=15
+|lon_sec=26
+|lon_dir=E
+}}
+|range_map_caption=Wuhan, China, the primary location of the only recorded outbreak
+|Death Toll=* 17 as of 11&nbsp;pm, 22 January 2020 UTC-08
+}}
+
+'''နဝ်ဝေလ် ကဝ်ရဝ်နာဝဳရုသ် (Novel coronavirus''') ဂကောံပရေင်ထတ်ယုက် ဂၠးကဝ် (WHO) မကဵုလဝ် ယၟုခမၞန် '''2019-nCoV'''<ref>{{Cite web|url=https://www.who.int/publications-detail/surveillance-case-definitions-for-human-infection-with-novel-coronavirus-(ncov)|title=Surveillance case definitions for human infection with novel coronavirus (nCoV)}}</ref><ref>{{Cite web|url=https://www.cdc.gov/coronavirus/novel-coronavirus-2019.html|title=Novel coronavirus (2019-nCoV), Wuhan, China}}</ref> တုဲပၠန် ဟိုတ်မဂွံဆဵု ကေတ် ပ္ဍဲဍုင်ဝူဟာန် (ဍုင်ကြုက်) ကၠာအိုတ်တုဲ ဝူဟာန် ကဝ်ရဝ်နာဝဳရုသ် ('''Wuhan coronavirus) ဟွံသေင်မ္ဂး ယဲဇွဟ်ဝူဟာန်''' ('''Wuhan flu)၊ ဟိုတ်နူ စကတဵုဒှ်ကၠုင် ဒၞာဲမသွံရာန်''' ဟွံသေင်မ္ဂး ဝဳရုသ် ယဲဂြိုဟ် ဖျာက ဝူဟာန် ('''Wuhan seafood market pneumonia virus) ဟွံသေင်မ္ဂး ယဲဂြိုဟ် ဝူဟာန်''' ('''Wuhan pneumonia)'''<ref name="MN908947">{{Cite journal|title=Wuhan seafood market pneumonia virus isolate Wuhan-Hu-1, complete genome|url=https://www.ncbi.nlm.nih.gov/nuccore/MN908947}}</ref> ဝွံ ဒှ်စၟဝဳရုသ် မကၠောအ်မာန်၊ (single-stranded RNA coronavirus) မဂွံတီကၠာအိုတ် ပ္ဍဲသၞာံ ၂၀၁၉။ The virus was genomically sequenced after nucleic acid testing on a positive patient sample in a patient with pneumonia during the 2019–20 outbreak of novel coronavirus (2019-nCoV).<ref>{{Cite web|url=http://www.chinacdc.cn/dfdt/201912/t20191226_209404.html|title=中国疾病预防控制中心}}</ref><ref name=":0">{{Cite web|url=http://www.xinhuanet.com/english/2020-01/09/c_138690570.htm|title=New-type coronavirus causes pneumonia in Wuhan: expert – Xinhua {{!}} English.news.cn}}</ref><ref name=":1">{{Cite web|url=https://platform.gisaid.org/epi3/start/CoV2020|title=CoV2020}}</ref>
 
 == Pathology ==
 On January 20th, 2020, human-to-human transmission was confirmed in Guangdong, China, according to Zhong Nanshan, head of the health commission team investigating the outbreak.<ref>{{Cite news|url=https://www.cbc.ca/news/health/coronavirus-human-to-human-1.5433187|title=China confirms human-to-human transmission of new coronavirus|date=20 January 2020|publisher=CBC News}}</ref> No specific treatment for the new virus is currently available, but existing anti-virals could be repurposed.<ref>{{Cite news|url=https://www.reuters.com/article/us-china-health-pneumonia-who-idUSKBN1ZD16J|title=WHO says new China coronavirus could spread, warns hospitals worldwide|date=14 January 2020}}</ref>
