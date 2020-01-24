@@ -7,7 +7,7 @@
 | synonyms = * Wuhan coronavirus
 * Wuhan seafood market pneumonia virus
 | synonyms_ref = 
-| map = {{Location map| China
+| range_map = {{Location map| China
 |relief = 1
 |width = 250
 |float = central
@@ -19,7 +19,6 @@
 |lat_deg = 30 |lat_min = 37 |lat_sec = 11 |lat_dir = N
 |lon_deg = 114 |lon_min = 15 |lon_sec = 26 |lon_dir = E
 }}
-
 | range_map_caption = Wuhan, China, the primary location of the only recorded outbreak
 | Death Toll = * 17 as of 11&nbsp;pm, 22 January 2020 UTC-08
 }}
