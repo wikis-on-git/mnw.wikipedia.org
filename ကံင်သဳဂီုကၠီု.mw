@@ -9,22 +9,22 @@
   |titlestyle = background:transparent;text-align:left;font-weight:normal;
   |title = '''15 countries'''
   |'''Permanent members:'''
-  |{{flaglist|China}}
-  |{{flaglist|France}}
-  |{{flaglist|Russia}}
-  |{{flaglist|United Kingdom}}
-  |{{flaglist|United States}}
+  |{{flag|China}}
+  |{{flag|France}}
+  |{{flag|Russia}}
+  |{{flag|United Kingdom}}
+  |{{flag|United States}}
   |'''Non-permanent members:'''
-  |{{flaglist|Belgium}}
-  |{{flaglist|Dominican Republic}}
+  |{{flag|Belgium}}
+  |{{flag|Dominican Republic}}
   |{{flaglist|Estonia}}
-  |{{flaglist|Germany}}
-  |{{flaglist|Indonesia}}
-  |{{flaglist|Niger}}
-  |{{flaglist|Saint Vincent and the Grenadines}}
-  |{{flaglist|South Africa}}
-  |{{flaglist|Tunisia}}
-  |{{flaglist|Vietnam}}
+  |{{flag|Germany}}
+  |{{flag|Indonesia}}
+  |{{flag|Niger}}
+  |{{flag|Saint Vincent and the Grenadines}}
+  |{{flag|South Africa}}
+  |{{flag|Tunisia}}
+  |{{flag|Vietnam}}
 }}
 
 |status = Active
