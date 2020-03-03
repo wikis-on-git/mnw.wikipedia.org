@@ -1,10 +1,10 @@
 {{Taxobox
-| image             = 2019-nCoV-CDC-23312.png
-| image_alt         = Render
-| image_caption     = Render of a 2019 nCoV [[virion]]
-| image2            = 3D medical animation coronavirus structure.jpg
-| image2_alt        = Cross-sectional model of 2019 n-CoV showing the components of the virus
-| image2_caption    = Cross-sectional model of 2019 n-CoV showing the components of the virus
+| image = File:SARS-CoV-2 49534865371.jpg
+| image_alt = Electron micrograph of SARS-CoV-2 virions
+| image_caption = Electron micrograph of SARS-CoV-2 [[virion]]s
+| image2 = 2019-nCoV-CDC-23312 without background.png
+| image2_alt = Illustration of a SARS-CoV-2 virion
+| image2_caption = Illustration of a SARS-CoV-2 virion
 | name = နဝ်ဝေလ် ကဝ်ရဝ်နာဝဳရုသ် <br>(2019-nCoV)
 | image = 2019-nCoV-CDC-23312.png
 | image_alt = 
@@ -17,9 +17,7 @@
 | genus = Betacoronavirus
 | species = '''''Novel cornonavirus'''''
 | virus = Wuhan coronavirus (2019-nCoV)
-| synonyms = 
-* Wuhan coronavirus
-* Wuhan seafood market pneumonia virus
+| synonyms = 2019-nCoV 
 | synonyms_ref = 
 | range_map = {{Location map| China
 |relief = 1
