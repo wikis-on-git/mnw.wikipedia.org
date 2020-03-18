@@ -90,68 +90,6 @@
 
 {{2019–20 coronavirus outbreak data/Denmark medical cases}}
 
-{{Graph:Chart
- | width=100
- | height=100
- | type=pie
- | legend=Sex
- | x=Male, Female
- | y1=67.8, 32.2
- | showValues=
-}}
-<br />
-{{Graph:Chart
-|width=400
-|colors=#F46D43
-|showValues=
-|xAxisTitle=Ages
-|xAxisAngle=-40
-|type=rect
-|x=0-9, 10-19, 20-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-89
-|yAxisTitle=No. of cases
-|legend=Legend
-|y1= 10, 30, 134, 135, 253, 159, 50, 5, 7, 2
-|y1Title=Age
-|yGrid= |xGrid=
-}}
-<br /> 
-{{Graph:Chart
- | width=100
- | height=100
- | type=pie
- | legend=Origin
- | x=Austria, Italy, Germany, Iran, the Netherlands, Spain, United States, Denmark
- | y1=265, 60, 2, 1, 1, 1, 1, 158
- | showValues=
-}}
-<br /> 
-{{Location map many|Denmark
-|width   = 400
-|alt     = Residency by region
-|caption = Residency by [[regions of Denmark|region]]
-<!--Copenhagen-->
-|label = 324
-  |lat_deg = 55.676111
-  |lon_deg = 12.568333
-<!--North Zealand-->
-|label2 = 103
-  |lat2_deg = 55 | lat2_min = 10
-  |lon2_deg = 11| lon2_min = 50
-<!--Region of Southern Denmark-->
-|label3 = 130
-  |lat3_deg = 55 | lat3_min = 20
-  |lon3_deg = 9| lon3_min = 40
-<!--Central Denmark Region-->
-|label4 = 175
-  |lat4_deg = 56| lat4_min = 10
-  |lon4_deg = 9| lon4_min = 30
-<!--North Jutland Region-->
-|label5 = 47
-  |lat5_deg = 57
-  |lon5_deg = 10
-}}
-<br />
-
 == နိဿဲ ==
 {{Reflist}}
 
