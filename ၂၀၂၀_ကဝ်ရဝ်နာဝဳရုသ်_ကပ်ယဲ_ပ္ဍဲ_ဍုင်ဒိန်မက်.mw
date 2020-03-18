@@ -151,21 +151,6 @@
   |lon5_deg = 10
 }}
 <br />
-{{Graph:Chart
-|width=800
-|colors=#F46D43
-|showValues=
-|xAxisTitle=Date
-|xAxisAngle=-40
-|type=rect
-|x=27 Feb, 28 Feb, 29 Feb, 1 Mar, 2 Mar, 3 Mar, 4 Mar, 5 Mar, 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar
-|yAxisTitle=No. of new cases
-|legend=Legend
-|y1= 1, 1, 1, 1, 0, 6, 5, 5, 3, 6, 8, 55, 172, 252, 160, 128, 32, 39, 57, 92
-|y1Title=New cases per day
-|yGrid= |xGrid=
-}}
-
 
 == နိဿဲ ==
 {{Reflist}}
