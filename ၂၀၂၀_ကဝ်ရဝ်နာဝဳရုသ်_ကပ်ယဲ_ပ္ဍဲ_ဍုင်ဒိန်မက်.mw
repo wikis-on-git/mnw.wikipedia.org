@@ -1,27 +1,25 @@
-{{short description|Details of ongoing viral pandemic in Denmark}}
+{{short description|Details of ongoing viral pandemic in Denmark}}<br />
 {{Infobox pandemic
-|name=၂၀၂၀ ကဝ်ရဝ်နာဝဳရုသ် ကပ်ယဲ ပ္ဍဲ ဒိန်မက် (သီုကဵု တကအ် ဖဲရဝ်)<br>2020 coronavirus pandemic in Denmark (including Faroe Islands)
-|first_case=Roskilde
-|total_ili=
-|image=COVID-19 Outbreak Cases in Denmark.svg
-|confirmed_cases=1024<!-- (Mainland) Denmark 977 + Faroe Islands 47 --><ref name="STPS numbers">{{Cite news|url=https://politi.dk/coronavirus-i-danmark/foelg-smittespredningen-globalt-regionalt-og-lokalt|title=Følg smittespredningen globalt, regionalt og lokalt|date=17 March 2020|website=politi.dk|publisher=Government of Denmark|access-date=17 March 2020|url-status=live|language=da}}</ref>
-|deaths=32<ref name="DR first death 14March"/>
-|recovery_cases=No data{{refn|group=note|The authorities do not report recovered cases.<ref name="Berlingske ingen tal for raske">{{Cite news|last=|first=|url=https://www.berlingske.dk/samfund/801-personer-i-danmark-er-konstateret-smittet-med-coronavirus|title=801 personer i Danmark er konstateret smittet med coronavirus|date=13 March 2020|work=Berlingske|access-date=13 March 2020
-|url-status=live|agency=Ritzau|language=da}}</ref> Media have reported at least two recoveries: The first confirmed case of [[COVID-19]], an editor at [[TV 2 (Denmark)|TV 2]],<ref name="DR første rask 5 March"/><ref name="TV2 1-rask">{{Cite news|last=Færch|first=Emil|url=https://nyheder.tv2.dk/samfund/2020-03-05-danmarks-patient-nul-er-rask-og-ude-af-karantaene-nu-er-jeg-fri|title=Danmarks patient nul er rask og ude af karantæne: - Nu er jeg fri|date=5 March 2020|work=TV2|access-date=6 March 2020|url-status=live|language=da}}</ref><ref>{{Cite news|author=Ritzau|url=https://www.berlingske.dk/danmark/foerste-dansker-smittet-med-coronavirus-er-raskmeldt|title=Første dansker smittet med coronavirus er raskmeldt|date=5 March 2020|work=Berlingske|access-date=6 March 2020|url-status=live|language=da}}</ref> and former footballer [[Thomas Kahlenberg]].<ref name="TV2 Kahlenberg rask">{{Cite news|author=Ritzau|url=https://sport.tv2.dk/fodbold/2020-03-12-kahlenberg-er-erklaeret-rask-efter-coronasmitte|title=Kahlenberg er erklæret rask efter coronasmitte|date=12 March 2020|work=TV2|access-date=12 March 2020|url-status=live|language=da}}</ref>}}
-|origin=[[Wuhan]], China (globally),<br/>
-[[Lombardy]], Italy (origin of first Danish case)<ref name="TV2 first 27Feb"/>, [[Austria]] (origin of most cases
-|arrival_date=27 February 2020<br/>({{Age in years, months, weeks and days|month1=02|day1=27|year1=2020|month2=|day2=|year2=}})
-|location=[[Denmark]]
-|map1=
-|virus_strain=[[SARS-CoV-2]]
-|disease=[[COVID-19]]
-|legend3=
-|map3=
-|legend2=
-|map2=
-|legend1=
-|website=}}
-
+| name            = 2020 coronavirus pandemic in Denmark (mainland)
+| map1            = COVID-19 Outbreak Cases in Denmark.svg
+| legend1         = Number of confirmed cases by Municipalities<br>(as of 24 March): {{legend|#CCCCCC|0 confirmed}}{{legend|#eff3ff|1–19 confirmed}}{{legend|#bdd7e7|20–39 confirmed}}{{legend|#6baed6|40–59 confirmed}}{{legend|#2171b5|60+ confirmed}}
+| map2            = 
+| legend2         = 
+| map3            = 
+| legend3         = 
+| disease         = [[COVID-19]]
+| virus_strain    = [[SARS-CoV-2]]
+| location        = [[Denmark]]
+| first_case      = [[Roskilde]]
+| arrival_date    = 27 February 2020<br/>({{Age in years, months, weeks and days|month1=02|day1=27|year1=2020|month2=|day2=|year2=}})
+| origin          = [[Wuhan]], China (globally),<br/>
+[[Lombardy]], Italy (origin of first Danish case)<ref name="TV2 first 27Feb"/>, [[Austria]] (origin of most cases)
+| recovery_cases  = 1{{refn|group=note|The authorities do not report recovered cases.<ref name="Berlingske ingen tal for raske">{{Cite news|last=|first=|url=https://www.berlingske.dk/samfund/801-personer-i-danmark-er-konstateret-smittet-med-coronavirus|title=801 personer i Danmark er konstateret smittet med coronavirus|date=13 March 2020|work=Berlingske|access-date=13 March 2020|url-status=live|agency=Ritzau|language=da}}</ref> Media have reported at least two recoveries: The first confirmed case of [[COVID-19]], an editor at [[TV 2 (Denmark)|TV 2]],<ref name="DR første rask 5 March"/><ref name="TV2 1-rask">{{Cite news|last=Færch|first=Emil|url=https://nyheder.tv2.dk/samfund/2020-03-05-danmarks-patient-nul-er-rask-og-ude-af-karantaene-nu-er-jeg-fri|title=Danmarks patient nul er rask og ude af karantæne: - Nu er jeg fri|date=5 March 2020|work=TV2|access-date=6 March 2020|url-status=live|language=da}}</ref><ref>{{Cite news|author=Ritzau|url=https://www.berlingske.dk/danmark/foerste-dansker-smittet-med-coronavirus-er-raskmeldt|title=Første dansker smittet med coronavirus er raskmeldt|date=5 March 2020|work=Berlingske|access-date=6 March 2020|url-status=live|language=da}}</ref> and former footballer [[Thomas Kahlenberg]].<ref name="TV2 Kahlenberg rask">{{Cite news|author=Ritzau|url=https://sport.tv2.dk/fodbold/2020-03-12-kahlenberg-er-erklaeret-rask-efter-coronasmitte|title=Kahlenberg er erklæret rask efter coronasmitte|date=12 March 2020|work=TV2|access-date=12 March 2020|url-status=live|language=da}}</ref>}}
+| deaths          = 32
+| confirmed_cases = 1577<ref>{{cite web|url=https://www.sst.dk/da/Viden/Smitsomme-sygdomme/Smitsomme-sygdomme-A-AA/Coronavirus/Spoergsmaal-og-svar|title=Coronavirus, COVID-19|date=20 March 2020|work=Coronavirus/ COVID-19|publisher=[[Danish Health Authority|Danish Health Authority (Sundhedsstyrelsen)]]|language=Danish|accessdate=20 March 2020|}}</ref>
+| total_ili       = 
+| website         = 
+}}
 လိက်ပရေင်ဝွံ ချူစၟတ်သမ္တီလဝ် ပရူ ၂၀၁၉-၂၀၂၀ ကဝ်ရဝ်နာဝဳရုသ် ကပ်ယဲ ပ္ဍဲဍုင်ဒိန်မက်၊ တုဲ ပရူအလုံလိုက်ဂှ် ဟွံပါလုပ် သီုဖအိုတ် ဒှ်မာန်ရ။ ဝဳရုသ် [[နဝ်ဝေလ် ကဝ်ရဝ်နာဝဳရုသ် (2019-nCoV)|SARS-CoV-2]] ဂွံဆဵုကၠာအိုတ် ပ္ဍဲဒိန်မက် ပ္ဍဲ ၂၇ ဖေဖဝ်ဝါရဳ ၂၀၂၀။<ref name="TV2 first 27Feb">{{cite news |last=TV2 |first= |date=February 27, 2020|title=Dansker smittet med coronavirus |url=https://nyheder.tv2.dk/samfund/2020-02-27-dansker-smittet-med-coronavirus
 |work=TV2 |location=Denmark |access-date=February 27, 2020 }}</ref> စိုပ် ၁၆ မာတ် ၂၀၂၀ ဂှ် ဂွံစရင် မၞိဟ်ကမၠောအ် ဒှ်အာ ၉၁၄၊ စှ်ဒစာံတၠ ပ္ဍဲကဵု ဒေသ အလဵုပကင်ရင် ဖေဝ်ရဝ် (Faroe Islands.)။<ref>{{Cite web|url=https://www.ssi.dk/aktuelt/sygdomsudbrud/coronavirus|language=da|title=Udbrud med ny coronavirus COVID-19}}</ref> ပ္ဍဲ ဂရိန်လာန် မဒှ်ဒေသ အလဵုပကင်ရင် တၞဟ်မွဲပၠန်ဂှ် ဂွံဆဵု COVID-19 ကၠာအိုတ် ပ္ဍဲ ၁၆ မာတ်။<ref>{{Cite news|url=https://sermitsiaq.ag/corona-alarm-afblaest-test-negativ|title=Corona-alarm afblæst - test var negativ|language=da}}</ref><ref>{{Cite web|title=Første coronatilfælde bekræftet i Grønland|url=https://www.dr.dk/nyheder/indland/foerste-coronatilfaelde-bekraeftet-i-groenland|language=da}}</ref>
 
