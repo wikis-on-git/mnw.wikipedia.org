@@ -1,7 +1,8 @@
 {{Infobox pandemic
 | name            = 2020 coronavirus pandemic in Myanmar
 | map1            = COVID-19 Outbreak Cases in Myanmar.svg
-| legend1         = {{legend|#ffd5d5ff|1–9 confirmed cases}}
+| legend1         = Map of the pandemic in Myanmar (as of 29 March 2020)
+{{legend|#ffd5d5ff|1–9 confirmed cases}}
 | map2            = 
 | legend2         = 
 | map3            = 
@@ -14,16 +15,18 @@
 | origin          = 
 | recovery_cases  = 0
 | deaths          = 0
-| confirmed_cases = 5
+| confirmed_cases = 10<ref>{{cite news|url=https://www.thestar.com.my/news/regional/2020/03/27/number-of-covid-19-cases-rises-to-5-in-myanmar|title=Number of Covid-19 cases rises to 5 in Myanmar|work=The Star Online|date=27 March 2020|access-date=27 March 2020}}</ref>
 | suspected_cases = 
 | total_ili       = 
 | website         = 
 }}
+The [[2019–20 coronavirus pandemic]] was confirmed to have spread to [[Myanmar]] in March 2020.
 
 {{Location map+|Myanmar|width=300|float=right |places={{Location map~|Myanmar|lat_deg=16|lat_min=51|lon_deg=96|lon_min=11|position=left|mark=Blue pog.svg|background=|label=}}
   {{Location map~|Myanmar|lat_deg=23|lat_min=22|lon_deg=93|lon_min=40|position=top|mark=Red pog.svg|background=|label=}}
 {{Location map~|Myanmar|lat_deg=21|lat_min=58|lon_deg=96|lon_min=5|position=top|mark=Green pog.svg|background=|label=}}
-|caption=ဒၞာဲမဒတန် မဂွံဆဵုကေတ် မၞိဟ်ယဲ
+{{Location map~|Myanmar|lat_deg=19|lat_min=45|lon_deg=96|lon_min=6|position=top|mark=Purple pog.svg|background=|label=}}
+|caption=Places of Confirmed Cases
 }}
 {| class="wikitable"
 |-style="background:#006B31; color:white"
@@ -34,10 +37,45 @@
 |'''Laboratory Result Negative'''
 |'''Laboratory Result Pending'''
 |-
-|324||322||2||style="background-color:#ee3333;text-align:center;" |''5''||298||21
+|372||370||2||style="background-color:#ee3333;text-align:center;" |''10''||334||30
 |-
-|colspan=6|Source:[https://doph.maps.arcgis.com/apps/opsdashboard/index.html#/f8fb4ccc3d2d42c7ab0590dbb3fc26b8/ mohs]<br>​last updated:27 March 2020 (1:45 AM)
+|colspan=6|Source:[https://doph.maps.arcgis.com/apps/opsdashboard/index.html#/f8fb4ccc3d2d42c7ab0590dbb3fc26b8/ mohs]<br>last updated:29 March 2020 (10:30 PM)
 |}
+
+==Laboratory Confirmed Case Summary==
+The following is a summary of currently confirmed cases within Myanmar;<ref name="mohs27">{{cite web |title=COVID-19 ဓာတ်ခွဲအတည်ပြုလူနာ (၅)ဦး သွားလာခဲ့သော ခရီးလမ်းကြောင်းများ (27-3-2020)|url=http://mohs.gov.mm/Main/content/new/covid-19-ဓ-တ-ခ-အတည-ပ-လ-န-၅-ဦ-သ-လ-ခ-သ-ခရ-လမ-က-င-မ-27-3-2020|publisher=[[Ministry of Health and Sports (Myanmar)]] |accessdate=}}</ref>
+
+{| class="wikitable"
+|'''Case No'''
+|'''Age'''
+|'''Gender'''
+|'''Travel History For the Last 14 days'''
+|'''Hospitalization'''
+|'''Starting Date of Hospitalization'''
+|'''Date of Infection'''
+|'''Note'''
+|-
+|C1||36||Male||USA||Tedim Township Hospital||21 March 2020 ||23 March 2020 (11:45 PM)||Received Green Card from USA
+|-
+|C2||26||Male||UK||Way Bar Gi Specialist Hospital||23 March 2020||23 March 2020 (11:45 PM)||
+|-
+|C3||26||Male||UK||Insein General Hospital||23 March 2020||25 March 2020 (1:00 AM)||
+|-
+|C4||33||Male||USA||Kandawnadi Hospital, Mandalay||25 March 2020||27 March 2020 (1:45 AM)||received as American Citizen
+|-
+|C5||69||Male||Australia & Singapore||[[Yangon General Hospital]]||25 March 2020||27 March 2020 (1:45 AM)||
+|-
+|C6||29||Male||UK||Way Bar Gi Specialist Hospital||26 March 2020||28 March 2020 (12:15 AM)||
+|-
+|C7||58||Female||Switzerland||Naypyitaw (1000)Beded Hospital||26 March 2020||28 March 2020 (12:15 AM)||'''Swiss Citizen'''
+|-
+|C8||60||Female||N/A||[[Yangon General Hospital]]||26 March 2020||28 March 2020 (12:15 AM)||guided the French Tourists as Tour Guide
+|-
+|C9||44||Male||Thailand||Pale Myothit General Hospital, Mingalardon Tsp, Yangon||26 March 2020||29 March 2020 (10:30 PM)||
+|-
+|C10||45||Male||N/A||Way Bar Gi Specialist Hospital||28 March 2020||29 March 2020 (10:30 PM)||Closely touched with patient '''C5'''
+|}
+
 လိက်ပရေင်ဏအ်ဂှ် ချူလဝ် ပရူ ၂၀၁၉-၂၀ ကဝ်ရဝ်နာဝဳရုသ် ကပ်ယဲ ပ္ဍဲဍုင်ဗၟာ၊ တုဲ ပရူအလုံလိုက်ဂှ် ဟွံပါလုပ် သီုဖအိုတ်ရ။
 
 == လၟေင်အခိင် ==
