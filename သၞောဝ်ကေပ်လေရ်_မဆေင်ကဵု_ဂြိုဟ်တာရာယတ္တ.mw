@@ -41,7 +41,7 @@ An English translation of Kepler's ''Harmonices Mundi'' is available as:  Johann
 တၠပညာသင်္ချာ ကေုာံ နက္ခတ္တဗေဒ ဂကူအင်္ဂလိက် အိသက် နေဝ်တောန် (Isaac Newton) ကဵုလညာတ် ပစၟတ်သမ္တီ ဗီုညးမကၠိုဟ်ကေတ် စပ်ကဵု သၞောဝ်ဒုတိယဂှ်မ္ဂး သၞောဝ်ဒုတိယဂှ် တုပ်သၟဟ်ဒၟံင် ကုသၞောဝ်စတုရံ ဒြဟတ်ဓရေတ် ဂၠံင်ဂတး (the inverse square law of gravitation)တုဲ မဒှ်အရာ မဆက်စပ် ကုသၞောဝ်ပွူဗဂေတ်သဘာဝတုဲ သၞောဝ်တၞဟ်တအ်ဂှ် ဗဒဗဒါဲဒၟံင် ကုအရာမတံင်ဂြဲ ဗီုပြင်စတုရံဂၠံင်ဂတးရ။ (?), being a consequence just of the radial nature of that law; while the other laws do depend on the inverse square form of the attraction. [[Carl Runge]] and [[Wilhelm Lenz]] much later identified a symmetry principle in the [[phase space]] of planetary motion (the [[orthogonal group]] O(4) acting) which accounts for the first and third laws in the case of Newtonian gravitation, as [[conservation of angular momentum]] does via rotational symmetry for the second law.<ref>{{cite book|author1=Victor Guillemin|author2=Shlomo Sternberg|title=Variations on a Theme by Kepler|url=https://books.google.com/books?id=3NXFth0gDQgC&pg=PR5|date=2006|publisher=American Mathematical Soc.|isbn=978-0-8218-4184-6|page=5}}</ref>
 
 ==ကိုန်ဂစိုတ် Formulary==
-ဗီုပြင်ဂၞန် မဆေင်ကဵု ဗီုဂြိုဟ်ဂမၠိုင် မချဳဓရာင် ဂေတ်လန်ဒၟံင်ဂှ် (The mathematical model) of the kinematics of a planet subject to the laws allows a large range of further calculations.
+တလုင်လအာ ဂြိုဟ်ဂမၠိုင်တအ်ဂှ် နကဵု ဗီုပြင်ဂၞန်သင်္ချာဂှ် တော်ကေတ်မာန်ဒၟံင်ရ။ 
 
 ===သၞောဝ်ကေပ်လေရ် ပထမ  ===
 {{bq|ဂၠံင်ပဝူ ဇၟာပ်ဂြိုဟ်တအ်ဂှ် ဒှ်ဒၟံင် ဗီုပြင်ကဝိုင်ခၜါဲမွဲ၊ တ္ၚဲဂှ် နွံဒၞာဲချိင်မွဲ ပၞောဝ်ကဵု ချိင်ၜါ။}}
@@ -55,7 +55,7 @@ An English translation of Kepler's ''Harmonices Mundi'' is available as:  Johann
 
 ဒၞာဲ  <math>p</math> ဒှ် [[semi-latus rectum]]၊ ''ε'' ဒှ် အရာတၟေင် ကဝိုင်ထၜါဲ၊ ''r'' ဒှ် ဇမ္ၚောဲ နူကဵု တ္ၚဲ ကဵု ဂြိုဟ်ဂှ်၊ တုဲပၠန် ''θ'' ဒှ် နင် (angle) ဂြိုဟ်မတန်တဴဒၟံင် ပစ္စုပ္ပန် နူကဵု ဒၞာဲဍေဟ်မကြပ်ညောန်အိုတ်၊ မရံင် နူကဵု တ္ၚဲ။ တုဲပၠန် (''r'',&nbsp;''θ'') ဒှ် ဒတန်ပၞေဟ်ရိ (polar coordinates)။
 
-For an ellipse 0&nbsp;<&nbsp;''ε''&nbsp;<&nbsp;1 ; in the limiting case ''ε'' = 0, the orbit is a circle with the Sun at the centre (i.e. where there is zero eccentricity).
+သွက် ကဝိုင်ထၜါဲမွဲ မနွံ 0&nbsp;<&nbsp;''ε''&nbsp;<&nbsp;1 ; in the limiting case ''ε'' = 0, the orbit is a circle with the Sun at the centre (i.e. where there is zero eccentricity).
 
 At ''θ'' = 0°, [[perihelion]], the distance is minimum
 :<math>r_\min = \frac{p}{1 + \varepsilon}</math>
