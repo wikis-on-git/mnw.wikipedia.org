@@ -44,13 +44,13 @@ An English translation of Kepler's ''Harmonices Mundi'' is available as:  Johann
 ဗီုပြင်ဂၞန် မဆေင်ကဵု ဗီုဂြိုဟ်ဂမၠိုင် မချဳဓရာင် ဂေတ်လန်ဒၟံင်ဂှ် (The mathematical model) of the kinematics of a planet subject to the laws allows a large range of further calculations.
 
 ===သၞောဝ်ကေပ်လေရ် ပထမ  ===
-{{bq|ဂၠံင်ပဝူThe [[orbit]] of every [[planet]] is an [[ellipse]] with the Sun at one of the two [[Focus (geometry)|foci]].}}
+{{bq|ဂၠံင်ပဝူ ဇၟာပ်ဂြိုဟ်တအ်ဂှ် ဒှ်ဒၟံင် ဗီုပြင်ကဝိုင်ခၜါဲမွဲ၊ တ္ၚဲဂှ် ဒှ်ဗဟဵုမွဲ ပၞောဝ်ကဵု ဗဟဵုၜါ။}}
 
-[[File:kepler-first-law.svg|thumb|Figure 2: Kepler's first law placing the Sun at the focus of an elliptical orbit]]
+[[File:kepler-first-law.svg|thumb|ဗီု ၂: သၞောဝ်ကေပ်လေရပ် ပထမ၊ မစွံလဝ် တ္ၚဲ ပ္ဍဲကဵု ဗဟဵုမွဲ အပ္ဍဲ ဂၠံင်ပဝူကဝိုင်ခၜါဲ။]]
 
-[[File:Ellipse latus rectum.svg|thumb|Figure 4: Heliocentric coordinate system (''r'',{{nbsp}}''θ'') for ellipse. Also shown are: semi-major axis ''a'', semi-minor axis ''b'' and semi-latus rectum ''p''; center of ellipse and its two foci marked by large dots. For {{nowrap|θ {{=}} 0°}}, {{nowrap|''r'' {{=}} ''r''{{sub|min}}}} and for {{nowrap|θ {{=}} 180°}}, {{nowrap|''r'' {{=}} ''r''{{sub|max}}}}.]]
+[[File:Ellipse latus rectum.svg|thumb|ဗီု ၄: သၞောတ် မပံင်ဗစိုပ် မေဓနဳမဇ္ဇဟိမ (သၞောတ်တ္ၚဲမဒှ်ဗဟဵု) (''r'',{{nbsp}}''θ'') သွက် ကဝိုင်ခၜါဲ။ သီုကဵု ထ္ၜးလဝ်: ပၞောန်ဇၞော်-ကဝက် (semi-major axis) ''a''၊ ပၞောန်ဍောတ်-ကဝက် (semi-minor axis) ''b'' ကေုာံ  semi-latus rectum ''p''; လဒေါဝ် ကဝိုင်ခၜါဲ ကေုာံ ဗဟဵုဍေဟ်ၜါ မဍံက်လဝ် ဇၞော်ဇၞော်။ သွက် {{nowrap|θ {{=}} 0°}}, {{nowrap|''r'' {{=}} ''r''{{sub|min}}}} ကေုာံ သွက် {{nowrap|θ {{=}} 180°}}, {{nowrap|''r'' {{=}} ''r''{{sub|max}}}}.]]
 
-Mathematically, an ellipse can be represented by the formula:
+နကဵုသင်္ချာမ္ဂး ကဝိုင်ခၜါဲမွဲဂှ် ပစၞးနကဵု ကိုန်ဂစိုတ်ဂၞန် ဗီုဏအ်ဂွံ:
 :<math>r = \frac{p}{1 + \varepsilon\, \cos\theta},</math>
 
 where  <math>p</math> is the [[semi-latus rectum]], ''ε'' is the [[Eccentricity (mathematics)|eccentricity]] of the ellipse, ''r'' is the distance from the Sun to the planet, and ''θ'' is the angle to the planet's current position from its closest approach, as seen from the Sun. So (''r'',&nbsp;''θ'') are [[polar coordinates]].
