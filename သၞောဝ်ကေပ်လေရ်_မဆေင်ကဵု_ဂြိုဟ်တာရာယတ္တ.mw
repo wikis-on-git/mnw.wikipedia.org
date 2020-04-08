@@ -40,5 +40,191 @@ An English translation of Kepler's ''Harmonices Mundi'' is available as:  Johann
 
 တၠပညာသင်္ချာ ကေုာံ နက္ခတ္တဗေဒ ဂကူအင်္ဂလိက် အိသက် နေဝ်တောန် (Isaac Newton) ကဵုလညာတ် ပစၟတ်သမ္တီ ဗီုညးမကၠိုဟ်ကေတ် စပ်ကဵု သၞောဝ်ဒုတိယဂှ်မ္ဂး သၞောဝ်ဒုတိယဂှ် တုပ်သၟဟ်ဒၟံင် ကုသၞောဝ်စတုရံ ဒြဟတ်ဓရေတ် ဂၠံင်ဂတး (the inverse square law of gravitation)တုဲ မဒှ်အရာ မဆက်စပ် ကုသၞောဝ်ပွူဗဂေတ်သဘာဝတုဲ သၞောဝ်တၞဟ်တအ်ဂှ် ဗဒဗဒါဲဒၟံင် ကုအရာမတံင်ဂြဲ ဗီုပြင်စတုရံဂၠံင်ဂတးရ။ (?), being a consequence just of the radial nature of that law; while the other laws do depend on the inverse square form of the attraction. [[Carl Runge]] and [[Wilhelm Lenz]] much later identified a symmetry principle in the [[phase space]] of planetary motion (the [[orthogonal group]] O(4) acting) which accounts for the first and third laws in the case of Newtonian gravitation, as [[conservation of angular momentum]] does via rotational symmetry for the second law.<ref>{{cite book|author1=Victor Guillemin|author2=Shlomo Sternberg|title=Variations on a Theme by Kepler|url=https://books.google.com/books?id=3NXFth0gDQgC&pg=PR5|date=2006|publisher=American Mathematical Soc.|isbn=978-0-8218-4184-6|page=5}}</ref>
 
+==Formulary==
+The mathematical model of the kinematics of a planet subject to the laws allows a large range of further calculations.
+
+===First law of Kepler ===
+{{bq|The [[orbit]] of every [[planet]] is an [[ellipse]] with the Sun at one of the two [[Focus (geometry)|foci]].}}
+
+[[File:kepler-first-law.svg|thumb|Figure 2: Kepler's first law placing the Sun at the focus of an elliptical orbit]]
+
+[[File:Ellipse latus rectum.svg|thumb|Figure 4: Heliocentric coordinate system (''r'',{{nbsp}}''θ'') for ellipse. Also shown are: semi-major axis ''a'', semi-minor axis ''b'' and semi-latus rectum ''p''; center of ellipse and its two foci marked by large dots. For {{nowrap|θ {{=}} 0°}}, {{nowrap|''r'' {{=}} ''r''{{sub|min}}}} and for {{nowrap|θ {{=}} 180°}}, {{nowrap|''r'' {{=}} ''r''{{sub|max}}}}.]]
+
+Mathematically, an ellipse can be represented by the formula:
+:<math>r = \frac{p}{1 + \varepsilon\, \cos\theta},</math>
+
+where  <math>p</math> is the [[semi-latus rectum]], ''ε'' is the [[Eccentricity (mathematics)|eccentricity]] of the ellipse, ''r'' is the distance from the Sun to the planet, and ''θ'' is the angle to the planet's current position from its closest approach, as seen from the Sun. So (''r'',&nbsp;''θ'') are [[polar coordinates]].
+
+For an ellipse 0&nbsp;<&nbsp;''ε''&nbsp;<&nbsp;1 ; in the limiting case ''ε'' = 0, the orbit is a circle with the Sun at the centre (i.e. where there is zero eccentricity).
+
+At ''θ'' = 0°, [[perihelion]], the distance is minimum
+:<math>r_\min = \frac{p}{1 + \varepsilon}</math>
+
+At ''θ'' = 90° and at ''θ'' = 270° the distance is equal to <math>p</math>.
+
+At ''θ'' = 180°, [[aphelion]], the distance is maximum (by definition, aphelion is – invariably – perihelion plus 180°)
+:<math>r_\max = \frac{p}{1 - \varepsilon}</math>
+
+The [[semi-major axis]] ''a'' is the [[arithmetic mean]] between ''r''<sub>min</sub> and ''r''<sub>max</sub>:
+:<math>\begin{align}
+  r_\max - a &= a - r_\min \\[3pt]
+           a &= \frac{p}{1 - \varepsilon^2}
+\end{align}</math>
+
+The [[semi-minor axis]] ''b'' is the [[geometric mean]] between ''r''<sub>min</sub> and ''r''<sub>max</sub>:
+:<math>\begin{align}
+  \frac{r_\max}{b} &= \frac{b}{r_\min} \\[3pt]
+                 b &= \frac{p}{\sqrt{1 - \varepsilon^2}}
+\end{align}</math>
+
+The [[semi-latus rectum]] ''p'' is the [[harmonic mean]] between ''r''<sub>min</sub> and ''r''<sub>max</sub>:
+:<math>\begin{align}
+  \frac{1}{r_\min} - \frac{1}{p} &= \frac{1}{p} - \frac{1}{r_\max} \\[3pt]
+                              pa &= r_\max r_\min = b^2\,
+\end{align}</math>
+
+The [[eccentricity (mathematics)|eccentricity]] ''ε'' is the [[coefficient of variation]] between ''r''<sub>min</sub> and ''r''<sub>max</sub>:
+:<math>\varepsilon = \frac{r_\max - r_\min}{r_\max + r_\min}.</math>
+
+The [[area]] of the ellipse is
+:<math>A = \pi a b\,.</math>
+
+The special case of a circle is ''ε'' = 0, resulting in ''r'' = ''p'' =  ''r''<sub>min</sub> = ''r''<sub>max</sub> = ''a'' = ''b'' and ''A'' = ''πr''<sup>2</sup>.
+
+===Second law of Kepler===
+{{bq|A [[line (geometry)|line]] joining a planet and the Sun sweeps out equal areas during equal intervals of time.<ref name="Wolfram2nd"/>}}
+
+[[File:kepler-second-law.gif|thumb|The same (blue) area is swept out in a fixed time period. The green arrow is velocity. The purple arrow directed towards the Sun is the acceleration. The other two purple arrows are acceleration components parallel and perpendicular to the velocity.]]
+
+The orbital radius and angular velocity of the planet in the elliptical orbit will vary. This is shown in the animation: the planet travels faster when closer to the Sun, then slower when farther from the Sun. Kepler's second law states that the blue sector has constant area.
+
+In a small time <math>dt\,</math> the planet sweeps out a small triangle having base line <math>r</math> and height <math>r \, d\theta</math> and area <math>dA = \frac{1}{2} \cdot r \cdot r \, d\theta</math>, so the constant [[areal velocity]] is <math>\frac{dA}{dt} = \frac{r^2}{2} \frac{d\theta}{dt}.</math>
+
+The area enclosed by the elliptical orbit is <math>\pi ab.\,</math> So the period <math>P</math> satisfies
+:<math>P \cdot \frac{r^2}{2} \frac{d\theta}{dt} = \pi ab</math>
+
+and the [[mean motion]] of the planet around the Sun
+:<math>n = \frac{2\pi}{P}</math>
+
+satisfies
+:<math>r^2\,d\theta = abn\,dt.</math>
+
+===Third law of Kepler===
+<!--- The article Gravitation links to this subsection. Please do not change the title of this subsection without making the appropriate amendments to all articles that link to it --->
+{{bq|The [[square (algebra)|square]] of the [[orbital period]] of a planet is directly [[Proportionality (mathematics)|proportional]] to the [[cube (arithmetic)|cube]] of the [[semi-major axis]] of its orbit.}}
+
+This captures the relationship between the distance of planets from the Sun, and their orbital periods.
+
+Kepler enunciated in 1619<ref name = "Kepler 1619"/> this third law in a laborious attempt to determine what he viewed as the "[[Musica universalis|music of the spheres]]" according to precise laws, and express it in terms of musical notation.<ref>[[Edwin Arthur Burtt|Burtt, Edwin]]. ''The Metaphysical Foundations of Modern Physical Science''. p. 52.</ref>
+So it was known as the ''harmonic law''.<ref name=Holton3>{{cite book |title=Physics, the Human Adventure |author=Gerald James Holton, Stephen G. Brush |page=45 |url=https://books.google.com/?id=czaGZzR0XOUC&pg=PA45|isbn=978-0-8135-2908-0 |publisher=Rutgers University Press |date=2001}}</ref>
+
+Using Newton's Law of gravitation (published 1687), this relation can be found in the case of a circular orbit by setting the [[centripetal force]] equal to the gravitational force:
+: <math>mr\omega^2 = G\frac{mM}{r^2}</math>
+
+Then, expressing the angular velocity in terms of the orbital period and then rearranging, we find Kepler's Third Law:
+: <math>mr\left(\frac{2\pi}{T}\right)^2 = G\frac{mM}{r^2} \rightarrow T^2 = \left(\frac{4\pi^2}{GM} \right)r^3 \rightarrow  T^2 \propto r^3</math>
+
+A more detailed derivation can be done with general elliptical orbits, instead of circles, as well as orbiting the center of mass, instead of just the large mass. This results in replacing a circular radius, <math>r</math>, with the semi-major axis, <math>a</math>, of the elliptical relative motion of one mass relative to the other, as well as replacing the large mass <math>M</math> with <math>M + m</math>. However, with planet masses being so much smaller than the Sun, this correction is often ignored. The full corresponding formula is:
+:<math>\frac{a^3}{T^2} = \frac{G(M + m)}{4\pi^2} \approx \frac{GM}{4\pi^2} \approx 7.496 \cdot 10^{-6} \left(\frac{\text{AU}^3}{\text{days}^2}\right) \text{ is constant}</math>
+
+where <math>M</math> is the [[Solar mass|mass of the Sun]], <math>m</math> is the mass of the planet, and <math>G</math> is the [[gravitational constant]], <math>T</math> is the orbital period and <math>a</math> is the elliptical semi-major axis.
+
+The following table shows the data used by Kepler to empirically derive his law:
+{| class="wikitable"
+|+ Data used by Kepler (1618)
+! Planet
+! Mean distance <br />to sun (AU)
+! Period <br />(days)
+! <math display="inline">\frac{R^3}{T^2}</math>{{nbsp}}(10{{sup|-6}}{{nbsp}}AU{{sup|3}}/day{{sup|2}})
+|-
+|Mercury
+|0.389
+|87.77
+|7.64
+|-
+|Venus
+|0.724
+|224.70
+|7.52
+|-
+|Earth
+|1
+|365.25
+|7.50
+|-
+|Mars
+|1.524
+|686.95
+|7.50
+|-
+|Jupiter
+|5.2
+|4332.62
+|7.49
+|-
+|Saturn
+|9.510
+|10759.2
+|7.43
+|}
+
+Upon finding this pattern Kepler wrote:<ref>{{Cite book|title=Kepler|last=Caspar|first=Max|publisher=Dover|year=1993|isbn=|location=New York|pages=}}</ref>
+
+{{Quote box
+| quote = "I first believed I was dreaming… But it is absolutely certain and exact that the ratio which exists between the period times of any two planets is precisely the ratio of the 3/2th power of the mean distance."
+| source = translated from ''Harmonies of the World'' by Kepler (1619)
+| align = center
+}}
+[[File:Solar system planets a(AU) vs period(terrestrial years).svg|alt=|thumb|520x520px|Log-log plot of the semi-major axis (in Astronomical Units) versus the orbital period (in terrestrial years) for the eight planets of the Solar System.]]
+For comparison, here are modern estimates:
+{| class="wikitable"
+|+ Modern data (Wolfram Alpha Knowledgebase 2018)
+! Planet
+! Semi-major axis (AU)
+! Period (days)
+! <math display="inline">\frac{R^3}{T^2}</math>{{nbsp}}(10{{sup|-6}}{{nbsp}}AU{{sup|3}}/day{{sup|2}})
+|-
+|Mercury
+|0.38710
+|87.9693
+|7.496
+|-
+|Venus
+|0.72333
+|224.7008
+|7.496
+|-
+|Earth
+|1
+|365.2564
+|7.496
+|-
+|Mars
+|1.52366
+|686.9796
+|7.495
+|-
+|Jupiter
+|5.20336
+|4332.8201
+|7.504
+|-
+|Saturn
+|9.53707
+|10775.599
+|7.498
+|-
+|Uranus
+|19.1913
+|30687.153
+|7.506
+|-
+|Neptune
+|30.0690
+|60190.03
+|7.504
+|}
+
+
 == နိဿဲ ==
 {{reflist}}
