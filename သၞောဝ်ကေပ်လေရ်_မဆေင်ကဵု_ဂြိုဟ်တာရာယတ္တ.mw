@@ -10,7 +10,7 @@
 | The total orbit times for planet 1 and planet 2 have a ratio <math display="inline">\left(\frac{a_1}{a_2}\right)^\frac{3}{2}</math>.
 }}]]
 
-# ('''သၞောဝ် ဂၠံင်ပဝူ''') ဂၠံင်ပဝူ ဂြိုဟ်မွဲဂှ် ဒှ်ဒၟံင် ကဝိုင်ခၜါဲ မဂေတ်ပူဒၟံင် တ္ၚဲ တုဲ အပ္ဍဲပဝူဂှ် ဗဟဵုနွံၜါ ပၞောဝ်ၜါဂှ် တ္ၚဲဂှ် ဒှ်ဗဟဵုမွဲ။ <br>The orbit of a planet is an ellipse with the Sun at one of the two foci.
+# ('''သၞောဝ် ဂၠံင်ပဝူ''') ဂၠံင်ပဝူ ဂြိုဟ်မွဲဂှ် ဒှ်ဒၟံင် ကဝိုင်ခၜါဲ မဂေတ်ပူဒၟံင် တ္ၚဲ တုဲ အပ္ဍဲပဝူဂှ် ချိင်နွံၜါ ပၞောဝ်ၜါဂှ် တ္ၚဲဂှ် နွံဒၞာဲ ချိင်မွဲ။ <br>The orbit of a planet is an ellipse with the Sun at one of the two foci.
 # ('''သၞောဝ် ဨရိယာ''') ဒကုတ်ပဝူဂၠံင် ဂြိုဟ်မွဲ မဂေတ်ပူဒၟံင် တ္ၚဲဂှ် (နူကဵုတ္ၚဲ) ဂလိုင်ဨရိယာမတုပ်မ္ဂး လလအ် အခိင်လေဝ် တုပ်ကီု။<br> A line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time.
 # ('''သၞောဝ် ကာလ''') ဗွိုင် လလအ်ဂၠံင်ပဝူ (လလအ်အခိင် ဂြိုဟ်မွဲ မဂေတ် ဂွံမွဲပဝူ) ဂြိုဟ်မွဲမွဲဂှ် တန်တဴဒၟံင် ဂလိုင်လၟိဟ် ဇမၞော်ကူဗေ ပၞောန်ဇၞော်ကဝက်။ <br>The square of the orbital period of a planet is directly proportional to the cube of the semi-major axis of its orbit.
 
@@ -44,16 +44,16 @@ An English translation of Kepler's ''Harmonices Mundi'' is available as:  Johann
 ဗီုပြင်ဂၞန် မဆေင်ကဵု ဗီုဂြိုဟ်ဂမၠိုင် မချဳဓရာင် ဂေတ်လန်ဒၟံင်ဂှ် (The mathematical model) of the kinematics of a planet subject to the laws allows a large range of further calculations.
 
 ===သၞောဝ်ကေပ်လေရ် ပထမ  ===
-{{bq|ဂၠံင်ပဝူ ဇၟာပ်ဂြိုဟ်တအ်ဂှ် ဒှ်ဒၟံင် ဗီုပြင်ကဝိုင်ခၜါဲမွဲ၊ တ္ၚဲဂှ် ဒှ်ဗဟဵုမွဲ ပၞောဝ်ကဵု ဗဟဵုၜါ။}}
+{{bq|ဂၠံင်ပဝူ ဇၟာပ်ဂြိုဟ်တအ်ဂှ် ဒှ်ဒၟံင် ဗီုပြင်ကဝိုင်ခၜါဲမွဲ၊ တ္ၚဲဂှ် နွံဒၞာဲချိင်မွဲ ပၞောဝ်ကဵု ချိင်ၜါ။}}
 
 [[File:kepler-first-law.svg|thumb|ဗီု ၂: သၞောဝ်ကေပ်လေရပ် ပထမ၊ မစွံလဝ် တ္ၚဲ ပ္ဍဲကဵု ဗဟဵုမွဲ အပ္ဍဲ ဂၠံင်ပဝူကဝိုင်ခၜါဲ။]]
 
-[[File:Ellipse latus rectum.svg|thumb|ဗီု ၄: သၞောတ် မပံင်ဗစိုပ် မေဓနဳမဇ္ဇဟိမ (သၞောတ်တ္ၚဲမဒှ်ဗဟဵု) (''r'',{{nbsp}}''θ'') သွက် ကဝိုင်ခၜါဲ။ သီုကဵု ထ္ၜးလဝ်: ပၞောန်ဇၞော်-ကဝက် (semi-major axis) ''a''၊ ပၞောန်ဍောတ်-ကဝက် (semi-minor axis) ''b'' ကေုာံ  semi-latus rectum ''p''; လဒေါဝ် ကဝိုင်ခၜါဲ ကေုာံ ဗဟဵုဍေဟ်ၜါ မဍံက်လဝ် ဇၞော်ဇၞော်။ သွက် {{nowrap|θ {{=}} 0°}}, {{nowrap|''r'' {{=}} ''r''{{sub|min}}}} ကေုာံ သွက် {{nowrap|θ {{=}} 180°}}, {{nowrap|''r'' {{=}} ''r''{{sub|max}}}}.]]
+[[File:Ellipse latus rectum.svg|thumb|ဗီု ၄: သၞောတ် မပံင်ဗစိုပ် မေဓနဳမဇ္ဇဟိမ (သၞောတ်တ္ၚဲမဒှ်ဗဟဵု) (''r'',{{nbsp}}''θ'') သွက် ကဝိုင်ခၜါဲ။ သီုကဵု ထ္ၜးလဝ်: ပၞောန်ဇၞော်-ကဝက် (semi-major axis) ''a''၊ ပၞောန်ဍောတ်-ကဝက် (semi-minor axis) ''b'' ကေုာံ  semi-latus rectum ''p''; ဗဟဵု ကဝိုင်ခၜါဲ ကေုာံ ချိင်ဍေဟ်ၜါ မဍံက်လဝ် ဇၞော်ဇၞော်။ သွက် {{nowrap|θ {{=}} 0°}}, {{nowrap|''r'' {{=}} ''r''{{sub|min}}}} ကေုာံ သွက် {{nowrap|θ {{=}} 180°}}, {{nowrap|''r'' {{=}} ''r''{{sub|max}}}}.]]
 
-နကဵုသင်္ချာမ္ဂး ကဝိုင်ခၜါဲမွဲဂှ် ပစၞးနကဵု ကိုန်ဂစိုတ်ဂၞန် ဗီုဏအ်ဂွံ:
+နကဵုသင်္ချာမ္ဂး ကဝိုင်ခၜါဲမွဲဂှ် ပစၞး နကဵုကိုန်ဂစိုတ်ဂၞန် ဗီုဏအ်ဂွံ:
 :<math>r = \frac{p}{1 + \varepsilon\, \cos\theta},</math>
 
-where  <math>p</math> is the [[semi-latus rectum]], ''ε'' is the [[Eccentricity (mathematics)|eccentricity]] of the ellipse, ''r'' is the distance from the Sun to the planet, and ''θ'' is the angle to the planet's current position from its closest approach, as seen from the Sun. So (''r'',&nbsp;''θ'') are [[polar coordinates]].
+ဒၞာဲ  <math>p</math> ဒှ် [[semi-latus rectum]]၊ ''ε'' ဒှ် အရာတၟေင် ကဝိုင်ထၜါဲ၊ ''r'' ဒှ် ဇမ္ၚောဲ နူကဵု တ္ၚဲ ကဵု ဂြိုဟ်ဂှ်၊ တုဲပၠန် ''θ'' ဒှ် နင် (angle) ဂြိုဟ်မတန်တဴဒၟံင် ပစ္စုပ္ပန် နူကဵု ဒၞာဲဍေဟ်မကြပ်ညောန်အိုတ်၊ မရံင် နူကဵု တ္ၚဲ။ တုဲပၠန် (''r'',&nbsp;''θ'') ဒှ် ဒတန်ပၞေဟ်ရိ (polar coordinates)။
 
 For an ellipse 0&nbsp;<&nbsp;''ε''&nbsp;<&nbsp;1 ; in the limiting case ''ε'' = 0, the orbit is a circle with the Sun at the centre (i.e. where there is zero eccentricity).
 
