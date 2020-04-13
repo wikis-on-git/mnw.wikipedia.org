@@ -1,7 +1,9 @@
 {{Infobox pandemic
 | name            = 2020 coronavirus pandemic in Myanmar
 | map1            = COVID-19 Outbreak Cases in Myanmar.svg
-| legend1         = Map of the pandemic in Myanmar (as of 29 March 2020)
+| legend1         = Map of the pandemic in Myanmar (as of 14 April 2020)
+{{legend|#ff8080ff|50–99 confirmed cases}}
+{{legend|#ffaaaaff|10–49 confirmed cases}}
 {{legend|#ffd5d5ff|1–9 confirmed cases}}
 | map2            = 
 | legend2         = 
@@ -15,7 +17,7 @@
 | origin          = 
 | recovery_cases  = 2
 | deaths          = 4
-| confirmed_cases = 41<ref>{{cite news|url=https://www.thestar.com.my/news/regional/2020/03/27/number-of-covid-19-cases-rises-to-5-in-myanmar|title=Number of Covid-19 cases rises to 5 in Myanmar|work=The Star Online|date=27 March 2020|access-date=27 March 2020}}</ref>
+| confirmed_cases = 62<ref>{{cite news|url=https://www.thestar.com.my/news/regional/2020/03/27/number-of-covid-19-cases-rises-to-5-in-myanmar|title=Number of Covid-19 cases rises to 5 in Myanmar|work=The Star Online|date=27 March 2020|access-date=27 March 2020}}</ref>
 | suspected_cases = 
 | total_ili       = 
 | website         = 
