@@ -1,7 +1,7 @@
 {{Infobox pandemic
 | name            = 2020 coronavirus pandemic in Myanmar
 | map1            = COVID-19 Outbreak Cases in Myanmar.svg
-| legend1         = Map of the pandemic in Myanmar (as of 14 April 2020)
+| legend1         = Map of the pandemic in Myanmar (as of 18 April 2020)
 {{legend|#ff8080ff|50–99 confirmed cases}}
 {{legend|#ffaaaaff|10–49 confirmed cases}}
 {{legend|#ffd5d5ff|1–9 confirmed cases}}
@@ -16,8 +16,8 @@
 | arrival_date    = 23 March 2020<br />({{Age in years, months, weeks and days|month1=3|day1=23|year1=2020|month2=|day2=|year2=}})
 | origin          = 
 | recovery_cases  = 2
-| deaths          = 4
-| confirmed_cases = 62<ref>{{cite news|url=https://www.thestar.com.my/news/regional/2020/03/27/number-of-covid-19-cases-rises-to-5-in-myanmar|title=Number of Covid-19 cases rises to 5 in Myanmar|work=The Star Online|date=27 March 2020|access-date=27 March 2020}}</ref>
+| deaths          = 5
+| confirmed_cases = 94<ref>{{cite news|url=https://www.thestar.com.my/news/regional/2020/03/27/number-of-covid-19-cases-rises-to-5-in-myanmar|title=Number of Covid-19 cases rises to 5 in Myanmar|work=The Star Online|date=27 March 2020|access-date=27 March 2020}}</ref>
 | suspected_cases = 
 | total_ili       = 
 | website         = 
@@ -30,17 +30,16 @@
 |caption=Places of Confirmed Cases
 }}
 {| class="wikitable"
-|-style="background:#006B31; color:white"
-|'''PUI/SC'''
-|'''Person Under Investigation (PUI)'''
-|'''Supected Case'''
-|'''Laboratory Confirmed Case'''
-|'''Laboratory Result Negative'''
-|'''Laboratory Result Pending'''
 |-
-|372||370||2||style="background-color:#ee3333;text-align:center;" |''10''||334||30
+!Total Specimens Tested
+!Person Under Investigation
+!Laboratory Confirmed Case
+!Recovered
+!Deaths
 |-
-|colspan=6|Source:[https://doph.maps.arcgis.com/apps/opsdashboard/index.html#/f8fb4ccc3d2d42c7ab0590dbb3fc26b8/ mohs]<br>last updated:29 March 2020 (10:30 PM)
+|3880|| 1754|| ''94''|| ''2''|| ''5''
+|-
+| colspan="8" |Source:[https://doph.maps.arcgis.com/apps/opsdashboard/index.html#/f8fb4ccc3d2d42c7ab0590dbb3fc26b8/ mohs]<br>last updated:18 April 2020
 |}
 
 ==Laboratory Confirmed Case Summary==
