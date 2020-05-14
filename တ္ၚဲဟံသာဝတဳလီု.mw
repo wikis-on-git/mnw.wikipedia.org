@@ -1,3 +1,34 @@
+{{Infobox holiday
+|holiday_name  = တ္ၚဲဟံသာဝတဳလီု
+|type          = စၟတ်သမ္တီ
+|image         =
+|imagesize     =
+|caption       =
+|official_name =
+|nickname      =
+|observedby    =
+|litcolor      =
+|longtype      =
+|significance  =
+|begins        =
+|ends          =
+|date          =
+|scheduling    = <!-- e.g. "same day each year" -->
+|duration      = <!-- e.g. "1 day", "1 week" -->
+|frequency     = <!-- e.g. "annual", "every 4 years", "once" -->
+<!-- Use next three if holiday is the same day of the same week every year -->
+|week_ordinal  = <!-- "first", "second", "last", etc. -->
+|weekday       = <!-- "Sunday", "Monday", "Friday", etc. -->
+|month         = <!-- "January", "February", "December", etc. -->
+<!-- Use next four if the date changes in an unusual pattern each year -->
+|date2019      = <!-- only for days that change each year -->
+|date2020      = <!-- only for days that change each year -->
+|date2021      = <!-- only for days that change each year -->
+|date2022      = <!-- only for days that change each year -->
+|celebrations  =
+|observances   =
+|relatedto     =
+}}
 {{Celebration
 |name = တ္ၚဲဟံသာဝတဳလီု<br>Mon Kingdom Hongsawatoi Fallen Day
 |image =
