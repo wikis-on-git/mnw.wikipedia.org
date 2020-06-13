@@ -1,46 +1,39 @@
-
-{{Infobox unit|name=metre|standard=[[SI base unit]]|quantity=[[length]]|symbol=m<ref>
+{{Infobox unit
+|name=မဳတာ<br>metre
+|standard=[[SI base unit]]
+|quantity=[[length]]
+|symbol=m<ref>
 {{cite web
 |url=http://physics.nist.gov/cuu/Units/meter.html
 |title=Base unit definitions: Meter
 |publisher=[[National Institute of Standards and Technology]]
 |accessdate=28 September 2010
-}}</ref>|units1=[[SI units]]|inunits1={{val|1000|ul=mm}}<br />&emsp;{{val|0.001|ul=km}}|units2=[[imperial units|Imperial]]/[[US customary units|US]] units|inunits2=≈&thinsp;{{val|1.0936}} [[yard|yd]]<br />&emsp;≈&thinsp;{{val|3.2808}} [[foot (unit)|ft]]<br />&emsp;≈&thinsp;{{val|39.370}} [[inch|in]]&thinsp;|units3=Nautical units|inunits3=≈&thinsp;{{val|0.00053996}} [[nautical mile|nmi]]&thinsp;|image=Metric seal.svg|caption=Seal of the International Bureau of Weights and Measures (BIPM) – Use measure (Greek: ΜΕΤΡΩ ΧΡΩ)}}မဳတာ ('''metre)''' (အင်္ဂလိက်) '''meter''' (အမေရိကာန်) (ကၠုင် နူအရေဝ်ပြင်သေတ် ''mètre'', နူတမ် ကၠုင်နူဂရိတ် μέτρον, "measure") ဝွံ မဒှ်ဗ္ၜတ်တမ် သွက်ဂွံၜတ် ဇမၠိင် ပ္ဍဲကဵု သၞောတ်ဗ္ၜတ်ဂၠးကဝ် (International System of Units (SI)) ရ။ မဳတာဂှ် ယဝ်ရ ချူဖ္ဍန်မ္ဂး နကဵုသင်္ကေတ  '''m'''.
-မဳတာဂှ် စၟတ်သမ္တီလဝ် အတိုင်ဇမၠိင် လျးမအာစိုပ် ပ္ဍဲစမၠး ပ္ဍဲကဵု အခိင်ကာလ 1/299.792.458 [[စက္က]] (ဟီုမွဲသာ်ပၠန် ၜိုတ် 0,0000000033564 စက္က)ရ။ မဳတာဂှ် စၟတ်သမ္တီ ပံက်လဝ် ပွံက် နကဵုတၠပညာပြင်သေတ် နူတမ်မူလ ပ္ဍဲသၞာံ ၁၇၉၃ နကဵု ဇမၠိင် နူကဵု အဳကွေတာ စဵုစိုပ် ရိပၞေဟ်ဂၠးတိသၟဝ်ကျာ မတတ်အာ ဍုင်ပဴရေတ်ဂှ် ဒကုတ်ထောအ် စှ်မဳလဳယာန်ဒကုတ်မ္ဂး မွဲဒကုတ်ဂှ် ဒှ်ဇမၠိင် မွဲမဳတာရ။ နွံမွဲဒကုတ်  စှ်-မဳလဳယာန်အလန်။ ဟိုတ်ဂှ်ရ ဇမၠိင်ခ္ဍမ်ဂၠးတိဂှ် နွံဒၟံင် ၜိုတ် ၄၀ ၀၀၀ ကဳလဝ်မဳတာ ရ။ 
-{| class="wikitable" style="margin:0 auto;"
-|+Definitions of the metre since 1795
-!Basis of definition
-!Date
-!Absolute<br /><br />uncertainty
-!Relative<br /><br />uncertainty
-|-
-|1/10 000 000 part of the [[Circular sector|quadrant]] along the [[Meridian (geography)|meridian]], measurement by [[Jean Baptiste Joseph Delambre|Delambre]] and [[Pierre Méchain|Méchain]] (443.296 lines)
-|1795
-|500–100{{Spaces}}μm
-|10−4
-|-
-|First prototype ''{{Lang|fr|[[History of the metre#Mètre des Archives|Mètre des Archives]]}}'' platinum bar standard
-|1799
-|50–10{{Spaces}}μm
-|10−5
-|-
-|Platinum-iridium bar at melting point of ice (1st CGPM)
-|1889
-|0.2–0.1 μm (200–100 nm)
-|10−7
-|-
-|Platinum-iridium bar at melting point of ice, atmospheric pressure, supported by two rollers (7th CGPM)
-|1927
-|n.a.
-|n.a.
-|-
-|Hyperfine atomic transition; {{Val|1650763.73}} wavelengths of light from a specified transition in krypton-86 (11th CGPM)
-|1960
-|4{{Spaces}}nm
-|{{Val|4e-9}}
-|-
-|Length of the path travelled by light in a vacuum in 1/299 792 458 second (17th CGPM)
-|1983
-|0.1{{Spaces}}nm
-|10−10
-|}
+}}</ref>
+|units1=[[SI units]]
+|inunits1={{val|1000|ul=mm}}<br />&emsp;{{val|0.001|ul=km}}
+|units2=[[imperial units|Imperial]]/[[US customary units|US]] units
+|inunits2=≈&thinsp;{{val|1.0936}} [[yard|yd]]<br />&emsp;≈&thinsp;{{val|3.2808}} [[foot (unit)|ft]]<br />&emsp;≈&thinsp;{{val|39.370}} [[inch|in]]&thinsp;
+|units3=Nautical units
+|inunits3=≈&thinsp;{{val|0.00053996}} [[nautical mile|nmi]]&thinsp;
+|image=Metric seal.svg
+|caption=Seal of the International Bureau of Weights and Measures (BIPM) – Use measure (Greek: ΜΕΤΡΩ ΧΡΩ)
+}}
+'''မဳတာ''' ('''metre)''' (အင်္ဂလိက်) '''meter''' (အမေရိကာန်) (ကၠုင် နူအရေဝ်ပြင်သေတ် ''mètre'', နူတမ် ကၠုင်နူ ဂရိတ် μέτρον, "measure") ဝွံ မဒှ်ဗ္ၜတ်တမ် သွက်ဂွံၜတ် ဇမၠိင် ပ္ဍဲကဵု သၞောတ်ဗ္ၜတ်ဂၠးကဝ် (International System of Units (SI)) ရ။ မဳတာဂှ် ယဝ်ရ ချူဖ္ဍန် နကဵုသင်္ကေတမ္ဂး ချူ နကဵု '''m'''ရ။ နကဵုဘာသာမန်ဂှ် ဟွံစၟတ်သမ္တီဏီဖိုဟ်ရ။
+
+မဳတာဂှ် စၟတ်သမ္တီလဝ် အတိုင်ဇမၠိင် လျးမအာစိုပ် ပ္ဍဲစမၠး ပ္ဍဲကဵု အခိင်ကာလ 1/299.792.458 [[စက္က]] (ဟီုမွဲသာ်ပၠန် ၜိုတ် 0,0000000033564 စက္က ဂှ်လျးအာစိုပ် ဂွံဇမၠိင် မွဲမဳတာ)ရ။ မဳတာဂှ် စၟတ်သမ္တီ ပံက်လဝ် ပွံက် နကဵုတၠပညာပြင်သေတ် နူတမ်မူလ ပ္ဍဲသၞာံ ၁၇၉၃ နကဵု ဇမၠိင် နူကဵု အဳကွေတာ စဵုစိုပ် ရိပၞေဟ်ဂၠးတိသၟဝ်ကျာ မတတ်အာ ဍုင်ပဴရေတ်ဂှ် ဒကုတ်ထောအ် စှ်မဳလဳယာန်ဒကုတ် (10.000.000) မ္ဂး မွဲဒကုတ်ဂှ် ဒှ်ဇမၠိင် မွဲမဳတာရ။ ဟိုတ်ဂှ်ရ ဇမၠိင်ခ္ဍမ်ဂၠးတိဂှ် နွံဒၟံင် ၜိုတ် ၄၀ ၀၀၀ ကဳလဝ်မဳတာ ရ။ 
+
+== ပွံက် ==
+မဳတာဂှ် စတမ်နူ ၂၀ မေ ၂၀၁၉ ဂှ်တုဲ ပလဝ်ဒတန် နကဵု ပွံက် အသိင်ပရဟ်လျး ပ္ဍဲစမၠး မတုပ်ကဵု 299,792,458 ပ္ဍဲအခိင်ကာလ ပွိုင်မွဲစက္က။ မွဲစက္ကဂှ် ပံက်လဝ် ပွံက် မဒှ်အခိင်ကာလ လလအ် ကသဳဓါတ် ဓါတ်သေသဳယာမ် (Caesium) Δ𝝂<sub>𝐂𝐬</sub>ရ။ ပွံက်ဏအ်ဂှ် တုပ်ကဵု ပွံက် မပလဝ်ဒတန် ပ္ဍဲသၞာံ ၁၉၈၃ "မဳတာဂှ် နွံဇမၠိင် လျးမအာ ပ္ဍဲကဵု စမၠး ပ္ဍဲအခိင်ကာလ လလအ် ပွိုင် 1/299.792.458 စက္က" ဂှ်ရ။<ref>Bureau International des Poids et Mesures (20. maj 2019). [https://www.bipm.org/utils/en/pdf/si-mep/SI-App2-metre.pdf Mise en pratique for the definition of the metre in the SI], side 1.</ref><ref name="bipm9"/>
+
+===ပွံက် တမၠာ===
+မဳတာဂှ် ကိုပ်ကၠာအိုတ် (Académie des sciences) တၠပညာဂကူပြင်သေတ် စၟတ်သမ္တီလဝ် ပ္ဍဲသၞာံ ၁၇၉၁ နကဵု မွဲဒကုတ်၊ မကေတ်ဇမ္ၚောဲ နူကဵု အဳကွေတာ စဵုကဵု ရိပၞဟ်ဂၠးတိသၟဝ်ကျာ မပါ်ထောအ် စှ်မဳလဳယာန်ဒကုတ် (1/10.000.000) ရ။<ref>Simon Winchester (18. dec. 2018) [https://www.wired.com/story/book-excerpt-the-perfectionists-history-meter/ Galileo, Krypton, and How the True and Accurate Meter Came to Be] på wired.com</ref> ဗၞတ်ဗ္ၜတ်ဇမၠိင်တၟိဂှ် တၞဟ်န ညးဂမၠိုင် ဂွံစကာတုဲ ပ္ဍဲဍုင်ပဴရေတ်ဂှ် ဖျေဟ်လဝ် တိုင်တၟအ် ခြာမွဲမွဲမဳတာ သီုဖအိုတ် တြဴဒၞာဲရ။<ref>Paul Murdin (2009) [https://books.google.dk/books?id=YUHyhL8MyIQC&pg=PA163 Full Meridian of Glory: Perilous Adventures in the Competition to Measure the Earth], side 163. Springer. ISBN 978-0-387-75534-2</ref>  
+
+စိုပ်သၞာံ ၁၈၇၅ ဂှ် ဗၞတ်ဗ္ၜတ်မဳတာဂှ် ညံင်ဂွံဒှ် စကာအလုံလိုက်တုဲ ဒှ်ကၠုင်ဗ္ၜတ်ဂၠးကဝ် မကော်ဂးစ ဗ္ၜတ်အေတ်အာင် (SI) ရ။<ref>[https://www.nist.gov/si-redefinition/meter SI-Redefinition - Meter]. National Institute of Standards and Technology (NIST). Hentet 9. sept. 2019</ref> 
+
+ပ္ဍဲအခိင်ကာလ အကြာ ၁၉၆၀ ကဵု ၁၉၈၃ ဂှ် ပံက်လဝ် ပွံက်မဳတာ နကဵု ပရဟ်လပှ်လလဳ 1.650.763,73 အလန် မဗလး နူကဵုဓါတ်ကြပ်ထောန်-၈၆ (Krypton-86) အကြာအကာဲအရာဒြဟတ်ၜါဂှ်ရ။ နကဵုနဲဏအ်ဂှ် ချိုတ်ပၠိုတ် ဂၠိုင်နူ နဲတြေံဂှ် ၅၀ အလန်ရ။<ref>Harald Simonsen (1999) ''[http://old.dops.dk/pictures/pdf/archive/1999/99_2_art1.pdf Realisering af meteren ved frekvensstabile lasere]''. Dansk Institut for Fundamental Metrologi.</ref> 
+
+ပ္ဍဲသၞာံ ၁၉၈၃ မဳတာဂှ် ပံက်လဝ် နကဵုပွံက် မဒုင်သဇိုင် ကုဒမြိပ်လျး မအာစိုပ် ပ္ဍဲစမၠး ပ္ဍဲအခိင် 1/299.792.458 [[စက္က]]ရ။
+
+==နိဿဲ==
+
+[[ကဏ္ဍ:ဗ္ၜတ်]] [[ကဏ္ဍ:BEHM]]
