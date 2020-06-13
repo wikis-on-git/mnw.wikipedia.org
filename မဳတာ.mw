@@ -58,6 +58,36 @@
 |xy=[[yoctometre]]| note=Common prefixed units are in '''bold''' face.
 |mc=}}
 
+== မသၟဟ် ကု သၞောတ်ဗ္ၜတ်တၞဟ် ==
+{| class=wikitable style="margin:0 auto;"
+|-
+! colspan="5" style="text-align:left;"|Metric unit<br/>expressed in non-SI units
+! colspan="4" style="text-align:left;"|Non-SI unit<br/>expressed in metric units
+|-
+| 1 metre ||≈ ||style="text-align:right;"|1.0936 ||[[yard]]||
+| 1 yard||≡ ||style="text-align:right;"|0.9144 ||metre
+|-
+| 1 metre ||≈ ||style="text-align:right;"|39.370 ||[[inch]]es||
+| 1 inch||≡ ||style="text-align:right;"|0.0254 ||metre
+|-
+| 1 [[centimetre]] ||≈ ||style="text-align:right;"|{{val|0.39370}} ||inch||
+| 1 inch||≡ ||style="text-align:right;"|2.54 ||centimetres
+|-
+| 1 [[millimetre]] ||≈ ||style="text-align:right;"|{{val|0.039370}}  ||inch||
+| 1 inch||≡ ||style="text-align:right;"|25.4 ||millimetres
+|-
+| 1 metre ||≡ ||style="text-align:right;"|[[Normalised notation|1 × 10{{sup|10}}]]||[[ångström]]||
+| 1 ångström||≡ ||style="text-align:right;"|1 × 10{{sup|−10}} ||metre
+|-
+| 1 [[nanometre]] ||≡ ||style="text-align:right;"|10||ångström||
+| 1 ångström||≡ ||style="text-align:right;"|100 ||[[picometre]]s
+|}
+Within this table, "inch" and "yard" mean "international inch" and "international yard"<ref>[[#AstinKaro1959|Astin & Karo 1959]].</ref> respectively, though approximate conversions in the left column hold for both international and survey units.
+: "≈" means "is approximately equal to";
+: "≡" means "equal by definition" or "is exactly equal to".
+
+One metre is exactly equivalent to {{sfrac|5 000|127}}{{nbsp}}inches and to {{sfrac|1 250|1 143}}{{nbsp}}yards.
+
 ==နိဿဲ==
 
 [[ကဏ္ဍ:ဗ္ၜတ်]] [[ကဏ္ဍ:BEHM]]
