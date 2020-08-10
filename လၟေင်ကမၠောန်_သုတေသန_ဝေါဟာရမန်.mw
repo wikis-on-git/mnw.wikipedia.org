@@ -24,7 +24,7 @@
 
 မနာမ်မ္ဂး -
 
-{| class="wikitable"
+{| class="wikitable" colspan="2" style=" border-top: 1px solid red;
 |+ Caption text
 |-
 ! Header text !! Header text
@@ -64,7 +64,8 @@
 ====တြာဲ====
 * English: God
 * မြန်မာ: ဘုရား</pre>
-|| 
+||
+
 ==မန်==
 ====ပွံင်အက္ခရ် နဲတၞဟ်====
 ကျာက်
