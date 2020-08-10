@@ -24,8 +24,7 @@
 
 မနာမ်မ္ဂး -
 
-{| class="wikitable" 
-|+ style="text-align: left;top" 
+{| class="wikitable", top
 |+ Caption text
 |-
 ! Header text !! Header text
