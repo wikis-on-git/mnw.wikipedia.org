@@ -29,7 +29,120 @@
 |-
 ! Header text !! Header text
 |-
-| ဥပမာ || ဥပမာ
+|<pre style="overflow:auto;">
+{{Infobox person
+| honorific_prefix   = 
+| name               =  <!-- include middle initial, if not specified in birth_name -->
+| honorific_suffix   = 
+| image              =  <!-- filename only, i.e. without "File:" (or "Image:") prefix or enclosing [[brackets]] -->
+| image_size         = 
+| alt                = 
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| birth_name         =  <!-- only use if different from name above -->
+| birth_date         =  <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place        = 
+| baptised           =  <!-- will not display if birth_date is entered -->
+| disappeared_date   =  <!-- {{disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  = 
+| disappeared_status = 
+| death_date         =  <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place        = 
+| death_cause        = 
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates =  <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| residence          = 
+| nationality        = 
+| other_names        = 
+| ethnicity          =  <!-- Ethnicity should be supported with a citation from a reliable source -->
+| citizenship        = 
+| education          = 
+| alma_mater         = 
+| occupation         = 
+| years_active       = 
+| era                = 
+| employer           = 
+| organization       = 
+| agent              = 
+| known_for          = 
+| notable_works      = 
+| style              = 
+| home_town          = 
+| salary             = 
+| net_worth          =  <!-- Net worth should be supported with a citation from a reliable source -->
+| height             =  <!-- {{height|cm=X}} OR {{height|ft=X|in=Y}}-->
+| weight             =  <!-- {{convert|X|kg|lb|0|abbr=on}} or {{convert|X|lb|kg|0|abbr=on}} -->
+| television         = 
+| title              = 
+| term               = 
+| predecessor        = 
+| successor          = 
+| party              = 
+| movement           = 
+| opponents          = 
+| boards             = 
+| religion           =  <!-- Religion should be supported with a citation from a reliable source -->
+| denomination       =  <!-- Denomination should be supported with a citation from a reliable source -->
+| criminal_charge    =  <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   = 
+| criminal_status    = 
+| spouse             = 
+| partner            =  <!-- (unmarried long-term partner) -->
+| children           = 
+| parents            = 
+| relatives          = 
+| callsign           = 
+| awards             = 
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| website            =  <!-- {{URL|example.com}} -->
+| footnotes          = 
+}}
+</pre>
+|| ==မန်==
+====ပွံင်အက္ခရ် နဲတၞဟ်====
+ကျာက်
+====နိရုတ်====
+နူ (မန်တြေံ) ကျာက် (လဆောဝ်) ကျေက်
+==== ဗွဟ်ရမ္သာင် ====
+* IPA  /kyac/
+====စၞးနာမ်/ နာမ်====
+ကျာ် (kyāk)
+# ဣဓိကြဳဇှ် ဟွံသေင်မ္ဂး မပတှ်ေကေတ် မဒှ်ညးမဂွံလဝ် စၟိန်ပြမာန် စက္ကဝါ၊ ဟွံသေင်မ္ဂး မဒှ်ညးမသၠဲပြဲ မနွံကဵု ဣဓိကြဳဇဟ်၊ ဟွံသေင်မ္ဂး အရာမပစၞး ကုဣဓိကြဳဇှ်၊ ပူဂိုလ်ဂှ်။  
+====ဝေါဟာတၟုပ်====
+* တၠဳနွံကုပိုန်
+* စေတဳ
+====ဝေါဟာဒစး====
+* သၟိင်မာ / သၟိင်မာရ်
+==== ဝေါဟာလွာ ====
+* ကျာ်တြဲ
+* ကျာ်ထာဝရ
+* ကျာ်ပဋိမာရုပ် 
+* ကျာ်စေတဳ
+* ကျာ်ဇၞော်
+* ကျာ်သြဳ
+
+====လဟီု====
+* ကျာ်ဒှ် မာပလီု (''ကမၠောန်မွဲမွဲ ကြပ်ဒှ်ကၠုင်မ္ဂး မၞိဟ်ဗက်ပလီု'')
+* ကျာ်လီုဂုန်ဇြဲ မၞိဟ်လီုဂုန်ရဲ (''အရာမဒးလီု ဟိုတ်နူ ပွဳပွူ'')
+* ကျာ်ဒးနွံကဵု ဒလာဲ မၞိဟ်ဒးနွံကဵု ဗဒါဲ (''မံင်ညးမွဲဓဝ် ဟွံဂွံ၊ ဒးနွံကဵု ပွဳပွူ'')
+* ကျာ်ထဝ်ဟွံမဲ ရဲကွာန်ဟွံလ္ၚောဝ် (''ဂုန်ပကာသန မပတံကဵု ဒြပ်၊ ပညာ ဟွံမဲမ္ဂး ညးတၞဟ် ဟွံပဂရု'')
+* ကျာ်ပ္ဍဲဘုတ်လေဝ် ဟွံဗၠးအရေဝ် (မၞိဟ်လဵုလေဝ် ဂွံဗၠး အစောဒကညးတၞဟ် ဟွံမဲ)
+* ကျာ်ဇၞော် ထဍိင်ဒးထၟာဲတဲ (''မၞိဟ်ဇၞော် ကၠောန်ဗၠေတ်အာ'')
+
+====တြာဲ====
+* English: God
+* မြန်မာ: ဘုရား
 |}
 
 ===Blank template with all parameters===
