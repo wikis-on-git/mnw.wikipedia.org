@@ -29,7 +29,8 @@
 |-
 ! Header text !! Header text
 |-
-|<pre style="overflow:auto;">
+|+ style="text-align: top;" 
+<pre style="overflow:auto;">
 ==မန်==
 ====ပွံင်အက္ခရ် နဲတၞဟ်====
 ကျာက်
