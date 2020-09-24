@@ -1,6 +1,6 @@
 {{ Infobox person
 | honorific_prefix = ပါမောက္ခပထဝဳဝင်၊ သၟာပရေင်ဍုင်ကွာန်မန်
-| name = ဒံက်တာမိကျေန်သောန် (ဒေါက်တာကြင်စွမ်)
+| name = ဒံက်တာမိကျေန်သောန် <br>(ဒေါက်တာကြင်စွမ်)
 | honorific_suffix = ပါမောက္ခပထဝဳဝင်၊ သၟာပရေင်ဍုင်ကွာန်မန်
 | image = Dr.KyinSorn.png
  <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
@@ -32,7 +32,7 @@
 | siglum             = 
 | citizenship = {{Flag|Myanmar}}ကောန်ဍုင်ဗၟာ
 | education = ပါရဂူ
-| alma_mater = 
+| alma_mater = တက္ကသိုလ်လ္ဂုင်
 | occupation = ပါမောက္ခ ဂဥုပ်ဌာန
 | years_active       = 
 | era                = 
@@ -57,12 +57,13 @@
 | criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->
 | criminal_penalty   =  
 | criminal_status    = 
-| spouse             = ဦးမောင်မောင်ဟန် BE (Electronics)
+| spouse = ဦးမောင်မောင်ဟန် BE (Electronics)
 | partner            = <!-- (unmarried long-term partner) -->
-| children           = 
+| children = 
 * အာကာမင်းဟန် BE (Marine Engineering)
 * အဲမွန်မင်းဟန် B.Tech (Mechanical)
-* မိခင်ယမင်းဟန် B.M.T.M (Mdy)| mother = <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+* မိခင်ယမင်းဟန် B.M.T.M (Mdy)
+| mother = <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
 | father = <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
 | relatives          = 
 | family             = 
