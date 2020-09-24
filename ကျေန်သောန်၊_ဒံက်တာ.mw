@@ -1,25 +1,91 @@
+{{ Infobox person
+| honorific_prefix = ပါမောက္ခပထဝဳဝင်၊ သၟာပရေင်ဍုင်ကွာန်မန်
+| name = ဒံက်တာမိကျေန်သောန် (ဒေါက်တာကြင်စွမ်)
+| honorific_suffix = ပါမောက္ခပထဝဳဝင်၊ သၟာပရေင်ဍုင်ကွာန်မန်
+| image = Dr.KyinSorn.png
+ <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| image_upright = 
+| landscape = <!-- yes, if wide image, otherwise leave blank -->
+| alt = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name = မိကျေန်သောန်<!-- only use if different from name -->
+| birth_date = {{Birth date and age|1954|03|17}}<!-- for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|YYYY|MM|DD}}. -->
+| birth_place = ကွာန်ထုင်အာင်
+| baptised           = <!-- will not display if birth_date is entered -->
+| disappeared_date  = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  = 
+| disappeared_status = 
+| death_date = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (enter DEATH date then BIRTH date (e.g., ...|1908|31|8|1967|28|2}} use both this parameter and |birth_date to display the person's date of birth, date of death, and age at death) -->
+| death_place        = 
+| death_cause        = 
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| nationality = {{Flag|Mon}}မန်
+| other_names        = 
+| siglum             = 
+| citizenship = {{Flag|Myanmar}}ကောန်ဍုင်ဗၟာ
+| education = ပါရဂူ
+| alma_mater = 
+| occupation = ပါမောက္ခ ဂဥုပ်ဌာန
+| years_active       = 
+| era                = 
+| employer           = 
+| organization       = 
+| agent = <!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source -->
+| known_for          = 
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+| home_town          = 
+| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
+| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
+| television         = 
+| title              = <!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
+| term               = 
+| predecessor        = 
+| successor          = 
+| party = ဗော်ညဳသၟဟ်မန်
+| movement           = 
+| opponents          = 
+| boards             = 
+| criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   =  
+| criminal_status    = 
+| spouse             = ဦးမောင်မောင်ဟန် BE (Electronics)
+| partner            = <!-- (unmarried long-term partner) -->
+| children           = 
+* အာကာမင်းဟန် BE (Marine Engineering)
+* အဲမွန်မင်းဟန် B.Tech (Mechanical)
+* မိခင်ယမင်းဟန် B.M.T.M (Mdy)| mother = <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| father = <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| relatives          = 
+| family             = 
+| callsign           = 
+| awards             = 
+| website            = <!-- {{URL|example.com}} -->
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
 '''ဒံက်တာမိကျေန်သောန်''' (ဗၟာ: ဒေါက်တာကြင်စွမ်)ဝွံ ဒှ်ပါမောက္ခ ဂအုပ်ဌာန ဌာနပထဝဳ (တြေံ) နူကဵု တက္ကသိုလ်မတ်မလီုတုဲ မဒှ်ဂကူမန်ကြုက် ဇာတိ နူကွာန်ထုင်အာရ။ ဒံက်တာမိကျေန်သောန်ဝွံ ပ္ဍဲအခိင် မကေတ်ဒၟံင် တာလျိုင်ပါမောက္ခဂှ် ပ္ဍဲကမ္မတဳလိက်ပတ်ယေန်သၞာင်မန် တက္ကသိုလ်မတ်မလီုဂှ် ကေင်ယိုက်ဂၠေင် တာလျိုင် ဥက္ကဌ ပ္ဍဲသၞာံ ၁၉၉၇ ဂှ်တုဲ ကာလမနွံ ပ္ဍဲတက္ကသိုလ်လ္ဂုင်ဂှ်လေဝ် ပ္ဍဲကမ္မတဳလိက်ပတ်ယေန်သၞာင်မန်ဂှ် ကေင်ယိုက်ဂၠေင်လဝ် နဒဒှ် ဒုဥက္ကဌ (၁၉၈၁-၁၉၈၃)။ တုဲပၠန် ဒှ်မၞိဟ်မစိုန်သကီု ပ္ဍဲအရာသုတေသတုဲ သီုကေင်ကလိဂွံလဝ်လာပ်တြေံ မဆေင်ကဵု သုတေသနဂမၠိုင်ရ။ ပါဲနူဂှ်တုဲ ကမၠောန်မဆေင်ကဵု မန် ပ္ဍဲဗွိုင်အလဵုအသဳ မပ္တံကဵု တ္ၚဲတွဵုရးဍုင်မန်တအ်ဂှ်လေဝ် ကေင်ကေတ်ကၠုင်တာလျိုင် ပ္ဍဲဂကောံသဘာပတိ သၞာံမဂၠိုင်ကဵုအလန်ရ။<ref name=MyanRadio>{{cite web |url=https://www.mrtv.gov.mm/en/news-40089|title=တစ်ခေတ်တစ်ခါက မွန်ပြည်နယ်နေ့|author=<!--Not stated--> |date=18 March 2019 |website=Myanma Radio and Television |publisher=Open publisher |access-date=24 September 2020 |quote=}}</ref>ပ္ဍဲသဘင်မာဲ ၂၀၂၀ ဂှ် နဒဒှ် စၞးအလံင်အမာတ် ဗော်ညဳသၟဟ်မန် ပွိုင်ဆန္ဒမာဲ သွက်စၠတ်ထဝ်ကောန်ဂကူ နူတွဵုရးဍုင်မန် စၟတ် (၅) ဂှ် လုပ်ပြိုင်မာဲရ။
 
 ==ပထမအဝဲ ကေုာံ ပရေင်ပညာ==
 ဒံက်တာမိကျေန်သောန်ဝွံ ကတဵုဒှ်မၞိဟ် ပ္ဍဲ ၁၇ ဨပြဳ ၁၉၅၄ ပ္ဍဲကွာန်ထုင်အာင် မဒှ်ဂကူမန်ကြုက်ရ။ ညးဝွံ ကလိဂွံတဆိပ်ကြာဒံက်တာ (ပါရဂူ) နူကဵု တက္ကသိုလ်လ္ဂုင် လပါ်ပထဝဳတုဲ လုပ်ကၠောန်ကမၠောန် နဒဒှ် ပါမောက္ခ၊ နဒဒှ် သကိုပ်လျိုင်ဌာန ပ္ဍဲကဵုဌာနပထဝဳ ပ္ဍဲတက္ကသိုလ်မတ်မလီုရ။ ညးဝွံ ဒက်ဘဝသ္ၚိကၟိန် ကုဦးမောင်မောင်ဟန် ဇာတိ ကွာန်ထုင်အာင်တုဲ ကလိဂွံ ကောန်ဇာတ် ပိတၠ၊ မာံအာကာမာံဟာန် (BE (Marine Engineering))၊ မာံအာဲမန်မာံဟာန် (B.Tech (Mechanical))၊ မိခေန်ယျမာံဟာန် (B.M.T.M (Mdy)) ရ။ 
 
 
-မွန်ပြည်နယ်၊ အမျိုးသားလွှတ်တော်မဲဆန္ဒနယ် အမှတ် (၅) ကိုယ်စားလှယ်လောင်း ကိုယ်ရေးအကျဉ်းကို တင်ပြအပ်ပါသည်။
+==နိဿဲ==
 
-ဒေါက်တာကြင်စွမ်သည် မွန်ပြည်နယ်လွှတ်တော် တိုင်းရင်း သားရေးရာနှင့် ဥပဒေပြုရေးရာ ကော်မတီဝင်တစ်ဦး ဖြစ်ပြီး သုတေသီနှင့် မြန်မာနိုင်ငံ အမျိုးသား ဒြပ်မဲ့ ယဉ်ကျေးမှု အမွေအနှစ် စိစစ်ရေးပညာရှင် အဖွဲ့ဝင် တစ်ဦးလည်း ဖြစ်သည်။ မော်လမြိုင်တက္ကသိုလ် ပထဝီဝင် ဌာန၏ အငြိမ်းစား ပါမောက္ခဌာနမှူးလည်း ဖြစ်သည်။
-
-မွေးဖွားသည့်နေ့ - ၁၇ ရက် ဧပြီလ ၁၉၅၄ ခု
-
-အိမ်ထောင်ဖက် - ဦးမောင်မောင်ဟန် BE (Electronics)
-
-သားသမီးများ
-အာကာမင်းဟန် BE (Marine Engineering)
-အဲမွန်မင်းဟန် B.Tech (Mechanical)
-မိခင်ယမင်းဟန် B.M.T.M (Mdy)
-
-ပညာရေး - ပါရဂူဘွဲ့ ရန်ကုန်တက္ကသိုလ်
-
-ဆုများ - သုတေသန ထူးချွန်၊ တက္ကသိုလ်အဆင့် (၂၀၁၃ ခုနှစ်)၊ ပြည်နယ်အဆင့် (၂၀၁၅ ခုနှစ်)
-
-လူမှုရေးဆောင်ရွက်ချက်များ
-ရန်ကုန်တက္ကသိုလ်များ မွန်စာပေနှင့်ယဉ်ကျေးမှု ကော်မတီ ဒုဥက္ကဋ္ဌ (၁၉၈၁ ခုနှစ်မှ ၁၉၈၃ ခုနှစ်)၊ မော်လမြိုင် တက္ကသိုလ် မွန်စာပေနှင့် ယဉ်ကျေးမှု ကော်မတီ ဥက္ကဋ္ဌ (၁၉၉၇ ခုနှစ်)၊ မွန်ပြည်နယ်နေ့ အခမ်းအနား ကျင်းပရေးကော်မတီ သဘာပတိ အဖွဲ့ဝင် (၂၀၁၃၊ ၂၀၁၄၊ ၂၀၁၅ ခုနှစ်များ)
+[[ကဏ္ဍ:အတ္ထုပ္ပတ္တိ]][[ကဏ္ဍ:BEHM]]
