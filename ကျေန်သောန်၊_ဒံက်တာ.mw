@@ -63,8 +63,8 @@
 * အာကာမင်းဟန် BE (Marine Engineering)
 * အဲမွန်မင်းဟန် B.Tech (Mechanical)
 * မိခင်ယမင်းဟန် B.M.T.M (Mdy)
-| mother = <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
-| father = <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| mother = မိသာန်<!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| father = နာဲမန်သိင်<!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
 | relatives          = 
 | family             = 
 | callsign           = 
