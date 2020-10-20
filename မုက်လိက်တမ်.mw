@@ -4,6 +4,10 @@
 <!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
 {| style="width:280px; border:none; background:none;"
 | style="width:280px; text-align:center; white-space:nowrap; color:#000;" |
+
+<div id="mp-flag" class="mp-flag">[[File:Flag of Mon.png|140px|left]]</div>
+<div id="mp-welcomecount">
+
 <div style="font-size:170%;line-height:170%;">နူ '''[[ဝဳကဳပဳဒဳယာ]]'''ဏအ် ဒုင်တၠုင်ဏာရအဴ။</div>
 ပြကိုဟ်ဗိသ္တာ မသက္ကုၚုဟ်မး ဝွံ ညးလဵုဟွံဟီု လုပ်ပလေဝ်ဒါန် ချူမာန် သီုညးဖအိုတ်ရ။
 <div id="articlecount" style="width:100%; font-size:100%;">ပရူပရာသီုဖအိုတ် <span style="font-size:120%">'''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''</span> ဂှ် နကဵု[[ဘာသာမန်]]ဂှ် ဗှ်လ္ၚတ်ကေတ်မာန်ရ။
