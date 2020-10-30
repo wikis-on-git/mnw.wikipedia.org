@@ -633,29 +633,33 @@
 ===ပွိုင်ဆန္ဒမာဲ စၟတ်(၁)===
 # အရာပ်ၝောအ်ဍုင် (၁) (ဍုင်မုဟ်ဍုင်)
 
-{| class="wikitable" style="border: none; background: none;"
-! colspan="2" rowspan="2" style="border: none; background: none;"|[[File:Pfeil_SO.svg|none|link=|20px]]
-! colspan="3"| To
-|-
-! Solid !! Liquid !! Gas
-|-
-! rowspan="3"| စၠတ်ထဝ် ကောန်ဂကူ
-! ဗော်မန်အလုံဒေသရးမန်
-| Solid-solid transformation || Melting || Sublimation
-|-
-! ဗော်ကောန်ဂကူမန်
-| Freezing || {{sdash}} || Boiling/evaporation
-|-
-! ဗော်အေန်အေဝ်ဒဳ
-| Deposition || Condensation || {{sdash}}
-|-
-! ဗော်ကောန်ဂကူမန်
-| Freezing || {{sdash}} || Boiling/evaporation
-|-
-! ဗော်ကျဖေတ်
-| Deposition || Condensation || {{sdash}}
-|}
 
+{| class="wikitable"
+|+
+! rowspan="5" |စၠတ်ထဝ်ကောန်ဂကူ
+!ဗော်ဂမၠိုင်
+! colspan="2" |၂၀၁၅
+!၂၀၁၀
+|-
+!ဗော်ဒဳမဵုကရေဇြဳအလုံဒေသရး
+!
+! rowspan="2" |
+!
+|-
+|ဗော်ကောန်ဂကူမန်
+|
+|
+|-
+|ဗော်အေန်အေဝ်ဒဳ
+| colspan="2" |
+|
+|-
+|ဗော်ကျဖေတ်
+| colspan="2" |
+|
+|}
+{| class="wikitable"
+|}
 # အရာပ်ၝောအ်ဍုင် (၂) (ဍုင်မုဟ်ဍုင်)
 # ကွာန်လာံသဴ
 # ကွာန်ကွိက်ဝါန်
@@ -795,6 +799,7 @@
 |-
 | အမျိုးသားဒီမိုကရေစီအင်အားစုပါတီ ||  || ဦးကျော်စွာဝင်း {{right|522}} || 
 |}
+
 
 ==ပွိုင်ဍုင်ရေဝ်==
 ===ဗော်ညဳသၟဟ်မန်===
