@@ -13,9 +13,9 @@
 | first_case      = 
 | arrival_date    = 23 March 2020<br />({{Age in years, months, weeks and days|month1=3|day1=23|year1=2020|month2=|day2=|year2=}})
 | origin          = 
-| recovery_cases  = 54,764
-| deaths          = 1,650
-| confirmed_cases = 73,322
+| recovery_cases  = 60,965
+| deaths          = 1,784
+| confirmed_cases = 82,236
 | suspected_cases = 
 | total_ili       = 
 | website         = 
@@ -35,7 +35,7 @@
 !Recovered
 !Deaths
 |-
-|951314|| 15581|| 73322|| 54764|| 1650
+|1059035|| 15581|| 82236|| 60965|| 1784
 |-
 | colspan="8" |Source:[https://doph.maps.arcgis.com/apps/opsdashboard/index.html#/f8fb4ccc3d2d42c7ab0590dbb3fc26b8/ mohs]<br>last updated:19 November 2020
 |}
