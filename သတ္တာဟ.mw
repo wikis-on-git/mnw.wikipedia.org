@@ -12,33 +12,25 @@
 
 ပ္ဍဲကြက္ကဒိန်ဂၠးတိ မကော်ဂး Gregorian ဂှ် မွဲသၞာံ နွံ 365.2425 တ္ၚဲ၊ ဟိုတ်ဂှ်ရ မွဲသတ္တဟဂှ် နွံ{{frac|52|71|400}} ဟွံသေင်မ္ဂး 52.1775 သတ္တဟ (ဟွံတုပ် ကုကြက္ကဒိန်ဂျူလဳ (Julian year) မနွံ 365.25 တ္ၚဲ ပ္ဍဲမွဲသၞာံ ဟွံသေင်မ္ဂး {{frac|52|5|28}} ≈ 52.1786 သတ္တဟ)။ ပ္ဍဲသၞာံ ဂြေဂေါရဳ ၄၀၀ ဂှ် မွဲသၞာံ နွံ 20,871 သတ္တဟပေင်င်၊ ဟိုတ်ဂှ်ရ {{CURRENTDAY}} {{CURRENTMONTHNAME}} ၁၆၂၀ ဂှ် ဒှ် တ္ၚဲ{{CURRENTDAYNAME}} မတုပ်ညံင်ရဴ {{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}}။
 
-Relative to the path of the [[Moon]], a week is 23.659% of an average [[lunation]] or 94.637% of an average quarter lunation.
+တၟော်ကဵု လၟေင်ဂၠံင်[[ဂိတု]]မ္ဂး၊ မွဲသတ္တဟ ဂှ် နွံဒၟံင် 23.659% မွဲဂိတု။
 
-Historically, the system of [[dominical letter]]s (letters A to G identifying the weekday of the first day of a given year) has been used to facilitate [[determination of the day of the week|calculation of the day of week]].
-The day of the week can be easily calculated given a date's [[Julian day number]] (JD, i.e. the integer value at [[noon]] [[Universal Time|UT]]):
-Adding one to the [[remainder]] after dividing the Julian day number by seven (JD ''[[modulo operation|modulo]]'' 7 + 1) yields that date's [[ISO 8601]] day of the week. For example, the Julian day number of {{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}} is {{#expr: floor({{CURRENTJULIANDAY}}+.5)}}. Calculating {{math|1={{#expr: floor({{CURRENTJULIANDAY}}+.5)}} mod 7 + 1}} yields {{#expr: (floor({{CURRENTJULIANDAY}}+.5) mod 7) + 1}}, corresponding to {{CURRENTDAYNAME}}<!-- +.5 because the JD is integer at noon UT-->.<ref>Richards, E. G. (2013). "Calendars". In S. E. Urban & P. K. Seidelmann, eds. ''Explanatory Supplement to the Astronomical Almanac'', 3rd ed. (pp. 585–624). Mill Valley, Calif.: University Science Books. 2013, pp. 592, 618.
-This is equivalent to saying that JD0, i.e. 1 January 4713 BC of the [[proleptic Julian calendar]], was a Monday.</ref>
-
-==Days of the week==
-{{Main|Names of the days of the week}}
+==တ္ၚဲ ပ္ဍဲ သတ္တဟ==
 [[File:Weekday heptagram.ant.png|thumb|Schematic comparison of the ordering of the classical planets (arranged in a circle) and the sequence of days in the week (forming a {7/3} [[heptagram]] within the circle).]]
 
-The days of the week were originally named for the [[classical planet]]s. This naming system persisted alongside an "ecclesiastical" tradition of numbering the days, in [[ecclesiastical Latin]] beginning with ''dominica'' (the [[Lord's Day]]) as the first day. The Greco-Roman gods associated with the classical planets were rendered in their ''[[interpretatio germanica]]'' at some point during the late Roman Empire, yielding the Germanic tradition of names based on indigenous deities.
-
-The ordering of the weekday names is not the classical order of the planets (by distance in the [[planetary spheres]] model, nor, equivalently, by their apparent speed of movement in the night sky). Instead, the [[planetary hours]] systems resulted in succeeding days being named for planets that are three places apart in their traditional listing. This characteristic was apparently discussed in [[Plutarch]] in a treatise written in c. AD 100, which is reported to have addressed the question of ''Why are the days named after the planets reckoned in a different order from the actual order?'' (the text of Plutarch's treatise has been lost).<ref>E. G. Richards, ''Mapping Time, the Calendar and History'', Oxford 1999. p. 269.</ref>
+ယၟုတ္ၚဲဂမၠိုင် ပ္ဍဲမွဲသတ္တဟဂှ် ခုတ်ခဴလဝ် အတိုင်ယၟု ဂြိုဟ်ဂမၠိုင်ရ။ ယၟုတ္ၚဲမန်ဂှ် ဒုင်သဇိုင် ကုအခိုက်အိန္ဒိယတုဲ ကော်ဒၟံင် ဥပမာ တ္ၚဲအဒိုက် ကၠုင်နူ အာဒိတြဝါရ ဒှ်တ္ၚဲ မပစၞး ကုဂြိုဟ်တ္ၚဲ၊ ညံင်ရဴမန်ကီု ပ္ဍဲကဵု အင်္ဂလိက်မ္ဂး Sunday မဂွံအဓိပ္ပါယ် တ္ၚဲကီုရ။ နကဵုဘာသာဗၟာ တနင်္ဂနွေး ဂှ် တနင်္ဂ ဂှ် ဗၟာတအ် လွဳဗ္စ နူမန် မဂွံအဓိပ္ပါယ် တ္ၚဲ တုဲ နွေး ဂှ် ဒှ်အရေဝ်ဗၟာ ဟွံသေင်မ္ဂး ပျူ မဂွံအဓိပ္ပါယ် တ္ၚဲရ။ ညံင်ရဴဂှ်ကီု တ္ၚဲစန် ဂှ် ကၠုင်နူ စနြဝါရ မဂွံအဓိပ္ပါယ် တ္ၚဲဂိတု၊ ညံင်ရဴဂှ်ကီု ပ္ဍဲကဵုအင်္ဂလိက် Monday ဂှ် ဂွံအဓိပ္ပါယ် တ္ၚဲဂိတု။ ဗီုဗၟာ တနင်္လာ ဂှ် တနင် ဂှ်အရေဝ်မန် တ္ၚဲတုဲ လာ ဂှ် အရေဝ်ပျူ မဂွံအဓိပ္ပါယ် ဂိတု။<ref>{{cite book |last=Monzel |first= Bee Htaw|date=2018 |title= Comparison of Mon and Pyu writing Systems and Myittha Inscription |trans-title= |url= |language=English |location=Burma |publisher=Hla Kyin-02249 |page=109|isbn=}}</ref>
 
 {| class="wikitable"
 |-
-| || [[Sunday]] || [[Monday]] || [[Tuesday]] || [[Wednesday]] || [[Thursday]] || [[Friday]] || [[Saturday]]
+| || တ္ၚဲအဒိုက်<br>Sunday || <br>တ္ၚဲစန် Monday || တ္ၚဲအၚာ <br>Tuesday || တ္ၚဲဗုဒ္ဓဝါ <br>Wednesday || တ္ၚဲဗြဴဗတိ<br>Thursday || တ္ၚဲသိုက်<br>Friday || တ္ၚဲသ္ၚိသဝ်<br>Saturday
 |-
-|Planet
-| [[Planets in astrology#Sun|Sun]]
-| [[Moon (astrology)|Moon]]
-| [[Mars (astrology)|Mars]]
-| [[Mercury (astrology)|Mercury]]
-| [[Jupiter (astrology)|Jupiter]]
-| [[Venus (astrology)|Venus]]
-| [[Saturn (astrology)|Saturn]]
+|ဂြိုဟ်
+| [[တ္ၚဲ]]
+| [[ဂိတု]]
+| [[Mars]]
+| [[Mercury]]
+| [[Jupiter]]
+| [[Venus]]
+| [[Saturn]]
 |-
 | Greco-Roman deity
 | [[Helios]]-[[Sol (Roman mythology)|Sol]]
@@ -49,7 +41,7 @@ The ordering of the weekday names is not the classical order of the planets (by 
 | [[Aphrodite]]-[[Venus (mythology)|Venus]]
 | [[Cronus]]-[[Saturn (mythology)|Saturn]]
 |-
-| [[Koine Greek|Greek]]:
+| ဂရိတ်:
 | ἡμέρα Ἡλίου
 | ἡμέρα Σελήνης
 | ἡμέρα Ἄρεως
@@ -58,7 +50,7 @@ The ordering of the weekday names is not the classical order of the planets (by 
 | ἡμέρα Ἀφροδίτης
 | ἡμέρα Κρόνου
 |-
-| [[Classical Latin|Latin]]:
+| လေတ္တေန်:
 | [[:la:Dies Solis|dies Sōlis]]
 | [[:la:Dies Lunae|dies Lūnae]]
 | [[:la:Dies Martis|dies Martis]]
@@ -70,37 +62,5 @@ The ordering of the weekday names is not the classical order of the planets (by 
 |''[[interpretatio germanica]]''
 | [[Sól (Norse mythology)|Sun]] || [[Máni|Moon]] || [[Týr|Tiwaz]] || [[Wodanaz]] || [[Donar|Þunraz]] || [[Frige]] || — 
 |-
-| [[Old English]] || ''sunnandæg'' || ''mōnandæg'' || ''tiwesdæg'' || ''wōdnesdæg'' || ''þunresdæg'' || '' frīgedæg'' || ''sæterndæg''
-|}
-
-[[File:First_Day_of_Week_World_Map.svg|thumb|The first day of the week of different countries according to the [[CLDR]]<ref>{{Cite web|url=https://unicode-org.github.io/cldr-staging/charts/38/supplemental/territory_information.html|title=Territory Information|website=www.unicode.org|access-date=2020-11-06}}</ref>
-{{legend|#386cb0|Sunday}}
-{{legend|#fdc086|Monday}}
-{{legend|#f0027f|Friday}}
-{{legend|#7fc97f|Saturday}}]]
-
-An ecclesiastical, non-astrological, system of numbering the days of the week was adopted in Late Antiquity. This model also seems to have influenced (presumably via [[Gothic Christianity|Gothic]]) the designation of Wednesday as "mid-week" in [[Old High German]] (''mittawehha'') and [[Old Church Slavonic]] (срѣда). Old Church Slavonic may have also modeled the name of Monday, понєдѣльникъ, after the Latin ''feria secunda''.<ref>Max Vasmer, Russisches etymologisches Wörterbuch, s.v. понедельник; however, the Slavic languages later introduced a secondary numbering system that names Tuesday as the "second day".<!-- Wiktionary claims "въторъкъ" as OCS, but Vasmer does not recognize an OCS precedent to Russian вторник, so it is unclear when this system was introduced.--></ref> The ecclesiastical system became prevalent in [[Eastern Christianity]], but in the [[Latin Christianity|Latin West]] it remains extant only in modern [[Icelandic language|Icelandic]], [[Galician language|Galician]], and [[Portuguese language|Portuguese]].<ref>the latter specifically due to the influence of [[Martin of Braga]], 6th-century archbishop of [[Braga]]. {{cite book|author=Richard A. Fletcher|title=The Barbarian Conversion: From Paganism to Christianity|url=https://books.google.com/books?id=RB5aWgr7l-gC&pg=PA257|year=1999|publisher=University of California Press|isbn=978-0-520-21859-8|page=257}}{{cite book|last=McKenna|first=Stephen|title=Paganism and Pagan Survivals in Spain Up to the Fall of the Visigothic Kingdom|year=1938|publisher=Catholic University of America|pages=93–94|url=http://libro.uca.edu/mckenna/paganism.htm|accessdate=20 March 2013|chapter=Pagan Survivals in Galicia in the Sixth Century}}</ref>
-
-{| class="wikitable"
-|-
-|  || 1. [[Sunday]] ([[Christian Sabbath]]) || 2. [[Monday]] || 3. [[Tuesday]] || 4. [[Wednesday]] || 5. [[Thursday]] || 6. [[Friday]]  || 7. [[Saturday]] ([[Jewish Sabbath]])
-|-
-| [[Byzantine Greek|Greek]]
-| Κυριακὴ ἡμέρα<br/>/kiriaki iméra/
-| Δευτέρα ἡμέρα<br/>/devtéra iméra/ <!--4th century ðéɸteros, 1st century dɛ́ʍtɛros etc., leave the details to Wiktioary-->
-| Τρίτη ἡμέρα<br/>/tríti iméra/
-| Τετάρτη ἡμέρα<br/>/tetárti iméra/
-| Πέμπτη ἡμέρα<br/>/pémpti iméra/
-| Παρασκευὴ ἡμέρα<br/>/paraskevi iméra/<ref>"day of [[wikt:παρασκευή#Ancient Greek|preparation]]", i.e. the day before Sabbath, c.f. [[gospel of Luke|Luke]] 23:54 ({{lang|grc|καὶ ἡμέρα ἦν Παρασκευῆς, καὶ σάββατον ἐπέφωσκεν.}})</ref>
-| Σάββατον<br/>/sáb:aton/
-|-
-| [[Ecclesiastical Latin|Latin]]
-| ''[dies] dominica'';<br>rarely ''feria prima'', ''feria dominica''
-| ''feria secunda''
-| ''feria tertia''
-| ''feria quarta'';<br>rarely ''media septimana''
-| ''feria quinta''
-| ''feria sexta''
-| ''Sabbatum''; ''dies sabbatinus'', ''dies Sabbati'';<br> rarely ''feria septima'', ''feria Sabbati''
-|-
+| မန်တြေံ || ''အာဒိတ္တဝါရ်'' || ''စန္ဒြဝါရ်'' || ''အင်္ကာရ'' || ''ဗုဒ္ဓဝါရ်'' || ''ဗြဟသ္ပတိဝါရ်'' || '' သုကြဝါရ်'' || ''သၞိသ္စရ်ဝါရ်''
 |}
