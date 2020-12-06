@@ -1,8 +1,18 @@
 {{Infobox pandemic
 | name            = 2020 coronavirus pandemic in Myanmar
 | map1            = COVID-19 Outbreak Cases in Myanmar.svg
-| legend1         = Map of the pandemic in Myanmar (as of 11 September 2020)
-{{legend|#510000|>3,000 confirmed cases}}{{legend|#900000|1,000–2,999 confirmed cases}}{{legend|#c80200|300–999 confirmed cases}}{{legend|#ee7070|100–299 confirmed cases}}{{legend|#ffc0c0|30–99 confirmed cases}}{{legend|#ffdfe0|0–29}}{{legend|#e0e0e0|None or no data}}
+| legend1         = Map of the pandemic in Myanmar (as of 30 November 2020)
+{{div col |colwidth=8em |style=margin-left:3em; |content=
+{{legend|#280B0B|≥100000}}
+{{legend|#501616|10000–99999}}
+{{legend|#782121|5000–9999}}
+{{legend|#A02C2C|1000–4999}}
+{{legend|#C83737|500–999}}
+{{legend|#D35F5F|100–499}}
+{{legend|#DE8787|50–99}}
+{{legend|#E9AFAF|10–49}}
+{{legend|#FFD5D5|1–9}}
+}}
 | map2            = 
 | legend2         = 
 | map3            = 
@@ -13,9 +23,10 @@
 | first_case      = 
 | arrival_date    = 23 March 2020<br />({{Age in years, months, weeks and days|month1=3|day1=23|year1=2020|month2=|day2=|year2=}})
 | origin          = 
-| recovery_cases  = 60,965
-| deaths          = 1,784
-| confirmed_cases = 82,236
+| recovery_cases  = 76,382
+| deaths          = 2,081
+| confirmed_cases = 98,047
+| fatality_rate   = {{Percentage|2081|98047|2}}
 | suspected_cases = 
 | total_ili       = 
 | website         = 
