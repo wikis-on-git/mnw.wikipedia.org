@@ -1,0 +1,24 @@
+Using Unicode 5.1 font Padauk 2.4. Unicode 5.1 fonts support Myanmar; two liturgical languages: Pali and Sanskrit; and four minority languages: Mon, four Karen dialects (S'gaw, Western and Eastern Pwo, and Geba), Shan, and Rumai Palaung. Zawgyi currently supports only Myanmar.
+
+Legend:
+{{legend|#fde9d9|Myanmar}}
+{{legend|#e5dfec|Shan*}}
+{{legend|#c6d9f1|Mon}}
+{{legend|#ffffcc|Sanskrit and Pali}}
+{{legend|#efffef|S'gaw Karen}}
+{{legend|#ebffeb|Western Pwo Karen}}
+{{legend|#ddffdd|Eastern Pwo Karen}}
+{{legend|#a3ffa3|Geba Karen}}
+{{legend|#fcd0d0|Kayah}}
+{{legend|#ccc0da|Rumai Palaung}}
+{{legend|#cccccc|No character for Unicode and pseudo-Unicode}}
+
+<nowiki>*</nowiki>Some Shan diacritics are incorrectly positioned in Microsoft Word 2007.
+
+==Permission==
+'''(C)''' This is a screenshot of copyrighted computer software, and the copyright for it is held by Microsoft Corporation. Microsoft permits the use of unmodified screen shots in documentation (including educational brochures), tutorial books, and on Web sites, as declared below:
+:Microsoft product screen shot(s) reprinted with permission from Microsoft Corporation.
+See Use of Microsoft Copyrighted Content for more details about using screenshots of Microsoft products. See Copyrights for more information.
+::The image displays the differences between Myanmar Unicode 5.1 fonts and pseudo-Unicode fonts like Zawgyi-One.
+
+[[Category:ယူနဳကုဒ်]]
