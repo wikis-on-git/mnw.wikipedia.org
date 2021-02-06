@@ -1,0 +1,212 @@
+<noinclude>{{pp-protected|reason=Persistent [[WP:Disruptive editing|disruptive editing]] on a high visibility template per request at RfPP.|small=yes}}</noinclude><div style="background:{{element color|table background}}; font-size:90%; border:1px solid {{element color|table border}}; width:100%; max-width:1800px; margin:0 auto; padding:2px; text-align:center; vertical-align:top; box-sizing: border-box;">
+<div style="background:{{element color|table title}}; padding:2px 1em;font-weight:bold;">{{#invoke:navbar|navbar|collapsible=0|[[Periodic table]]}}</div><!--
+
+--><div class="mw-collapsible-content">
+{| style="border-spacing:1px;display:block;overflow:auto;width:100%;margin:0 !important"
+|- style="line-height:125%; vertical-align:top;"
+! style="text-align:left; width:5%" | <small>[[Group (periodic table)|Group]]</small>
+! style="background:#e8e8e8; width:5%" | [[Alkali metal|1]]
+! style="background:#f0f0f0; width:5%" | [[Alkaline earth metal|2]]
+! style="width:2%" | &nbsp;
+! style="background:#e8e8e8; width:5%" | [[Group 3 element|3]]
+! style="background:#f0f0f0; width:5%" | [[Group 4 element|4]]
+! style="background:#e8e8e8; width:5%" | [[Group 5 element|5]]
+! style="background:#f0f0f0; width:5%" | [[Group 6 element|6]]
+! style="background:#e8e8e8; width:5%" | [[Group 7 element|7]]
+! style="background:#f0f0f0; width:5%" | [[Group 8 element|8]]
+! style="background:#e8e8e8; width:5%" | [[Group 9 element|9]]
+! style="background:#f0f0f0; width:5%" | [[Group 10 element|10]]
+! style="background:#e8e8e8; width:5%" | [[Group 11 element|11]]
+! style="background:#f0f0f0; width:5%" | [[Group 12 element|12]]
+! style="background:#e8e8e8; width:5%" | [[Boron group|13]]
+! style="background:#f0f0f0; width:5%" | [[Carbon group|14]]
+! style="background:#e8e8e8; width:5%" | [[Pnictogen|15]]
+! style="background:#f0f0f0; width:5%" | [[Chalcogen|16]]
+! style="background:#e8e8e8; width:5%" | [[Halogen|17]]
+! style="background:#f0f0f0; width:5%" | [[Noble gas|18]]
+|- style="font-size:85%; line-height:125%; vertical-align:top;"
+|
+| style="background:#e8e8e8;" | Hydrogen &<br/>alkali metals
+| style="background:#f0f0f0;" | Alkaline earth metals
+|
+| style="background:#e8e8e8;" |
+| style="background:#f0f0f0;" |
+| style="background:#e8e8e8;" |
+| style="background:#f0f0f0;" |
+| style="background:#e8e8e8;" |
+| style="background:#f0f0f0;" |
+| style="background:#e8e8e8;" |
+| style="background:#f0f0f0;" |
+| style="background:#e8e8e8;" |
+| style="background:#f0f0f0;" |
+| style="background:#e8e8e8;" |
+| style="background:#f0f0f0;" |
+| style="background:#e8e8e8;" | Pnicto{{soft hyphen}}gens
+| style="background:#f0f0f0;" | Chal{{soft hyphen}}co{{soft hyphen}}gens
+| style="background:#e8e8e8;" | Halo{{soft hyphen}}gens
+| style="background:#f0f0f0;" | Noble<br/>gases
+|-
+!  <small>[[Period (periodic table)|Period]]</small><br/>
+[[Period 1 element|1]]
+| {{element cell-named| 1|hydrogen  |H ||Gas  |s-block|Primordial}}
+| colspan="17" |
+| {{element cell-named| 2|helium    |He||Gas  |s-block|Primordial}}
+|-
+! [[Period 2 element|2]]
+| {{element cell-named| 3|lithium   |Li||Solid|s-block|Primordial}}
+| {{element cell-named| 4|beryllium |Be||Solid|s-block|Primordial}}
+| colspan="11" |
+| {{element cell-named| 5|boron     |B ||Solid|p-block|Primordial}}
+| {{element cell-named| 6|carbon    |C ||Solid|p-block|Primordial}}
+| {{element cell-named| 7|nitrogen  |N ||Gas  |p-block|Primordial}}
+| {{element cell-named| 8|oxygen    |O ||Gas  |p-block|Primordial}}
+| {{element cell-named| 9|fluorine  |F ||Gas  |p-block|Primordial}}
+| {{element cell-named|10|neon      |Ne||Gas  |p-block|Primordial}}
+|-
+! [[Period 3 element|3]]
+| {{element cell-named|11|sodium    |Na||Solid|s-block|Primordial}}
+| {{element cell-named|12|magnesium |Mg||Solid|s-block|Primordial}}
+| colspan="11" |
+| {{element cell-named|13|aluminium |Al||Solid|p-block|Primordial}}
+| {{element cell-named|14|silicon   |Si||Solid|p-block|Primordial}}
+| {{element cell-named|15|phosphorus|P ||Solid|p-block|Primordial}}
+| {{element cell-named|16|sulfur    |S ||Solid|p-block|Primordial}}
+| {{element cell-named|17|chlorine  |Cl||Gas  |p-block|Primordial}}
+| {{element cell-named|18|argon     |Ar||Gas  |p-block|Primordial}}
+|-
+! [[Period 4 element|4]]
+| {{element cell-named|19|potassium |K ||Solid|s-block|Primordial}}
+| {{element cell-named|20|calcium   |Ca||Solid|s-block|Primordial}}
+|
+| {{element cell-named|21|scandium  |Sc||Solid|d-block|Primordial}}
+| {{element cell-named|22|titanium  |Ti||Solid|d-block|Primordial}}
+| {{element cell-named|23|vanadium  |V ||Solid|d-block|Primordial}}
+| {{element cell-named|24|chromium  |Cr||Solid|d-block|Primordial}}
+| {{element cell-named|25|manganese |Mn||Solid|d-block|Primordial}}
+| {{element cell-named|26|iron      |Fe||Solid|d-block|Primordial}}
+| {{element cell-named|27|cobalt    |Co||Solid|d-block|Primordial}}
+| {{element cell-named|28|nickel    |Ni||Solid|d-block|Primordial}}
+| {{element cell-named|29|copper    |Cu||Solid|d-block|Primordial}}
+| {{element cell-named|30|zinc      |Zn||Solid|d-block|Primordial}}
+| {{element cell-named|31|gallium   |Ga||Solid|p-block|Primordial}}
+| {{element cell-named|32|germanium |Ge||Solid|p-block|Primordial}}
+| {{element cell-named|33|arsenic   |As||Solid|p-block|Primordial}}
+| {{element cell-named|34|selenium  |Se||Solid|p-block|Primordial}}
+| {{element cell-named|35|bromine   |Br||Liquid|p-block|Primordial}}
+| {{element cell-named|36|krypton   |Kr||Gas  |p-block|Primordial}}
+|-
+! [[Period 5 element|5]]
+| {{element cell-named|37|rubidium  |Rb||Solid|s-block|Primordial}}
+| {{element cell-named|38|strontium |Sr||Solid|s-block|Primordial}}
+|
+| {{element cell-named|39|yttrium   |Y ||Solid|d-block|Primordial}}
+| {{element cell-named|40|zirconium |Zr||Solid|d-block|Primordial}}
+| {{element cell-named|41|niobium   |Nb||Solid|d-block|Primordial}}
+| {{element cell-named|42|molybdenum|Mo||Solid|d-block|Primordial}}
+| {{element cell-named|43|technetium|Tc|[97]|Solid|d-block|From decay}}
+| {{element cell-named|44|ruthenium |Ru||Solid|d-block|Primordial}}
+| {{element cell-named|45|rhodium   |Rh||Solid|d-block|Primordial}}
+| {{element cell-named|46|palladium |Pd||Solid|d-block|Primordial}}
+| {{element cell-named|47|silver    |Ag||Solid|d-block|Primordial}}
+| {{element cell-named|48|cadmium   |Cd||Solid|d-block|Primordial}}
+| {{element cell-named|49|indium    |In||Solid|p-block|Primordial}}
+| {{element cell-named|50|tin       |Sn||Solid|p-block|Primordial}}
+| {{element cell-named|51|antimony  |Sb||Solid|p-block|Primordial}}
+| {{element cell-named|52|tellurium |Te||Solid|p-block|Primordial}}
+| {{element cell-named|53|iodine    |I ||Solid|p-block|Primordial}}
+| {{element cell-named|54|xenon     |Xe||Gas  |p-block|Primordial}}
+|-
+! [[Period 6 element|6]]
+| {{element cell-named|55|caesium   |Cs||Solid|s-block|Primordial}}
+| {{element cell-named|56|barium    |Ba||Solid|s-block|Primordial}}
+| {{element cell-asterisk|1}}
+| {{element cell-named|71|lutetium  |Lu||Solid|d-block|Primordial}}
+| {{element cell-named|72|hafnium   |Hf||Solid|d-block|Primordial}}
+| {{element cell-named|73|tantalum  |Ta||Solid|d-block|Primordial}}
+| {{element cell-named|74|tungsten  |W ||Solid|d-block|Primordial}}
+| {{element cell-named|75|rhenium   |Re||Solid|d-block|Primordial}}
+| {{element cell-named|76|osmium    |Os||Solid|d-block|Primordial}}
+| {{element cell-named|77|iridium   |Ir||Solid|d-block|Primordial}}
+| {{element cell-named|78|platinum  |Pt||Solid|d-block|Primordial}}
+| {{element cell-named|79|gold      |Au||Solid|d-block|Primordial}}
+| {{element cell-named|80|mercury   |Hg||Liquid|d-block|Primordial|link=Mercury (element)}}
+| {{element cell-named|81|thallium  |Tl||Solid|p-block|Primordial}}
+| {{element cell-named|82|lead      |Pb||Solid|p-block|Primordial}}
+| {{element cell-named|83|bismuth   |Bi||Solid|p-block|Primordial}}
+| {{element cell-named|84|polonium  |Po|[209]|Solid|p-block|From decay}}
+| {{element cell-named|85|astatine  |At|[210]|Solid|p-block|From decay}}
+| {{element cell-named|86|radon     |Rn|[222]|Gas  |p-block|From decay}}
+|-
+! [[Period 7 element|7]]
+| {{element cell-named|87|francium      |Fr|[223]|Solid|s-block|From decay}}
+| {{element cell-named|88|radium        |Ra|[226]|Solid|s-block|From decay}}
+| {{element cell-asterisk|2vertical}}
+| {{element cell-named|103|lawrencium   |Lr|[266]|Unknown phase|d-block|Synthetic}}
+| {{element cell-named|104|rutherfordium|Rf|[267]|Unknown phase|d-block|Synthetic}}
+| {{element cell-named|105|dubnium      |Db|[268]|Unknown phase|d-block|Synthetic}}
+| {{element cell-named|106|seaborgium   |Sg|[269]|Unknown phase|d-block|Synthetic}}
+| {{element cell-named|107|bohrium      |Bh|[270]|Unknown phase|d-block|Synthetic}}
+| {{element cell-named|108|hassium      |Hs|[269]|Unknown phase|d-block|Synthetic}}
+| {{element cell-named|109|meitnerium   |Mt|[278]|Unknown phase|d-block|Synthetic}}
+| {{element cell-named|110|darmstadtium |Ds|[281]|Unknown phase|d-block|Synthetic}}
+| {{element cell-named|111|roentgenium  |Rg|[282]|Unknown phase|d-block|Synthetic}}
+| {{element cell-named|112|copernicium  |Cn|[285]|Unknown phase|d-block|Synthetic}}
+| {{element cell-named|113|nihonium     |Nh|[286]|Unknown phase|p-block|Synthetic}}
+| {{element cell-named|114|flerovium    |Fl|[289]|Unknown phase|p-block|Synthetic}}
+| {{element cell-named|115|moscovium    |Mc|[290]|Unknown phase|p-block|Synthetic}}
+| {{element cell-named|116|livermorium  |Lv|[293]|Unknown phase|p-block|Synthetic}}
+| {{element cell-named|117|tennessine   |Ts|[294]|Unknown phase|p-block|Synthetic}}
+| {{element cell-named|118|oganesson    |Og|[294]|Unknown phase|p-block|Synthetic}}
+|-
+| colspan="20" style="height:1.4em;" |
+|-
+|
+|
+|
+| {{element cell-asterisk|1}}
+| {{element cell-named|57|lanthanum   |La||Solid|f-block|Primordial}}
+| {{element cell-named|58|cerium      |Ce||Solid|f-block|Primordial}}
+| {{element cell-named|59|praseodymium|Pr||Solid|f-block|Primordial}}
+| {{element cell-named|60|neodymium   |Nd||Solid|f-block|Primordial}}
+| {{element cell-named|61|promethium  |Pm|[145]|Solid|f-block|From decay}}
+| {{element cell-named|62|samarium    |Sm||Solid|f-block|Primordial}}
+| {{element cell-named|63|europium    |Eu||Solid|f-block|Primordial}}
+| {{element cell-named|64|gadolinium  |Gd||Solid|f-block|Primordial}}
+| {{element cell-named|65|terbium     |Tb||Solid|f-block|Primordial}}
+| {{element cell-named|66|dysprosium  |Dy||Solid|f-block|Primordial}}
+| {{element cell-named|67|holmium     |Ho||Solid|f-block|Primordial}}
+| {{element cell-named|68|erbium      |Er||Solid|f-block|Primordial}}
+| {{element cell-named|69|thulium     |Tm||Solid|f-block|Primordial}}
+| {{element cell-named|70|ytterbium   |Yb||Solid|f-block|Primordial}}
+|
+| &nbsp;
+|-
+| colspan=3 | 
+| {{element cell-asterisk|2vertical}}
+| {{element cell-named|89|actinium    |Ac|[227]|Solid|f-block|From decay}}
+| {{element cell-named|90|thorium     |Th||Solid|f-block|Primordial}}
+| {{element cell-named|91|protactinium|Pa||Solid|f-block|From decay}}
+| {{element cell-named|92|uranium     |U ||Solid|f-block|Primordial}}
+| {{element cell-named|93|neptunium   |Np|[237]|Solid|f-block|From decay}}
+| {{element cell-named|94|plutonium   |Pu|[244]|Solid|f-block|From decay}}
+| {{element cell-named|95|americium   |Am|[243]|Solid|f-block|Synthetic}}
+| {{element cell-named|96|curium      |Cm|[247]|Solid|f-block|Synthetic}}
+| {{element cell-named|97|berkelium   |Bk|[247]|Solid|f-block|Synthetic}}
+| {{element cell-named|98|californium |Cf|[251]|Solid|f-block|Synthetic}}
+| {{element cell-named|99|einsteinium |Es|[252]|Solid|f-block|Synthetic}}
+| {{element cell-named|100|fermium    |Fm|[257]|Unknown phase|f-block|Synthetic}}
+| {{element cell-named|101|mendelevium|Md|[258]|Unknown phase|f-block|Synthetic}}
+| {{element cell-named|102|nobelium   |No|[259]|Unknown phase|f-block|Synthetic}}
+|
+|}<!--
+Do not use {{anchor}}! It creates a <span> which creates a <p> which affects mobile layout.-->
+<div id="Periodic_table_legend_for_category"></div>
+{{periodic table legend|child=yes|style=font-size:100%;
+|theme1=State of matter|unknown1=yes
+|theme2=Occurrence|border2=13
+|theme3=Atomic weight|text3=cell-named
+|theme4=Category compact
+}}
+</div></div><!--
+
+--><noinclude>{{documentation}}</noinclude>
