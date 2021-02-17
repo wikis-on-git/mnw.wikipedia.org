@@ -1,9 +1,28 @@
 {{current|date=February 2021}}
+
 {{Infobox civil conflict
-| title       = ထၜးဆန္ဒဍုင်ဗၟာ ၂၀၂၁ <br>2021 Myanmar protests
-| partof            = ပရေင်ပၠံင်အဝဵု မကတဵုဒှ် အပ္ဍဲဍုင်ဗၟာ
-| image       = Protest against military coup (9 Feb 2021, Hpa-An, Kayin State, Myanmar) (9).jpg
-| caption     = ဂကောံကွးဘာ ကေုာံ အစာဘာဂမၠိုင် ထ္ၜးဆန္ဒ ဒစဵုဒစး ပၞာန်သီအဝဵု ဗဒါဲရုင်အလဵုအသဳ တွဵုရးဍုင်ကရေင်၊ ဖာအင်။ 
+| title       = 2021 Myanmar protests
+| partof      = the [[Internal conflict in Myanmar|internal conflict and political crisis in Myanmar]]
+| image       = {{Photomontage
+| photo1a = 2021 Myanmar Protest in Hleden.jpg
+| photo2a = Wigging to myanmar military.jpg
+| photo2b = Three-finger salute.jpg
+| photo3a = Human chain in myanmar 2021.jpg
+| photo3b = Myanmar military is worse.jpg
+| position = centre
+| size = 280
+| color = #F5F5F5
+| border = 0
+| color_border = white
+| spacing = 3
+| foot_montage =
+}}
+| caption          = ''Clockwise from top:'' {{hlist | 
+<!-- 1 -->Thousands of protesters participate in an anti-military rally in [[Yangon]]. | 
+<!-- 2b -->Protesters posing with the three-finger salute. | 
+<!-- 3b -->Protesters in a vehicle with anti-military slogans |
+<!-- 3a -->A group of protesters forming a human chain in Yangon's Kamayut Township | 
+<!-- 2a -->A group of protesters denouncing Min Aung Hlaing, and waving the NLD flag }}
 | date        = ၂ ဖေဖဝ်ဝါရဳ ၂၀၂၁ – ဆက်ဒှ်ဒၟံင်
 | place       = ကၟိန်ဍုင်ဗၟာ
 | coordinates = 
@@ -19,7 +38,16 @@
 * ညးထၜးဆန္ဒတအ် ဒးဒုင်ပဒေါအ် နကဵုဒြဟတ်
 * ထပတ်အေန်တာနေတ်
 | methods     = ထၜးဆန္ဒ၊ မဟွံစှ်ေကမၠောန်၊ ညးဍုင်ကွာန် ဟွံကလင်အမိင်
-| arrests     = 220+
+| side1             = Anti-government protestors
+| side2             = {{flagicon image|State seal of Myanmar.svg}} [[State Administration Council|Government of Myanmar]]<br />{{flagicon image|Flag of the Myanmar Armed Forces.svg}} [[Tatmadaw]]
+| leadfigures1 = No centralized leadership
+| leadfigures2 = {{plainlist|
+* {{flagicon image|State seal of Myanmar.svg}} [[Min Aung Hlaing]]
+* {{flagicon image|Flag of the Myanmar Armed Forces.svg}} [[Soe Win (general)|Soe Win]]
+* {{flagicon image|Flag of the Myanmar Armed Forces.svg}} [[Myint Swe (born 1951)|Myint Swe]]
+* {{flagicon image|Flag of the Myanmar Armed Forces.svg}} [[Mya Tun Oo]]
+}}
+| arrests     = 452+
 | injuries    = 20+
 | fatalities  = 1
 }}
