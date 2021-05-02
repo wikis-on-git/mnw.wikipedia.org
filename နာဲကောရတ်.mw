@@ -12,7 +12,7 @@
 | native_name_lang   = 
 | pronunciation      = 
 | birth_name = မောင်ခင်းမောင်<!-- only use if different from name -->
-| birth_date = {{Birth date and age|||}}<!-- for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|YYYY|MM|DD}}. -->
+| birth_date = <!--{{Birth date and age|||}}<!-- for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|YYYY|MM|DD}}. -->
 | birth_place = ကွာန်ကအ်ဍောတ်
 | baptised           = <!-- will not display if birth_date is entered -->
 | disappeared_date  = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
