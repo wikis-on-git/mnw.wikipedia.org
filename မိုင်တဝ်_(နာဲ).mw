@@ -1,5 +1,5 @@
 {{ Infobox person
-| honorific_prefix = တၠပညာ မဂိုတ်ဂစာန် သွက်ဂကူမန်
+| honorific_prefix = တၠပညာ မဂိုတ်ဂစာန် သွက်ဂကူမန်
 | name = နာဲမၞိက်ၜိုပ် (မိုင်တဝ်)
 | honorific_suffix = တၠပညာ မဂိုတ်ဂစာန် သွက်ဂကူမန်
 | image = Nai-Maung-Toe.jpg
@@ -7,85 +7,85 @@
 | image_upright = 
 | landscape = <!-- yes, if wide image, otherwise leave blank -->
 | alt = ဗီုရုပ် နာဲမၞိက်ၜိုပ် (မိုင်တဝ်) <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
-| caption            = 
-| native_name        = 
-| native_name_lang   = 
-| pronunciation      = 
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = 
 | birth_name = မာံအမေဝ်<!-- only use if different from name -->
-| birth_date = {{Birth date and age|1944|05|24}}
+| birth_date = 
 | birth_place = ကွာန်ကအ်ခမာ
-| baptised           = <!-- will not display if birth_date is entered -->
-| disappeared_date  = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
-| disappeared_place  = 
+| baptised           = <!-- will not display if birth_date is entered -->
+| disappeared_date  = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  = 
 | disappeared_status = 
 | death_date = {{Death date and age|1944|05|24|2021|07|17}} 
-| death_place        = ပ္ဍဲသ္ၚိ သ္ၚိဂၞန် ၈၊ ဂၠံင် ၁၄၆ အရာပ်အယဝ်ကုန် ပလိုတ်၊ ပွိုင်ဍုင်တာမွဲ၊ ဍုင်လ္ဂုင်။
-| death_cause        = ယဲ
-| body_discovered    = 
-| resting_place      = 
+| death_place        = ပ္ဍဲသ္ၚိ သ္ၚိဂၞန် ၈၊ ဂၠံင် ၁၄၆ အရာပ်အယဝ်ကုန် ပလိုတ်၊ ပွိုင်ဍုင်တာမွဲ၊ ဍုင်လ္ဂုင်။
+| death_cause        = ယဲ
+| body_discovered    = 
+| resting_place      = 
 | resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
 | burial_place = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
 | burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
-| monuments          = 
+| monuments          = 
 | nationality = {{Flag|Mon}}မန်
-| other_names        = 
-| siglum             = 
+| other_names        = 
+| siglum             = 
 | citizenship = {{Flag|Myanmar}}ကောန်ဍုင်ဗၟာ
-| education = 
+| education = 
 | alma_mater = 
 | occupation = 
-| years_active       = 
-| era                = 
-| employer  = ဒါရိုက်တာ ရုင်စၟတ်သမ္တီ (ဒေါအ်ဇူ)
+| years_active       = 
+| era                = 
+| employer  = ဒါရိုက်တာ ရုင်စၟတ်သမ္တီ (ဒေါအ်ဇူ)
 | organization = 
 * ကမ္မတဳစၟတ်သမ္တီဗွိုက်လတက်မန် (ဥက္ကဋ္ဌ) (၁၉၇၀
 * ကမ္မတဳလိက််ပတ်ယေန်သၞာင်မန် - ဍုင်လ္ဂုင် (၂၀၀၉-၂၀၂၁)
 * ဂျာနေဝ်အမာတ်ဒိန် (သကိုပ်ညးဒါန်လိက်) (၂၀၁၂ - ၂၀၂၁)
 * မဂ္ဂဇြေန်လွဳဟံသာ (ညးဒါန်လိက်) (၁၉၇၂ - ၂၀၂၁)
 | agent = <!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source -->
-| known_for          = 
-| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
-| style              = 
-| home_town          = 
-| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
-| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
-| television         = 
-| title              = <!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
-| term               = 
-| predecessor        = 
-| successor          = 
+| known_for          = 
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+| home_town          = 
+| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
+| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
+| television         = 
+| title              = <!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
+| term               = 
+| predecessor        = 
+| successor          = 
 | party = 
 | movement = 
-| opponents          = 
-| boards             = 
-| criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->
-| criminal_penalty   =  
-| criminal_status    = 
+| opponents          = 
+| boards             = 
+| criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   =  
+| criminal_status    = 
 | spouse = မိအေတာန်
-| partner            = <!-- (unmarried long-term partner) -->
+| partner            = <!-- (unmarried long-term partner) -->
 | children = 
 * မိကောန်ဆာန်
 * မာံကောင်းစံ
 | mother = မိသိင်ကျောအ် <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
 | father = နာဲရှာ <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
-| relatives          = 
-| family             = 
-| callsign           = 
+| relatives          = 
+| family             = 
+| callsign           = 
 | awards = 
-| website            = <!-- {{URL|example.com}} -->
-| module             = 
-| module2            = 
-| module3            = 
-| module4            = 
-| module5            = 
-| module6            = 
-| signature          = 
-| signature_size     = 
-| signature_alt      = 
-| footnotes          = 
+| website            = <!-- {{URL|example.com}} -->
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
 }}
 
-'''အစာနာဲမိုင်တဝ် (ယၟုမန် နာဲမၞိက်ၜိုပ်)''' (Naing Maung Toe) (နိုင်မောင်တိုး) (၁၉၄၄၊ မေ ၂၄ - ၂၀၂၁ ဂျူလာင် ၁၇) ဝွံ ဒှ်အစာချူလိက်၊ အစာဝင်၊ အစာလိက်မန်တြေံ ကေုာံ ညးမဂိုတ်ဂစာန် ကမၠောန်ဒတုဲဖဵုဂကူမန် သွာင်နာနာမွဲတၠ နူဘဝသၟတ် စဵုကဵုလအိတ်လမျီု။ အခိင်ဘဝ ကွးဘာတက္ကသိုလ် ကာလမဒက်ပ္တန် ကမ္မတဳစၟတ်သမ္တီဗွိုက်လတက်မန်ဂှ် ညးယိုက်ဂၠေင်လဝ် နဒဒှ် ဥက္ကဋ္ဌ၊ တုဲပၠန် ပ္ဍဲ ကမ္မတဳလိက်ပတ်ယေန်သၞာင်မန် ဍုင်လ္ဂုင်ဂှ်လေဝ် ကေင်ယိုက်ဂၠေင်ကၠုင် နဒဒှ် ညးအုပ်ကာနာနာ၊ ဥက္ကဋ္ဌ နာယက။ စပ်ကဵုဝင်မန် အခိုက်ကၞာမန် အရေဝ်မန် လိက်မန်ဂှ်လေဝ် ချူပ္တိတ်လဝ် လိက်ကၞပ်၊ လိက်ပရေင် နကဵုဘာသာမန် ဘာသာဗၟာ ဗွဲမဂၠိုင်ဂၠေင်တုဲ နဒဒှ် သကိုပ်ညးမဒါန်လိက် လိက်ဂျာနေဝ်အမာတ်ဒိန်၊ ညးဒါန်လိက် မဂ္ဂဇြေန်လွဳဟံသာဂှ် ယိုက်ဂၠေင်ကၠုင်လဝ်ရ။ 
+'''အစာနာဲမိုင်တဝ် (ယၟုမန် နာဲမၞိက်ၜိုပ်)''' (Naing Maung Toe) (နိုင်မောင်တိုး) (၁၉၄၄၊ မေ ၂၄ - ၂၀၂၁ ဂျူလာင် ၁၇) ဝွံ ဒှ်အစာချူလိက်၊ အစာဝင်၊ အစာလိက်မန်တြေံ ကေုာံ ညးမဂိုတ်ဂစာန် ကမၠောန်ဒတုဲဖဵုဂကူမန် သွာင်နာနာမွဲတၠ နူဘဝသၟတ် စဵုကဵုလအိတ်လမျီု။ အခိင်ဘဝ ကွးဘာတက္ကသိုလ် ကာလမဒက်ပ္တန် ကမ္မတဳစၟတ်သမ္တီဗွိုက်လတက်မန်ဂှ် ညးယိုက်ဂၠေင်လဝ် နဒဒှ် ဥက္ကဋ္ဌ၊ တုဲပၠန် ပ္ဍဲ ကမ္မတဳလိက်ပတ်ယေန်သၞာင်မန် ဍုင်လ္ဂုင်ဂှ်လေဝ် ကေင်ယိုက်ဂၠေင်ကၠုင် နဒဒှ် ညးအုပ်ကာနာနာ၊ ဥက္ကဋ္ဌ နာယက။ စပ်ကဵုဝင်မန် အခိုက်ကၞာမန် အရေဝ်မန် လိက်မန်ဂှ်လေဝ် ချူပ္တိတ်လဝ် လိက်ကၞပ်၊ လိက်ပရေင် နကဵုဘာသာမန် ဘာသာဗၟာ ဗွဲမဂၠိုင်ဂၠေင်တုဲ နဒဒှ် သကိုပ်ညးမဒါန်လိက် လိက်ဂျာနေဝ်အမာတ်ဒိန်၊ ညးဒါန်လိက် မဂ္ဂဇြေန်လွဳဟံသာဂှ် ယိုက်ဂၠေင်ကၠုင်လဝ်ရ။
 
 ==ပထမအဝဲ==
 နာဲမိုင်တဝ် ကတဵုဒှ်မၞိဟ် ဇရေင်မိမ ဂကူမန်ၜါ နာဲရှာ (Shar) ကဵု မိသိင်ကျောအ် (Sein Kyawt) ပ္ဍဲကွာန်ကအ်ခမာ၊ ပွိုင်ဍုင်မတ်မလီု ပ္ဍဲသၞာံ ၁၉၄၄ ဂိတုမေ ၂၄၊ ပၞောဝ်ကဵု ကောဒေအ်ဂမၠိုင် မသုန်တၠဂှ် ညးဒှ် ကောန်ဇၞော်အိုတ်။ မိမညးတအ်ဂှ် ဒှ်သၟာတတ်တတ်။ ကာလညးဍောတ်တ်တေအ်ဂှ် ညးဂမၠိုင်ကော်စ အမေဲ (Ahmei)။ စိုပ်သၞာံ ၁၉၅၂ ဂှ် ညးစမံင်ဘာ တန်မူလ ပ္ဍဲကွာန်ကအ်ခမာ။ သၞာံ ၁၉၅၈ ဂှ် ညးတိုန်တန်ဒေါဝ် (မသုန်တန်) ပ္ဍဲကွာန်တန်ဒေါဝ် ကွာန်ကအ်ခမာ။ သၞာံ ၁၉၆၀ ဂှ် ညးဂွံအံင်ကေတ် တန်သတ္တမ၊ သၞာံ ၁၉၆၁ ဂှ် ညးဂွံအံင်ကေတ် တန်အဋ္ဌမတုဲ တိုန်ဘာတန်သၠုင် ပ္ဍဲဘာတန်သၠုင် စၟတ် (၁) ဍုင်မတ်မလီု၊ သၞာံဂှ် ညးဟွံအံင်။ စိုပ်သၞာံ ၁၉၆၂ ညးဆက်တိုန်ပၠန်တုဲ ညးဂွံအံင်ကေတ် တန်နဝမ ပ္ဍဲဘာတန်သၠုင် စၟတ် (၆) (ကိုပ်ကၠာတေအ် ညးကော်စ ဘာMortalain Judson Private School) ဂှ်ရ။ သၞာံ ၁၉၆၃ ဂှ် ညးဂွံအံင်ကေတ် တန်လုပ်တက္ကသိုလ် (matriculation) နူကဵု ဘာတန်သၠုင် ရာမညမန် (Ramanya Mon National High School or Mon National Private School) (လၟုဟ်ဒှ် ဘာတန်သၠုင် စၟတ် (၁၂) ပ္ဍဲဍုင်မတ်မလီုရ။<ref name=Thida>{{cite book |last=Thida |first=Thida |author-link=|url=https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnaimaungtoe%2Fposts%2F2900279956908849&show_text=true&width=500" width="500" height="712" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"|date=May 2019 |title=A Study of Lives and Works of Selected Mon Writers, PhD Dissertation |url= |location=Department of Library and Information Studies University of Yangon, Myanmar |publisher= |page=100–127 |isbn=}}</ref>
