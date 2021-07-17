@@ -18,8 +18,9 @@
 | disappeared_date  = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
 | disappeared_place  = 
 | disappeared_status = 
-| death_date = {{Death date and age|1944|05|24|2021|07|17}} 
-| death_place        = ပ္ဍဲသ္ၚိ သ္ၚိဂၞန် ၈၊ ဂၠံင် ၁၄၆ အရာပ်အယဝ်ကုန် ပလိုတ်၊ ပွိုင်ဍုင်တာမွဲ၊ ဍုင်လ္ဂုင်။
+| death_date ={{Death date and age|2021|07|17|1944|05|24}}<!--
+{{Death date and age|1944|05|24|2021|07|17}} -->
+| death_place     = ပ္ဍဲသ္ၚိ သ္ၚိဂၞန် ၈၊ ဂၠံင် ၁၄၆ အရာပ်အယဝ်ကုန် ပလိုတ်၊ ပွိုင်ဍုင်တာမွဲ၊ ဍုင်လ္ဂုင်။
 | death_cause        = ယဲ
 | body_discovered    = 
 | resting_place      = 
