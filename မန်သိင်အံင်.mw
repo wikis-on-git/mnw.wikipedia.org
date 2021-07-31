@@ -1,3 +1,90 @@
+{{ Infobox person
+| honorific_prefix = ကောန်မှိင်ဇာတ်မန် ဒယှ်
+| name = မန်သိင်အံင်
+| honorific_suffix = ကောန်မှိင်ဇာတ်မန် ဒယှ်
+| image = 
+ <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| image_upright = 
+| landscape = <!-- yes, if wide image, otherwise leave blank -->
+| alt = ဗီုရုပ် မန်သိင်အံင် <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name = သိင်အံင်<!-- only use if different from name -->
+| birth_date = {{Birth date|1934|12|12}}
+| birth_place = ကွာန်ကအ်ဒုန်
+| baptised           = <!-- will not display if birth_date is entered -->
+| disappeared_date  = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  = 
+| disappeared_status = 
+| death_date ={{Death date and age|2021|07|30|1934|12|12}}<!--
+{{Death date and age|1944|05|24|2021|07|17}} -->
+| death_place     = ပ္ဍဲသ္ၚိ ဍုင်ဇြပ်ဗု
+| death_cause        = ယဲ
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| nationality = {{Flag|Mon}}မန်
+| other_names        = 
+| siglum             = 
+| citizenship = {{Flag|Myanmar}}ကောန်ဍုင်ဗၟာ
+| education = 
+| alma_mater = 
+| occupation = 
+| years_active       = 
+| era                = 
+| employer  = 
+| organization = 
+| agent = <!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source -->
+| known_for          = 
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+| home_town          = 
+| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
+| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
+| television         = 
+| title              = <!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
+| term               = 
+| predecessor        = 
+| successor          = 
+| party = 
+| movement = 
+| opponents          = 
+| boards             = 
+| criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   =  
+| criminal_status    = 
+| spouse = 
+| partner            = <!-- (unmarried long-term partner) -->
+| children = 
+* ကောန်မှိင်င္ၚေက် (လွဳဗစ) 
+* မိဍောင်သြန်၊ 
+* မိအေမန်သာန်၊ 
+* မိကေသဳနန်
+* မန်သိုက်ဆာန်
+* (တင်စၟတ် သီုဖအိုတ် ကောန်နွံ ၉ တၠ)
+| mother = မိမေဝ် <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| father = နာဲညောအ် <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| relatives          = 
+| family             = 
+| callsign           = 
+| awards = 
+| website            = <!-- {{URL|example.com}} -->
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
 '''မန်သိင်အံင်''' (မွန်စိန်အောင်) ဝွံ ပ္ဍဲကဵုအခိင်အခေတ်ညးမ္ဂး ဒှ်ကောန်မှိင်ပေါဲဇာတ် မဒယှ်အိုတ်မွဲတၠ ပ္ဍဲအလုံဒေသရးမန်တုဲ ပ္ဍဲကဵု ဝင်အနုသုခုမမန် သွာင်ပေါဲဇာတ်မ္ဂး ဒှ်မၞိဟ်မကလေင်ဒယှ်ေလှ်ေ နကဵုဘာသာမန် ကိုပ်ကၠာအိုတ်လေဝ် ဟီုဂွံရ။ ညးဝွံ နူဘဝသၟတ် အာယုက် ၁၁ သၞာံဂှ် စလှ်ေကၠုင်ပေါဲ ပ္ဍဲအကြာကွာန် (ဗွဲတၟေင် ပ္ဍဲပွိုင်ဍုင်ကျာ်မြဟ်)တုဲ အာယုက် ၁၃ သၞာံဂှ် ကတဵုဒှ် ကောန်မှိင်ဇၞော် ပ္ဍဲဍုင်မတ်မလီု မလုပ်လှ်ေ ပ္ဍဲဇာတ်ဗၟာရ။ ဂကူမန်တအ်ဂှ် နူစ ဍုင်ဟံသာဝတဳ မဒးဒုင်ပလီု၊ ဂကူမန် မဒးဒုင်စံင်ယဇ် ကဵုဗၟာအံင်ဇေယျ ပ္ဍဲသၞာံ ၁၇၅၇ဂှ်တုဲ လပါ်အနုသုခုမဂှ် ဟွံပြာကတ် သှ်ေသၟေဟ်ဒၟံင် ဆအကြာကွာန်ညိညဟေင်ရ။ ညးဝွံ ဟိုတ်နူ ဒှ်ဂကူမန် ဒယှ်ေ နကဵုဘာသာမန်လေဝ်ဂွံကီုတုဲ ၜိုန်ရ နွံပ္ဍဲပေါဲဇာတ်ဗၟာကီုလေဝ် အခိင်မအာလှ်ေ ပ္ဍဲကွာန်မန်တအ်မ္ဂး လှ်ေဒယှ်ေကဵု သီုဗီုမန်ကီုရ။<ref name=bio/>
 
 ပ္ဍဲသၞာံ ၁၉၅၀တအ် ဟိုတ်နူ အစောန်စရာဲကွတ်အနုသုခုမညးခိုဟ်တုဲ ညးမဂွံ ဒုင်ဇိုန်ဏှင်ကဵု တဆိပ်ထဝ် လုကဴဗၞတ် ပိသၞာံအဆက်ဆက်ရ။ နူဂှ် ဂကောံဇာတ်ဗၟာ ဍုင်လ္ဂုင် ကော်ကဵုလုပ် ပ္ဍဲဍုင်လ္ဂုင်။ ပ္ဍဲအခိင်ဂှ် အစာဇာတ်ဗၟာဟီုကဵုညး “မန် (မွန်)” မစုတ်လဝ် ဂတယၟုဂှ် စၞးဂှ် သၠာဲကဵု “မာန် (မန်း)” မဒှ်အရာ မဂွံအဓိပ္ပါယ် မာန္တလေ ဟွံသေင်မ္ဂး “မျာန် (မြန်)” မဂွံအဓိပ္ပါယ် ဂကူဗၟာမ္ဂး ညးတအ် သ္ဇိုန်ဏှင်ကဵု တဆိပ်ထဝ် ရောင်။ ဆဂး မန်သိင်အံင်ဝွံ နကဵု ဆီဇာတိမာန်ဇာတိဂကူမန်တုဲ ညးဟွံဒုင်တဲရ။<ref name=bio/>
