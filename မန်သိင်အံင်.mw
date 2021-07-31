@@ -61,12 +61,16 @@
 | spouse = 
 | partner            = <!-- (unmarried long-term partner) -->
 | children = 
-* ကောန်မှိင်င္ၚေက် (လွဳဗစ) 
-* မိဍောင်သြန်၊ 
-* မိအေမန်သာန်၊ 
+* မိအုံးရီ
+* မိကြည်ဆွေ
+* မိထွေးတင်
+* မိမြင့်စန်း
+* မိဍောင်သြန်
+* မိတင်မြင့်
+* မန်သ္ဍိုက်ဆာန်
+* မိအေမန်သာန်
 * မိကေသဳနန်
-* မန်သိုက်ဆာန်
-* (တင်စၟတ် သီုဖအိုတ် ကောန်နွံ ၉ တၠ)
+* ကောန်မှိင္ၚေက် (ကောန်လွဳဗစ)
 | mother = မိမေဝ် <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
 | father = နာဲညောအ် <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
 | relatives          = 
