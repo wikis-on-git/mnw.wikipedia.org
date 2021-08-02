@@ -1,3 +1,86 @@
+{{ Infobox person
+| honorific_prefix = တၠပညာကွိင်ကွိုက်မန်
+| name = ဗညာကွိင်
+| honorific_suffix = တၠပညာကွိင်ကွိုက်မန်
+| image = 
+ <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| image_upright = 
+| landscape = <!-- yes, if wide image, otherwise leave blank -->
+| alt = ဗီုရုပ် ဗညာကွိင် <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name = ယှိုဲကိက်<!-- only use if different from name -->
+| birth_date = {{Birth date|1947|06|16}}
+| birth_place = ကွာန်လ္ဂောဝ်အနာင်
+| baptised           = <!-- will not display if birth_date is entered -->
+| disappeared_date  = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  = 
+| disappeared_status = 
+| death_date ={{Death date and age|2003|11|17|1947|06|16}}<!--
+{{Death date and age|1944|05|24|2021|07|17}} -->
+| death_place     = 
+| death_cause        = ယဲ
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| nationality = {{Flag|Mon}}မန်
+| other_names        = 
+| siglum             = 
+| citizenship = {{Flag|Myanmar}}ကောန်ဍုင်ဗၟာ
+| education = 
+| alma_mater = 
+* ဘာပကတ်ပကေင်အစာ မာန္တလေ
+* ပါန်တူရိယာ မာန္တလေ
+| occupation = အစာဘာ (တဵုလွဳ)
+| years_active       = 
+| era                = 
+| employer  = 
+| organization = 
+| agent = <!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source -->
+| known_for          = 
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+| home_town          = 
+| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
+| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
+| television         = 
+| title              = <!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
+| term               = 
+| predecessor        = 
+| successor          = 
+| party = 
+| movement = 
+| opponents          = 
+| boards             = 
+| criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   =  
+| criminal_status    = 
+| spouse = 
+| partner            = <!-- (unmarried long-term partner) -->
+| children = 
+| mother = မိမျာင် <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| father = နာဲတ <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| relatives          = ဗညာအိန်
+| family             = 
+| callsign           = 
+| awards = 
+| website            = <!-- {{URL|example.com}} -->
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
 '''ဗညာကွိင်''' (၁၉၄၇၊ ၀၆၊ ၁၆ - ၂၀၀၃၊ ၁၁၊ ၁၇) ဝွံ ဒှ်တၠပညာ လပါ်ကွိင်ကွိုက်အာဲကၟာဲယေန်သၞာင်မန်တြေံဂမၠိုင်ကီု သီုကဵု တၠပညာဂဳတခေတ်တၟိမွဲတၠတုဲ ပ္ဍဲဝင်ကွိင်ကွိုက်မန် ခေတ်လက်ကြဴဏအ်မ္ဂး ညးဝွံ ဒှ်မၞိဟ်မဒယှ်တှ်ပြာကတ် ပ္ဍဲကွတ်အနုသုခုမမွဲရ။ ဗညာကွိင်ဝွံ ဒှ်မၞိဟ် မစိစောန် ပ္ဍဲကွတ်သုခုမ ဆလပါ်ကွိင်ကွိုက်သၟး ဟွံသေင် သီုဒှ် အစာကဝိမွဲတုဲ ညးချူဇန်လဝ် ဒွက်၊ ကဗျ၊ ဝတ္ထု၊ ပၠဇာတ်ဇမၠိင်၊ ပၠဇာတ်ဇမၠေအ် နကဵုဘာသာမန်ကီု သီုကဵုဘာသာဗၟာရ။ အဓိက ကမၠောန်ဂယိုင်လမျီု ဗညာကွိင်ဂှ် ဒှ်ကမၠောန်အစာဘာ ကမၠောန်တဵုလွဳ ပ္ဍဲဘာအလဵုအသဳတုဲ ကြဴနူ မဒေါအ်ဇူ စပေန်ဇြေန် နူကမၠောန်ပေါင်မသၟိင်တုဲ လုပ်ကၠောန် နဒဒှ် အစာဘာ ပ္ဍဲဘာကောန်ဂကူမန် တန်သမၠုင်ရ။ အကြာဂှ် သီုလ္ၚတ်ချူသုတေသန မဆေင်ကဵု ကွိင်ကွိုက်မန်ကီုလေဝ် သီုကမၠောန် ဟွံစိုပ်ဒတုဲ ဒးကမြဴထောအ်စး ကုလောကဝွံရ။ 
 
 ==ဘဝသၟတ် ကေုာံ ပရေင်ပညာ==
