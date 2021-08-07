@@ -1,3 +1,98 @@
+{{ Infobox person
+| honorific_prefix = သၟာပုရာန် ကေုာံ အစာဝင်
+| name = နာဲသာန်ဝေန် (ဦးစံဝင်း)
+| honorific_suffix = သၟာပုရာန် ကေုာံ အစာဝင်
+| image = 
+ <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| image_upright = 
+| landscape = <!-- yes, if wide image, otherwise leave blank -->
+| alt = ဗီုရုပ် နာဲသာန်ဝေန် <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name = သာန်ဝေန်<!-- only use if different from name -->
+| birth_date = {{Birth date|1947|10|28}}
+| birth_place = ကွာန်
+| baptised           = <!-- will not display if birth_date is entered -->
+| disappeared_date  = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  = 
+| disappeared_status = 
+| death_date ={{Death date and age|2021|07|20|1947|10|28}}<!--
+{{Death date and age|1944|05|24|2021|07|17}} -->
+| death_place     = ပ္ဍဲသ္ၚိ ပွိုင်ဍုင်ယှိုဲဗျဳတာ
+| death_cause        = [[ကဝ်ဝိဒ်-၁၉|ယဲကဝ်ဝိဒ်-၁၉]]
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| nationality = {{Flag|Mon}}မန်
+| other_names        = 
+| siglum             = 
+| citizenship = {{Flag|Myanmar}}ကောန်ဍုင်ဗၟာ
+| education = 
+| alma_mater = 
+| occupation = 
+| years_active       = 
+| era                = 
+| employer  = 
+| organization = 
+| agent = <!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source -->
+| known_for          = 
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+| home_town          = 
+| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
+| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
+| television         = 
+| title              = <!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
+| term               = 
+| predecessor        = 
+| successor          = 
+| party = 
+| movement = 
+| opponents          = 
+| boards             = 
+| criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   =  
+| criminal_status    = 
+| spouse = 
+* မိတင်ကြည် (သၞေဟ်ကိုင်)
+* မိခင်ညွန့် (သၞေဟ်ခြေင်)
+* မိပျိုဟိန်း (ဒဵုဣသိ)
+| partner            = <!-- (unmarried long-term partner) -->
+| children = 
+* မိအုံးရီ
+* မိကြည်ဆွေ
+* မိစု
+* မိထွေးတင်
+* မိမြင့်စန်း
+* မိဍောင်သြန်
+* မိတင်မြင့်
+* မန်သ္ဍိုက်ဆာန်
+* မိအေမန်သာန်
+* မိကေသဳနန်
+* ကောန်မှိင်င္ၚေက် (ကောန်လွဳဗစ)
+| mother = မိမေဝ် <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| father = နာဲညောအ် <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| relatives          = 
+| family             = 
+| callsign           = 
+| awards = 
+| website            = <!-- {{URL|example.com}} -->
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
 '''နာဲသာန်ဝေန်''' (ဦးစံဝင်း)ဝွံ ဒှ်အစာပုရာန် ကေုာံ အစာဝင် ဂကူမန်မွဲတၠတုဲ ယၟုမြဟ်တဴ နကဵု အစာ
 
 အစာသုတေသနဝင်မန် ဥူသာန်ဝေန် (သမိုင်း သုတေသန) စုတိ
