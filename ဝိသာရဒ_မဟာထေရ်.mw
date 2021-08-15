@@ -1,3 +1,86 @@
+{{ Infobox person
+| honorific_prefix = အစာလိက်ပရိယတ်၊ ပါဠိပါရဂူ
+| name = ဘဒ္ဒန္တဝိသာရဒ မဟာထေရ်
+| honorific_suffix = 
+| image = 
+ <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| image_upright = 
+| landscape = <!-- yes, if wide image, otherwise leave blank -->
+| alt = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name = မာံအိုင်ကျာင်<!-- only use if different from name -->
+| birth_date = {{Birth date|1947|10|09}}
+| birth_place = ကွာန်ကြေဝ်ဏာ၊ ပွိုင်ဍုင်ကျာ်မြဟ်
+| baptised           = <!-- will not display if birth_date is entered -->
+| disappeared_date  = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  = 
+| disappeared_status = 
+| death_date ={{Death date and age|2021|08|12|1947|10|09}}<!--
+{{Death date and age|1944|05|24|2021|07|17}} -->
+| death_place     = 
+| death_cause        = ယဲ+[[ကဝ်ဝိဒ်-၁၉]]
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| nationality = {{Flag|Mon}}မန်
+| other_names        = 
+| siglum             = 
+| citizenship = {{Flag|Myanmar}}ကောန်ဍုင်ဗၟာ
+| education = ပါဠိပါရဂူ
+| alma_mater = 
+| occupation = အစာလိက်ပရိယတ်
+| years_active       = 
+| era                = 
+| employer  = 
+| organization = 
+| agent = <!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source -->
+| known_for          = 
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+| home_town          = 
+| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
+| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
+| television         = 
+| title              = <!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
+| term               = 
+| predecessor        = 
+| successor          = 
+| party = 
+| movement = 
+| opponents          = 
+| boards             = 
+| criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   =  
+| criminal_status    = 
+| spouse = 
+| partner            = <!-- (unmarried long-term partner) -->
+| children = 
+| mother = မိဃေန်သိင်<!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| father = နာဲဗဟာန် <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| relatives          = 
+| family             = 
+| callsign           = 
+| awards = 
+* အဂ္ဂမဟာဂန္ထဝါစကပဏ္ဍိတ၊ 
+* သာသနုဓဇဓမ္မာစရိယ
+| website            = <!-- {{URL|example.com}} -->
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
 '''ဘဒ္ဒန္တဝိသာရဒမဟာထေရ်''' (၁၉၄၇၊ ၁၀၊ ၉ - ၂၀၂၁၊ ၀၈၊ ) ဝွံ ဒှ်ညးမစိုန်သကီု ပ္ဍဲပရေင်ပညာပရိယတ်မွဲဇကုတုဲ ဒှ်ညးမကလိဂွံ တဆိပ်ကြာ ပါဠိပါရဂူ၊ မဖျေဟ်ကၠုင်လိက်ပရိယတ် တန်ဒေါဝ်၊ တန်ဇၞော်၊ တန်ဓမ္မာစရိယ ပ္ဍဲတိုက်လိက်မန်မဟာဝိဟာရ ကအ်ဗိန် သၞာံဗွဲမလအ်။ တုဲပၠန် ပ္ဍဲကဵု ကမၠောန်သာသနာ မပ္တံကဵု ကမၠောန် ဇၞော်ပၟဝ်ဝိပဿနာလေဝ် နဒဒှ် အစာကမ္မဌာနစရိယ လေဝ် ထ္ၜးကၠုင်ဓဝ် ကုယောဂဳဂမၠိုင် သၞာံဗွဲမဂၠိုင်ရ။ ပ္ဍဲဂလေင်ကမၠောန်သာသနာ ကၟိန်ဍုင်လေဝ် နဒဒှ် သံဃဝန် (ဗဟဵု) ကၟိန်ဍုင်ဗၟာမွဲဇကု ယိုက်ဂၠေင်ကၠုင်ကီုရ။ ကျာ်ဇၞော်ဝွံ သၞာံ ၂၀၂၁ ဂှ် ယဲတြေံလေဝ်နွံ တုဲပၠန် အခိင်ယဲကပ်ကဝ်ဝိဒ်-၁၉ မကတဵုဒှ်ဂှ် နကဵု ယဲကဝ်ဝိဒ်ဂှ် စုတိစဴအာသွဝ်ရ။ 
 
 ==ဘဝသၟတ် ကေုာံ ပရေင်ပညာ==
