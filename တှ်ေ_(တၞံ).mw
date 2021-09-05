@@ -1,5 +1,12 @@
-
-{{Automatic taxobox|image=Starr 061108-9797 Marsilea villosa.jpg|image_caption=''[[Marsilea villosa]]''|taxon=Marsilea|authority=[[Carl Linnaeus|L.]]|subdivision_ranks=Species|subdivision={{Collapsible list |{{Plainlist | style = margin-left: 1em; text-indent: -1em; |
+{{Taxobox
+|image=Starr 061108-9797 Marsilea villosa.jpg
+|image_caption=''[[Marsilea villosa]]''
+|taxon=Marsilea
+|authority=[[Carl Linnaeus|L.]]
+|subdivision_ranks=Species
+|subdivision={{Collapsible list 
+|{{Plainlist | style = margin-left: 1em; text-indent: -1em; 
+|
 * ''[[Marsilea aegyptica]]'' <small>[[Carl Ludwig Willdenow|Willd.]]</small>
 * ''[[Marsilea ancyclopoda]]'' <small>[[Alexander Braun|A.Braun]]</small>
 * ''[[Marsilea apposita]]'' <small>[[Launert]]</small>
