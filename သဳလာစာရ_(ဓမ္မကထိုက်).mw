@@ -1,3 +1,82 @@
+{{Infobox person
+| honorific_prefix   = အစာဓမ္မကထိုက်
+| name               = တၠဂုဏ်သဳလာစာရ<!-- use common name/article title -->
+| honorific_suffix   = 
+| image              = 
+| image_upright      = 
+| landscape          = <!-- yes, if wide image, otherwise leave blank -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name         = မာံဆန်းဝင်း <!-- only use if different from name -->
+| birth_date         = {{Birth date|1978|12|20}}
+| birth_place        = ဍုင်ရေဝ်
+| baptised           = <!-- will not display if birth_date is entered -->
+| disappeared_date   = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  = 
+| disappeared_status = 
+| death_date         = <!--{{Death date and age|1948|12|10|2020|12|04}} -->
+| death_place        = 
+| death_cause        = <!--should only be included when the cause of death has significance for the subject's notability-->
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place       = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| nationality        = {{Flag|Mon}}မန်
+| other_names        = 
+| siglum             = 
+| citizenship        = {{Flag|Myanmar}}ကောန်ဍုင်ဗၟာ
+| education          = သာသနဓဇဓမ္မာစရိယ
+| alma_mater         = တိုက်လိက်ကျာ်ဇၞော်၊ မာန္တလေ
+| occupation         = နွံပိုန်ဘာ
+| years_active       = 
+| era                = 
+| employer           = 
+| organization       = 
+| agent              = <!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source -->
+| known_for          = ဓမ္မကထိုက်
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
+| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
+| television         = 
+| title              = <!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
+| term               = 
+| predecessor        = 
+| successor          = 
+| party              = 
+| movement           = 
+| opponents          = 
+| boards             = 
+| criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   =  
+| criminal_status    = 
+| spouse             = <!-- Use article title or common name -->
+| partner            = <!-- (unmarried long-term partner) -->
+| children           = 
+| parents            = <!-- overrides mother and father parameters -->
+| mother             = မိတင်လှ<!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| father             = နာဲအောင်ညွန့်<!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| relatives          = 
+| family             = 
+| callsign           = 
+| awards             = 
+| website            = <!-- {{URL|example.com}} -->
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
 '''တၠဂုဏ်အစာသဳလာစာရ''' (ၜံင် ၁၉၇၈ ဒဳဇြေမ်ဗါ ၂၀) အစာဓမ္မကထိုက် မပြာကတ်တဴ နကဵုယၟု တၠဂုဏ်အစာမှေအ်ဝွံ ဒှ်အစာဓရ်ဒယှ်မွဲဇကုတုဲ သီုကေင်ဒှ်လဝ် အစာလိက်ပရိယတ္တိသၞာံဗွဲမလအ်ကီုရ။ ရာမညရဋ္ဌဗုဒ္ဓတက္ကသိုလ် ပ္ဍဲဍုင်မတ်မလီုဂှ် တၠဂုဏ်အစာသဳလာစာရဝွံရ ဒှ်မၞိဟ် ပဓာန မပ္တန်လဝ်တုဲ ရာမညရဋ္ဌဗုဒ္ဓတက္ကသိုလ်ဂှ် ဒှ်ဒတန် ပရေင်ပညာဗုဒ္ဓဘာသာ နကဵုနဲခေတ်တၟိကီု သီုဒှ် ဒတန်ပရေင်ပညာနာနာ သွက်ကောန်ဂကူမန် ကေုာံ ကောန်ဗုဒ္ဓဘာသာတအ်ကီုရ။
 
 ==ဘဝသၟဝ် ကေုာံ အဝေါင်သာသနာ==
@@ -6,7 +85,7 @@
 အခိင်ညးကလိဂွံ အာယုက် ၅ သၞာံဂှ် စမံင်ဘာ တန်မူလ စၟတ် (၉) အရာပ်အံင်သုခ၊ ဍုင်ရေဝ်တုဲ စတမ်နူသၞာံ ၁၃၄၇ ဂှ် မိမၜါ အာပအပ်ညး ဘာလကျာ် ဘာသိမ်၊ ဍုင်ရေဝ်ရ။ ကာလမကလိဂွံ အာယုက် ၈ သၞာံ ပ္ဍဲ ၁၉၈၇ ဂိတုဇာန်နဝါရဳ ၁၀ (၁၃၄၈ ပုဟ် ၁၁ မမံက်) တ္ၚဲဗြဴဗတိ(?) ဂှ် မိမၜါ ဒုင်ပစ္စယ်၊ ပဥပ္ပဇ္ဇျာယ် ကုကျာ်ဇၞော်ဘာဝယ်ပူး ဘဒ္ဒန္တဝရဒဳပတုဲ ကတဵုဒှ် ဘဝထပိုယ်သာမဏဳတုဲ ကလိဂွံ မဟိမု သဳလာစာရ ရ။ သၞာံ ၁၉၉၈ မေ ၂၁ (၁၃၆၀ ပသာ် ၄ မမံက်) တ္ၚဲဗြဴဗတိ အခိင်သဝ်တ္ၚဲ ၅ နာဍဳ ၃၀ မိနေတ် နိုင်စိန်ဖေ၊ မိငွေကျန် ဒုင်ပစ္စယ်၊ ပဥပ္ပဇ္ဇျာယ် ကုကျာ်ဇၞော်ဘာကလျာဏမိတ္တ၊ ဍုင်ရေဝ် ဘဒ္ဒန္တဣန္ဒောဘာသတုဲ ကတဵုဒှ် ဘဝခမဳမပြဲ ပ္ဍဲကဵု သိမ်ဘာကလျာဏဂှ်ရ။ 
 
 ==ပရေင်ပညာ==
-သက္ကရာဇ်ဍုင် ၁၃၅၁ ဂှ် ထပိုယ်သဳလာစာရ အာကတ်လိက် ပ္ဍဲဘာတၟိ၊ ကွာန်ကအ်ခပုင်၊ ပွိုင်ဍုင်မုဟ်ဍုင် ဇရေင်ဘဒ္ဒန္တဇောတိပါလ၊ သက္ကရာဇ် ၁၃၅၂ ဂှ် ကတ်လိက် ပ္ဍဲတိုက်လိက်မန်ဒယှ် ဘာကၠအ်ပၞဟ်၊ ဍုင်မုဟ်ဍုင် ဇရေင် ဘဒ္ဒန္တခေမာသာရတုဲ သက္ကရာဇ် ၁၃၅၃ ဂှ် ဂွံအံင်ဇၞးကေတ် တန်မူလ။ သက္ကရာဇ် ၁၃၅၄ ဂိတုအံင်ဇၞးကေတ် တန်ဍောတ်။ သက္ကရာဇ် ၁၃၅၆ ဂှ် အာကတ်လိက် ပ္ဍဲလိက် ဘာဗဂေါပရိယတ္တိ၊ ဍုင်မတ်မလီု ဇရေင် ဘဒ္ဒန္တသဳလာစာရ။ သက္ကရာဇ် ၁၃၆၇ ကတ်လိက် ဘာဗိုလ်လ္ၚီ၊ ပွိုင်ဍုင်မ္ၚးထံင် (ဗိုလ်တထောင်) ဍုင်လ္ဂုင် ဇရေင် ဘဒ္ဒန္တပါလ၊ ကေုာံ ဘဒ္ဒန္တကေသရ သၞာံဂှ် ဂွံအံင်ဇၞးကေတ် တန်လဒေါဝ်။ သက္ကရာဇ် ၁၃၅၉ အာကတ်လိက် ဘာမြာင်၊ အရာပ်မုဟ်ပန်၊ ဍုင်မတ်မလီု ဇရေင်ဘဒ္ဒန္တထေရာနန္ဒ၊ သက္ကရာဇ် ၁၃၆၀ ဂှ် ဂွံအံင်ဇၞးကေတ် တန်ဇၞော်။ သက္ကရာဇ် ၁၃၆၃ အာကတ်လိက် ဘာဒေါနခြံ၊ တိုက်ကျာ်ဇၞော် (ဘုရားကြီးတိုက်) ဍုင်မာန္တလေ ဇရေင် ဘဒ္ဒန္တဝဏ္ဏိဿရ သၞာံဂှ် ဂွံအံင်ဇၞးကေတ် တန်ဓမ္မာစရိယ ပြကိုဟ်သဳလက္ခန်၊ သၞာံ ၁၃၆၄ ဂှ် ဂွံအံင်ဇၞးကေတ် ပြကိုဟ်ပါရာဇိကဏ် ကေုာံ ပြကိုဟ်ဓမ္မသင်္ဂဏဳတုဲ ကလိဂွံ တဆိပ်ကြာ သာသနဓဇဓမ္မာစရိယ ရ။
+သက္ကရာဇ်ဍုင် ၁၃၅၁ ဂှ် ထပိုယ်သဳလာစာရ အာကတ်လိက် ပ္ဍဲဘာတၟိ၊ ကွာန်ကအ်ခပုင်၊ ပွိုင်ဍုင်မုဟ်ဍုင် ဇရေင်ဘဒ္ဒန္တဇောတိပါလ၊ သက္ကရာဇ် ၁၃၅၂ ဂှ် ကတ်လိက် ပ္ဍဲတိုက်လိက်မန်ဒယှ် ဘာကၠအ်ပၞဟ်၊ ဍုင်မုဟ်ဍုင် ဇရေင် ဘဒ္ဒန္တခေမာသာရတုဲ သက္ကရာဇ် ၁၃၅၃ ဂှ် ဂွံအံင်ဇၞးကေတ် တန်မူလ။ သက္ကရာဇ် ၁၃၅၄ ဂိတုအံင်ဇၞးကေတ် တန်ဍောတ်။ သက္ကရာဇ် ၁၃၅၆ ဂှ် အာကတ်လိက် ပ္ဍဲလိက် ဘာဗဂေါပရိယတ္တိ၊ ဍုင်မတ်မလီု ဇရေင် ဘဒ္ဒန္တသဳလာစာရ။ သက္ကရာဇ် ၁၃၆၇ ကတ်လိက် ဘာဗိုလ်လ္ၚီ၊ ပွိုင်ဍုင်မ္ၚးထံင် (ဗိုလ်တထောင်) ဍုင်လ္ဂုင် ဇရေင် ဘဒ္ဒန္တပါလ၊ ကေုာံ ဘဒ္ဒန္တကေသရ သၞာံဂှ် ဂွံအံင်ဇၞးကေတ် တန်လဒေါဝ်။ သက္ကရာဇ် ၁၃၅၉ အာကတ်လိက် ဘာမြာင်၊ အရာပ်မုဟ်ပန်၊ ဍုင်မတ်မလီု ဇရေင်ဘဒ္ဒန္တထေရာနန္ဒ၊ သက္ကရာဇ် ၁၃၆၀ ဂှ် ဂွံအံင်ဇၞးကေတ် တန်ဇၞော်။ သက္ကရာဇ် ၁၃၆၃ အာကတ်လိက် ဘာ''ဒေါနခြံ''၊ တိုက်ကျာ်ဇၞော် (''ဘုရားကြီးတိုက်'') ဍုင်မာန္တလေ ဇရေင် ဘဒ္ဒန္တဝဏ္ဏိဿရ သၞာံဂှ် ဂွံအံင်ဇၞးကေတ် တန်ဓမ္မာစရိယ ပြကိုဟ်သဳလက္ခန်၊ သၞာံ ၁၃၆၄ ဂှ် ဂွံအံင်ဇၞးကေတ် ပြကိုဟ်ပါရာဇိကဏ် ကေုာံ ပြကိုဟ်ဓမ္မသင်္ဂဏဳတုဲ ကလိဂွံ တဆိပ်ကြာ သာသနဓဇဓမ္မာစရိယ ရ။
 
 ==အစာလိက်==
 တၠဂုဏ်သဳလာစာရဝွံ ကြဴနူပြကိုဟ်အာစိုပ်ဒတုဲ ကလိဂွံ မဟိမုသာသနဓဇဓမ္မာစရိယတုဲ ပ္ဍဲအခိင်အာယုက် ၂၆-၂၈ ဂှ် ဖျေဟ်လိက် ပ္ဍဲကဵု တိုက်လိက်ပရိယတ္တိမန် ဘာမြာင် ဍုင်မတ်မလီု၊ အကြာအာယုက် ၂၉-၃၂ ပွိုင်ပန်သၞာံ ပံက်တိုက်လိက် ပ္ဍဲကဵု ဘာပရိယတ္တိမန်သန္တိသုခ အရာပ်ကုန်တိဍာဲ၊ ဍုင်မတ်မလီုကီုရ။ ကာလမစိုပ်အာယုက် ၃၃ စပတန် ရာမညဗုဒ္ဓတက္ကသိုလ် ပ္ဍဲအရာပ်ဖျာ၊ ဍုင်မတ်မလီုရ။ 
