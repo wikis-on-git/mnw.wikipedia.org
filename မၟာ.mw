@@ -2,7 +2,89 @@
 
 ၜိုတ်မဂွံတီကေတ်မာန်မ္ဂး သတ်မၟာတမၠာ (proto-reptiles) ဂှ် စကတဵုဒှ်ကၠုင် နူကဵု သၞာံမတုဲကၠုင် ၜိုတ် ၃၁၂ မဳလဳယာန် ပ္ဍဲအခိင်ကာလ ကာဗောန် (Carboniferous period) မဒှ်အခိင် သတ်ဍာ် စချုဲပြံင် တိုန်မံင် လတူဒဵု။ သတ်မၟာကိုပ်ကၠာအိုတ်ဂှ် ညးကော်စ ဨရုမၟာ (eureptile ("true reptile") ဂှ် ဒှ် ဟာဲလဝ်နဝ်မုသ် (''Hylonomus)''  မဒှ် သတ်ဇကုသၟတ် မတုပ်ညံင်သတ်ဂကူဒကုဲမွဲရ။ တင်ဂၞင်ဗဳဇ (genetic data) ကဵု တင်ဂၞင်ဇမြ (fossil data) ပ္တိုန်ထ္ၜးလဝ် ဂကောံမၟာၜါ Archosauromorpha (crocodilians, birds and kin) ကဵု Lepidosauromorpha (lizards and kin) စပါ်တၞဟ်ခြာကၠုင်ဂှ် ဒှ်အခိင် ကာလလအိတ်ပါမဳယာန် (Permian period)။<ref name=":02">{{Cite journal|year=2014|title=The origin and early evolution of Sauria: reassessing the Permian saurian fossil record and the timing of the crocodile-lizard divergence|journal=PLOS ONE|volume=9|issue=2|doi=10.1371/journal.pone.0089165|pmc=3937355|pmid=24586565|bibcode=2014PLoSO...989165E}}</ref> ဂကူတၞဟ်ခြာ နူတြေံဗွဲမဂၠိုင် ကၠေအ်ကၠက်အာ တၟာဂလိုင်ရ။ 
 [[ဝှာင်:Captorhinus_aguti_p.jpg|right|thumb|The first reptiles had an anapsid type of skull roof, as seen in the Permian genus ''Captorhinus'']]
- 
+
+===Phylogeny===
+The [[cladistics#Cladograms|cladogram]] presented here illustrates the "family tree" of reptiles, and follows a simplified version of the relationships found by M.S. Lee, in 2013.<ref name=scaffold2013>{{Cite journal | doi=10.1111/jeb.12268 |doi-access=free | pmid=24256520 | title=Turtle origins: Insights from phylogenetic retrofitting and molecular scaffolds | journal=Journal of Evolutionary Biology | volume=26 | issue=12 | pages=2729–2738 | year=2013 | last1=Lee | first1=M.S.Y.}}</ref> All [[Molecular phylogenetics|genetic]] studies have supported the hypothesis that turtles are diapsids; some have placed turtles within Archosauromorpha,<ref name=scaffold2013/><ref name="Mannen">{{cite journal |authors=Hideyuki Mannena & Steven S.-L. Li |year=1999 |title=Molecular evidence for a clade of turtles |journal=[[Molecular Phylogenetics and Evolution]] |volume=13 |issue=1 |pages=144–148 |doi=10.1006/mpev.1999.0640 |pmid=10508547}}</ref><ref name="Zardoya"/><ref name="Iwabe"/><ref name="Roos"/><ref name="Katsu"/> though a few have recovered turtles as Lepidosauromorpha instead.<ref>{{cite journal |authors=Tyler R. Lyson, Erik A. Sperling, Alysha M. Heimberg, Jacques A. Gauthier, Benjamin L. King & Kevin J. Peterson |year=2012 |title=MicroRNAs support a turtle + lizard clade |journal=[[Biology Letters]] |volume=8 |issue=1 |pages=104–107 |doi=10.1098/rsbl.2011.0477 |doi-access=free |pmid=21775315 |pmc=3259949 }}</ref> The cladogram below used a combination of genetic (molecular) and fossil (morphological) data to obtain its results.<ref name=scaffold2013/>
+
+{{clade| style=font-size:80%;line-height:80%
+|label1=[[Amniote|Amniota]]
+|1={{clade
+   |1=[[Synapsida]] ([[mammal]]s and their extinct relatives) [[File:Varanops brevirostris flipped.jpg|80px]]
+   |label2='''[[Sauropsida|Reptilia]]''' |sublabel2=(total group)
+   |2={{clade
+         |label1={{extinct}}[[Parareptilia]]
+         |1={{clade
+               |1={{extinct}}[[Millerettid]]ae [[File:Milleretta BW flipped.jpg|80px]]
+               |label2=<span style="color:white;">unnamed</span>
+               |2={{clade
+                  |1={{extinct}}''[[Eunotosaurus]]''
+                  |label2={{extinct}}[[Ankyramorpha]]
+                  |2={{clade
+                  |1={{extinct}}[[Lanthanosuchidae]] [[File:Lanthanosuchus NT flipped.jpg|80px]]
+                  |label2={{extinct}}[[Procolophonia]]
+                    |2={{clade
+                        |1={{extinct}}[[Procolophonoidea]] [[File:Sclerosaurus1DB.jpg|80px]]
+                        |2={{extinct}}[[Pareiasauromorpha]] [[File:Scutosaurus BW flipped.jpg|90px]]
+                        }}
+                     }}
+                 }}
+             }}
+      |label2=[[Eureptilia]]
+      |2={{clade
+         |1={{extinct}}[[Captorhinidae]] [[File:Labidosaurus flipped.jpg|80px]]
+         |label2=[[Romeriida]]
+         |2={{clade
+            |1={{extinct}}''[[Paleothyris]]''
+            |label2=[[Diapsid]]a
+            |2={{clade
+               |1={{extinct}}[[Araeoscelidia]] [[File:Spinoaequalis schultzei reconstruction.jpg|80px]]
+               |label2=[[Neodiapsida]]
+               |2={{clade
+               |1={{extinct}}''[[Claudiosaurus]]''[[File:Claudiosaurus white background.jpg|90px]]
+               |2={{clade
+                  |1={{extinct}}[[Younginiformes]] [[File:Hovasaurus BW flipped.jpg|80px]]
+                  |label2='''Crown Reptilia'''/ |sublabel2=[[Sauria]]
+                  |2={{clade
+                     |label1=[[Lepidosauromorpha]]
+                     |1={{clade
+                         |1={{extinct}}[[Kuehneosauridae]] [[File:Icarosaurus white background.jpg|80px]]
+                         |label2=[[Lepidosauria]]
+                         |2={{clade
+                            |1=[[Rhynchocephalia]] ([[tuatara]] and their extinct relatives) [[File:Hatteria white background.jpg|80px]]
+                            |2=[[Squamata]] ([[lizard]]s and [[snake]]s) [[File:Zoology of Egypt (1898) (Varanus griseus).png|80px]] [[File:Python natalensis Smith 1840 white background.jpg|80px]] }} }}
+                     |label2=[[Archosauromorpha]]
+                     |2={{clade
+                        |1={{clade
+                           |1={{extinct}}[[Choristodera]] [[File:Hyphalosaurus mmartyniuk wiki.png|80px]]
+                           |2={{clade
+                              |1={{extinct}}[[Prolacertiformes]] [[File:Prolacerta broomi.jpg|80px]]
+                              |2={{clade
+                                   |2=[[Archosauriformes]] ([[Crocodilia|crocodiles]], [[bird]]s, dinosaurs and extinct relatives) [[File:Description des reptiles nouveaux, ou, Imparfaitement connus de la collection du Muséum d'histoire naturelle et remarques sur la classification et les caractères des reptiles (1852) (Crocodylus moreletii).jpg|80px]] [[File:Meyers grosses Konversations-Lexikon - ein Nachschlagewerk des allgemeinen Wissens (1908) (Antwerpener Breiftaube).jpg|40 px]]
+                                   |1={{clade
+                                      |1={{extinct}}''[[Trilophosaurus]]''[[File:Trilophosaurus buettneri (flipped).jpg|80px]]
+                                      |2={{extinct}}[[Rhynchosauria]] [[File:Hyperodapedon BW2 white background.jpg|80px]] }} }} }} }}
+                        |label2=&nbsp;[[Pantestudines]]&nbsp;
+                        |2={{clade
+                        |1={{extinct}}[[Eosauropterygia]] [[File:Dolichorhynchops BW flipped.jpg|100px]]
+                        |2={{clade
+                          |1={{extinct}}[[Placodontia]] [[File:Psephoderma BW flipped.jpg|80px]]
+                          |2={{clade
+                            |1={{extinct}}''[[Sinosaurosphargis]]''
+                            |2={{clade
+                              |1={{extinct}}''[[Odontochelys]]''
+                              |label2=[[Testudinata]]
+                              |2={{clade
+                                |1={{extinct}}''[[Proganochelys]]''
+                                |2=[[Testudines]] ([[turtle]]s) [[File:Psammobates geometricus 1872 white background.jpg|80px]]
+                        }}
+                     }}
+                  }}
+               }}
+            }}
+         }}
+      }}
+   }}
+}} }} }} }} }} }} }}
 
 == နိဿဲ ==
 
